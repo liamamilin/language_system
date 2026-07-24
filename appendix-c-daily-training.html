@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -41,9 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-95edd58b3b27b9774827898c46d4f452.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -630,8 +630,16 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#场景-2生成关联语言" id="toc-场景-2生成关联语言" class="nav-link" data-scroll-target="#场景-2生成关联语言"><span class="header-section-number">33.5.2</span> 场景 2：生成关联语言</a></li>
   <li><a href="#场景-3跨域连接" id="toc-场景-3跨域连接" class="nav-link" data-scroll-target="#场景-3跨域连接"><span class="header-section-number">33.5.3</span> 场景 3：跨域连接</a></li>
   <li><a href="#场景-4考试" id="toc-场景-4考试" class="nav-link" data-scroll-target="#场景-4考试"><span class="header-section-number">33.5.4</span> 场景 4：考试</a></li>
+  <li><a href="#场景-5生成训练材料" id="toc-场景-5生成训练材料" class="nav-link" data-scroll-target="#场景-5生成训练材料"><span class="header-section-number">33.5.5</span> 场景 5：生成训练材料</a></li>
   </ul></li>
   <li><a href="#评估标准" id="toc-评估标准" class="nav-link" data-scroll-target="#评估标准"><span class="header-section-number">33.6</span> 评估标准</a></li>
+  <li><a href="#进阶训练法" id="toc-进阶训练法" class="nav-link" data-scroll-target="#进阶训练法"><span class="header-section-number">33.7</span> 进阶训练法</a>
+  <ul class="collapse">
+  <li><a href="#逆向训练" id="toc-逆向训练" class="nav-link" data-scroll-target="#逆向训练"><span class="header-section-number">33.7.1</span> 1. 逆向训练</a></li>
+  <li><a href="#关联训练" id="toc-关联训练" class="nav-link" data-scroll-target="#关联训练"><span class="header-section-number">33.7.2</span> 2. 关联训练</a></li>
+  <li><a href="#场景训练" id="toc-场景训练" class="nav-link" data-scroll-target="#场景训练"><span class="header-section-number">33.7.3</span> 3. 场景训练</a></li>
+  <li><a href="#语言调用训练" id="toc-语言调用训练" class="nav-link" data-scroll-target="#语言调用训练"><span class="header-section-number">33.7.4</span> 4. 语言调用训练</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -661,6 +669,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="训练总目标" class="level2" data-number="33.1">
 <h2 data-number="33.1" class="anchored" data-anchor-id="训练总目标"><span class="header-section-number">33.1</span> 训练总目标</h2>
 <p>让 RU 树从”读过的概念”变成”可调用的能力”。阅读本书只是在看地图，训练才是真正走一遍。</p>
+<p>训练的核心原则：<strong>每天 10-15 分钟，比刷社交媒体的时间少得多，但效果是累积的。</strong></p>
 </section>
 <section id="三个阶段" class="level2" data-number="33.2">
 <h2 data-number="33.2" class="anchored" data-anchor-id="三个阶段"><span class="header-section-number">33.2</span> 三个阶段</h2>
@@ -669,6 +678,113 @@ ul.task-list li input[type="checkbox"] {
 <p>每天花 10 分钟做一件事：<strong>给一个日常概念找到 Theme</strong>。</p>
 <p>你在一天中遇到一个概念——可能是”sunk cost”“focus”“teamwork”“deadline”“sleep quality”。不要想太多，只回答：<strong>这属于八大 Theme 中的哪一个？</strong></p>
 <p>Day 1-3：每天 3 个概念 Day 4-7：每天 5 个概念 第二周：每天 5 个概念 + 确认 Theme 归属</p>
+<p><strong>第一周训练材料：</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Day</th>
+<th>概念</th>
+<th>正确 Theme</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>sleep quality</td>
+<td>Body</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>cognitive load</td>
+<td>Mind</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>prompt</td>
+<td>Language</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>deadline</td>
+<td>Work</td>
+</tr>
+<tr class="odd">
+<td>2</td>
+<td>trust</td>
+<td>Relationship</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>career path</td>
+<td>Society</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>AI model</td>
+<td>Technology</td>
+</tr>
+<tr class="even">
+<td>3</td>
+<td>opportunity cost</td>
+<td>Value</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>attention</td>
+<td>Mind</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>stress response</td>
+<td>Body</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>self-narrative</td>
+<td>Mind</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>diagnostic question</td>
+<td>Language</td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>feedback</td>
+<td>Work</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>boundary</td>
+<td>Relationship</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>workflow</td>
+<td>Technology</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>priority</td>
+<td>Value</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>labor market</td>
+<td>Society</td>
+</tr>
+<tr class="even">
+<td>5</td>
+<td>emotional regulation</td>
+<td>Mind</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>physical energy</td>
+<td>Body</td>
+</tr>
+</tbody>
+</table>
 <p>训练目标：八个 Theme 名称变成你的自动分类架。</p>
 </section>
 <section id="第二阶段练-theme-group第-3-4-周" class="level3" data-number="33.2.2">
@@ -678,14 +794,170 @@ ul.task-list li input[type="checkbox"] {
 <li>确定 Theme</li>
 <li>确定 Group</li>
 </ol>
-<p>示例：“sleep debt” → Body → Sleep “cognitive load” → Mind → Cognition “opportunity cost” → Value → Cost</p>
+<p><strong>第二周训练材料：</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>RU</th>
+<th>Theme</th>
+<th>Group</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>sleep debt</td>
+<td>Body</td>
+<td>Sleep</td>
+</tr>
+<tr class="even">
+<td>cognitive bias</td>
+<td>Mind</td>
+<td>Cognition</td>
+</tr>
+<tr class="odd">
+<td>opportunity cost</td>
+<td>Value</td>
+<td>Cost</td>
+</tr>
+<tr class="even">
+<td>focus</td>
+<td>Mind</td>
+<td>Attention</td>
+</tr>
+<tr class="odd">
+<td>prompt</td>
+<td>Language</td>
+<td>Instruction</td>
+</tr>
+<tr class="even">
+<td>teamwork</td>
+<td>Relationship</td>
+<td>Cooperation</td>
+</tr>
+<tr class="odd">
+<td>career path</td>
+<td>Society</td>
+<td>Career</td>
+</tr>
+<tr class="even">
+<td>language model</td>
+<td>Technology</td>
+<td>AI Model</td>
+</tr>
+<tr class="odd">
+<td>emotional intimacy</td>
+<td>Relationship</td>
+<td>Intimacy</td>
+</tr>
+<tr class="even">
+<td>working memory</td>
+<td>Mind</td>
+<td>Memory</td>
+</tr>
+<tr class="odd">
+<td>root problem</td>
+<td>Work</td>
+<td>Problem</td>
+</tr>
+<tr class="even">
+<td>platform rule</td>
+<td>Society</td>
+<td>Rule</td>
+</tr>
+<tr class="odd">
+<td>deliberate practice</td>
+<td>Work</td>
+<td>Practice</td>
+</tr>
+<tr class="even">
+<td>personal narrative</td>
+<td>Language</td>
+<td>Narrative</td>
+</tr>
+<tr class="odd">
+<td>sunk cost</td>
+<td>Value</td>
+<td>Cost</td>
+</tr>
+</tbody>
+</table>
 <p>训练目标：64 个 Group 在你脑中是导航目录，不是纸上的表格。</p>
 </section>
 <section id="第三阶段练-theme-group-container第-5-8-周" class="level3" data-number="33.2.3">
 <h3 data-number="33.2.3" class="anchored" data-anchor-id="第三阶段练-theme-group-container第-5-8-周"><span class="header-section-number">33.2.3</span> 第三阶段：练 Theme → Group → Container（第 5-8 周）</h3>
 <p>每天 5 个 RU，完成完整的三层安置：</p>
 <p>RU → Theme → Group → Container</p>
-<p>示例： “deep work” → Mind → Attention → Focus “backlog” → Work → Task → Task State “trust repair” → Relationship → Trust → Trust Repair</p>
+<p><strong>第三周训练材料：</strong></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>RU</th>
+<th>完整路径</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>deep work</td>
+<td>Mind → Attention → Focus</td>
+</tr>
+<tr class="even">
+<td>sleep quality</td>
+<td>Body → Sleep → Sleep Quality</td>
+</tr>
+<tr class="odd">
+<td>diagnostic question</td>
+<td>Language → Question → Diagnostic Question</td>
+</tr>
+<tr class="even">
+<td>error feedback</td>
+<td>Work → Feedback → Error Feedback</td>
+</tr>
+<tr class="odd">
+<td>trust repair</td>
+<td>Relationship → Trust → Trust Repair</td>
+</tr>
+<tr class="even">
+<td>career path</td>
+<td>Society → Career → Career Path</td>
+</tr>
+<tr class="odd">
+<td>language model</td>
+<td>Technology → AI Model → Language Model</td>
+</tr>
+<tr class="even">
+<td>opportunity cost</td>
+<td>Value → Cost → Opportunity Cost</td>
+</tr>
+<tr class="odd">
+<td>personal boundary</td>
+<td>Relationship → Boundary → Personal Boundary</td>
+</tr>
+<tr class="even">
+<td>cognitive bias</td>
+<td>Mind → Cognition → Cognitive Bias</td>
+</tr>
+<tr class="odd">
+<td>process goal</td>
+<td>Work → Goal → Process Goal</td>
+</tr>
+<tr class="even">
+<td>creator economy</td>
+<td>Society → Platform Ecology → Creator Economy</td>
+</tr>
+<tr class="odd">
+<td>ai workflow</td>
+<td>Technology → Workflow → AI Workflow</td>
+</tr>
+<tr class="even">
+<td>acceptance criteria</td>
+<td>Value → Standard → Acceptance Criteria</td>
+</tr>
+<tr class="odd">
+<td>mental energy</td>
+<td>Body → Energy → Mental Energy</td>
+</tr>
+</tbody>
+</table>
 <p>这个阶段最难，也最关键。Container 是你最终要内化的层级。能快速给任何 RU 找到 Container——哪怕它是你第一次遇到的——你就真正有了 RU 树的调用能力。</p>
 </section>
 </section>
@@ -699,6 +971,22 @@ ul.task-list li input[type="checkbox"] {
 <li>用概念安置卡格式记录</li>
 </ol>
 <p>时间投入：每天 10-15 分钟。比刷社交媒体的时间少得多。</p>
+<p><strong>每日训练笔记模板：</strong></p>
+<pre><code>日期：____
+
+今日 5 个 RU 安置：
+
+1. RU: _____ → ___ → ___ → ___
+2. RU: _____ → ___ → ___ → ___
+3. RU: _____ → ___ → ___ → ___
+4. RU: _____ → ___ → ___ → ___
+5. RU: _____ → ___ → ___ → ___
+
+今日发现的新连接：
+- _____ ↔ _____
+
+今日疑问：
+- _____</code></pre>
 </section>
 <section id="每周一次主树审查" class="level2" data-number="33.4">
 <h2 data-number="33.4" class="anchored" data-anchor-id="每周一次主树审查"><span class="header-section-number">33.4</span> 每周一次主树审查</h2>
@@ -710,6 +998,27 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>合并</strong>：两个 RU 是不是同一个概念的不同名字？合并。</li>
 <li><strong>连接</strong>：发现了什么新的 RU 间连接？记录关联位置。</li>
 </ol>
+<p><strong>每周审查模板：</strong></p>
+<pre><code>周次：第 ___ 周
+
+新增 RU（本周新进入主树的）：
+1. _____ → ___ → ___ → ___
+2. _____ → ___ → ___ → ___
+
+需要调整的 RU：
+- _____ 从 ___ → ___ → ___ 调整到 ___ → ___ → ___
+  原因：_____
+
+移出到外部知识的 RU：
+- _____ 原因：_____
+
+新发现的连接：
+- _____ ↔ _____
+
+本周训练总结：
+- 最容易安置的 Theme：_____
+- 最难安置的 Theme：_____
+- 下周重点练习：_____</code></pre>
 </section>
 <section id="如何用大模型辅助训练" class="level2" data-number="33.5">
 <h2 data-number="33.5" class="anchored" data-anchor-id="如何用大模型辅助训练"><span class="header-section-number">33.5</span> 如何用大模型辅助训练</h2>
@@ -734,6 +1043,11 @@ ul.task-list li input[type="checkbox"] {
 <pre><code>请随机给我一个 RU（日常高频概念），我来给它找位置。
 我先给出我的安置，然后你来评估。</code></pre>
 </section>
+<section id="场景-5生成训练材料" class="level3" data-number="33.5.5">
+<h3 data-number="33.5.5" class="anchored" data-anchor-id="场景-5生成训练材料"><span class="header-section-number">33.5.5</span> 场景 5：生成训练材料</h3>
+<pre><code>请给我生成 10 个日常高频 RU，用于 Theme → Group → Container 的三层安置训练。
+先给我 RU 列表，我完成后再给我答案。</code></pre>
+</section>
 </section>
 <section id="评估标准" class="level2" data-number="33.6">
 <h2 data-number="33.6" class="anchored" data-anchor-id="评估标准"><span class="header-section-number">33.6</span> 评估标准</h2>
@@ -745,8 +1059,28 @@ ul.task-list li input[type="checkbox"] {
 <li>给你一个 RU，你能否在 30 秒内确定它的 Container？</li>
 </ul>
 <p>如果你卡住了，回到对应的阶段继续训练。这本书的训练系统是渐进的，跳过任何阶段都会导致后面不稳。</p>
+</section>
+<section id="进阶训练法" class="level2" data-number="33.7">
+<h2 data-number="33.7" class="anchored" data-anchor-id="进阶训练法"><span class="header-section-number">33.7</span> 进阶训练法</h2>
+<p>完成三个阶段后，可以尝试以下进阶训练：</p>
+<section id="逆向训练" class="level3" data-number="33.7.1">
+<h3 data-number="33.7.1" class="anchored" data-anchor-id="逆向训练"><span class="header-section-number">33.7.1</span> 1. 逆向训练</h3>
+<p>给你一个位置（如 Mind → Attention → Focus），说出这个位置下已知的 RU。用来测试你对容器的掌握。</p>
+</section>
+<section id="关联训练" class="level3" data-number="33.7.2">
+<h3 data-number="33.7.2" class="anchored" data-anchor-id="关联训练"><span class="header-section-number">33.7.2</span> 2. 关联训练</h3>
+<p>选一个 RU（如 feedback），说出它的主位置外还能想到的所有关联位置。</p>
+</section>
+<section id="场景训练" class="level3" data-number="33.7.3">
+<h3 data-number="33.7.3" class="anchored" data-anchor-id="场景训练"><span class="header-section-number">33.7.3</span> 3. 场景训练</h3>
+<p>给定一个真实场景（如”项目延期”），用 RU 树分析涉及的多个 Theme 和 Container。</p>
+</section>
+<section id="语言调用训练" class="level3" data-number="33.7.4">
+<h3 data-number="33.7.4" class="anchored" data-anchor-id="语言调用训练"><span class="header-section-number">33.7.4</span> 4. 语言调用训练</h3>
+<p>每天用 3 个 RU 造句，确保能在日常对话中自然使用。</p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
