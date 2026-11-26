@@ -37,6 +37,8 @@ def check_quarto_config() -> None:
             fail(f"_quarto.yml missing key: {key}")
         elif not (ROOT / m.group(1)).exists():
             fail(f"_quarto.yml {key} points to missing file: {m.group(1)}")
+    if "assets/cover.svg" in (ROOT / "index.qmd").read_text(encoding="utf-8"):
+        fail("index.qmd must not manually embed assets/cover.svg because _quarto.yml cover-image already renders it.")
     if "assets/toys/**" not in cfg:
         fail("_quarto.yml must declare 'assets/toys/**' under project.resources so Quarto copies interactive JS to _book/")
 

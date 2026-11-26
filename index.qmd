@@ -6,10 +6,6 @@ description: "A practical book about concept placement: how to build a personal 
 lang: en
 ---
 
-::: {.content-visible when-format="html"}
-<img src="assets/cover.svg" alt="Concepts Need a Place — Book Cover" class="book-cover-hero" />
-:::
-
 This is a book about **concept placement（概念安置）**.
 
 Every day you meet concepts: attention, cognitive load, opportunity cost, feedback, boundary, trust, workflow, risk, meaning. You may recognize the words, but recognition is not use. A concept becomes useful only when it has a place: where it belongs, what it is near, what it is not, and what kind of sentence it helps you say.
