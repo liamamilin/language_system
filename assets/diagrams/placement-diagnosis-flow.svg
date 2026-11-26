@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 350" width="920" height="350" role="img" aria-label="Concept Placement and Conceptual Diagnosis Workflow">
+  <rect width="920" height="350" rx="14" fill="#ffffff"/>
+  <text x="460" y="36" text-anchor="middle" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'PingFang SC', sans-serif" font-size="19" font-weight="700">Dual Operational Loops: Placement &amp; Diagnosis（概念安置与问题诊断双循环）</text>
+
+  <defs>
+    <marker id="arrG" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0d9488"/>
+    </marker>
+    <marker id="arrV" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#7c3aed"/>
+    </marker>
+  </defs>
+
+  <!-- Row 1: Placing a New Concept (6 steps) -->
+  <rect x="24" y="60" width="872" height="122" rx="12" fill="#f0fdfa" stroke="#0d9488" stroke-width="1.6"/>
+  <text x="44" y="84" fill="#0f766e" font-family="-apple-system, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.8">CH 13 · PLACING A NEW CONCEPT（安置新概念六步法）</text>
+
+  <g font-family="-apple-system, sans-serif" text-anchor="middle">
+    <rect x="40" y="98" width="122" height="68" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="101" y="120" fill="#0d9488" font-size="11" font-weight="700">STEP 1</text>
+    <text x="101" y="138" fill="#0f172a" font-size="12" font-weight="700">Hear Domain</text>
+    <text x="101" y="154" fill="#64748b" font-size="11">Pick Theme</text>
+
+    <line x1="162" y1="132" x2="180" y2="132" stroke="#0d9488" stroke-width="1.8" marker-end="url(#arrG)"/>
+
+    <rect x="184" y="98" width="122" height="68" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="245" y="120" fill="#0d9488" font-size="11" font-weight="700">STEP 2</text>
+    <text x="245" y="138" fill="#0f172a" font-size="12" font-weight="700">Locate Group</text>
+    <text x="245" y="154" fill="#64748b" font-size="11">First family</text>
+
+    <line x1="306" y1="132" x2="324" y2="132" stroke="#0d9488" stroke-width="1.8" marker-end="url(#arrG)"/>
+
+    <rect x="328" y="98" width="122" height="68" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="389" y="120" fill="#0d9488" font-size="11" font-weight="700">STEP 3</text>
+    <text x="389" y="138" fill="#0f172a" font-size="12" font-weight="700">Pick Container</text>
+    <text x="389" y="154" fill="#64748b" font-size="11">Actionable unit</text>
+
+    <line x1="450" y1="132" x2="468" y2="132" stroke="#0d9488" stroke-width="1.8" marker-end="url(#arrG)"/>
+
+    <rect x="472" y="98" width="122" height="68" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="533" y="120" fill="#0d9488" font-size="11" font-weight="700">STEP 4</text>
+    <text x="533" y="138" fill="#0f172a" font-size="12" font-weight="700">Add Links</text>
+    <text x="533" y="154" fill="#64748b" font-size="11">Associated pos.</text>
+
+    <line x1="594" y1="132" x2="612" y2="132" stroke="#0d9488" stroke-width="1.8" marker-end="url(#arrG)"/>
+
+    <rect x="616" y="98" width="122" height="68" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="677" y="120" fill="#0d9488" font-size="11" font-weight="700">STEP 5</text>
+    <text x="677" y="138" fill="#0f172a" font-size="12" font-weight="700">Write Card</text>
+    <text x="677" y="154" fill="#64748b" font-size="11">Record traps</text>
+
+    <line x1="738" y1="132" x2="756" y2="132" stroke="#0d9488" stroke-width="1.8" marker-end="url(#arrG)"/>
+
+    <rect x="760" y="98" width="122" height="68" rx="8" fill="#ffffff" stroke="#5eead4"/>
+    <text x="821" y="120" fill="#0d9488" font-size="11" font-weight="700">STEP 6</text>
+    <text x="821" y="138" fill="#0f172a" font-size="12" font-weight="700">Sentence Test</text>
+    <text x="821" y="154" fill="#64748b" font-size="11">Callable use</text>
+  </g>
+
+  <!-- Row 2: Diagnosing a Messy Problem (5 steps) -->
+  <rect x="24" y="204" width="872" height="124" rx="12" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1.6"/>
+  <text x="44" y="228" fill="#6d28d9" font-family="-apple-system, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.8">CH 14 · CONCEPTUAL DIAGNOSIS（问题诊断五步法）</text>
+
+  <g font-family="-apple-system, sans-serif" text-anchor="middle">
+    <rect x="40" y="242" width="148" height="68" rx="8" fill="#ffffff" stroke="#c4b5fd"/>
+    <text x="114" y="264" fill="#7c3aed" font-size="11" font-weight="700">STEP 1</text>
+    <text x="114" y="282" fill="#0f172a" font-size="12.5" font-weight="700">Raw Problem</text>
+    <text x="114" y="298" fill="#64748b" font-size="11">Keep lived wording</text>
+
+    <line x1="188" y1="276" x2="210" y2="276" stroke="#7c3aed" stroke-width="1.8" marker-end="url(#arrV)"/>
+
+    <rect x="214" y="242" width="148" height="68" rx="8" fill="#ffffff" stroke="#c4b5fd"/>
+    <text x="288" y="264" fill="#7c3aed" font-size="11" font-weight="700">STEP 2</text>
+    <text x="288" y="282" fill="#0f172a" font-size="12.5" font-weight="700">First Domain</text>
+    <text x="288" y="298" fill="#64748b" font-size="11">Which Theme first?</text>
+
+    <line x1="362" y1="276" x2="384" y2="276" stroke="#7c3aed" stroke-width="1.8" marker-end="url(#arrV)"/>
+
+    <rect x="388" y="242" width="148" height="68" rx="8" fill="#ffffff" stroke="#c4b5fd"/>
+    <text x="462" y="264" fill="#7c3aed" font-size="11" font-weight="700">STEP 3</text>
+    <text x="462" y="282" fill="#0f172a" font-size="12.5" font-weight="700">Split 3 Layers</text>
+    <text x="462" y="298" fill="#64748b" font-size="11">Symptom/Struct/Judge</text>
+
+    <line x1="536" y1="276" x2="558" y2="276" stroke="#7c3aed" stroke-width="1.8" marker-end="url(#arrV)"/>
+
+    <rect x="562" y="242" width="148" height="68" rx="8" fill="#ffffff" stroke="#c4b5fd"/>
+    <text x="636" y="264" fill="#7c3aed" font-size="11" font-weight="700">STEP 4</text>
+    <text x="636" y="282" fill="#0f172a" font-size="12.5" font-weight="700">Causal Chain</text>
+    <text x="636" y="298" fill="#64748b" font-size="11">Trace misplacement</text>
+
+    <line x1="710" y1="276" x2="732" y2="276" stroke="#7c3aed" stroke-width="1.8" marker-end="url(#arrV)"/>
+
+    <rect x="736" y="242" width="146" height="68" rx="8" fill="#ffffff" stroke="#c4b5fd"/>
+    <text x="809" y="264" fill="#7c3aed" font-size="11" font-weight="700">STEP 5</text>
+    <text x="809" y="282" fill="#0f172a" font-size="12.5" font-weight="700">First Move</text>
+    <text x="809" y="298" fill="#64748b" font-size="11">Match intervention</text>
+  </g>
+</svg>

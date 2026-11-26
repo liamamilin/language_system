@@ -1,0 +1,397 @@
+---
+title: "Value Toolbox（价值工具箱）"
+---
+
+## Opening Problem
+
+Why is it so hard to decide what matters?
+
+Value is the domain that judges importance, benefit, cost, risk, purpose, standards, ethics, and meaning. Without Value, action becomes busy but directionless. With unclear Value, everything becomes urgent, attractive, scary, or morally confusing at the same time.
+
+Value does not only ask, “What do I like?” It asks, “What should count, compared with what, under which standard, for what purpose, at what cost, and with what risk?”
+
+::: {.callout-note title="Scope & Boundary"}
+Value in this book is not a complete moral philosophy. It is a practical language for judgment（判断）. It helps the reader stop mixing up price, meaning, usefulness, status, pleasure, ethics, and priority.
+:::
+
+## Domain Language
+
+Value talks about the world through these questions:
+
+- **Importance**: What matters more?
+- **Benefit**: What good may come from this?
+- **Cost**: What must be spent, lost, delayed, or sacrificed?
+- **Risk**: What could go wrong?
+- **Purpose**: What is this for?
+- **Standard**: What counts as good enough?
+- **Ethics**: What should not be done, even if it works?
+- **Meaning**: Why does this matter inside a life story?
+
+The key shift: do not ask only “Is this good?” Ask, “Good according to which value container?”
+
+## Group Map
+
+Value has eight Groups:
+
+1. **Importance（重要性）**: priority, trade-off, critical factor.
+2. **Benefit（收益）**: gain, return, improvement, network effect.
+3. **Cost（成本）**: time, attention, money, opportunity, sunk cost.
+4. **Risk（风险）**: uncertainty, failure, harm, downside.
+5. **Purpose（目的）**: reason for action and direction.
+6. **Standard（标准）**: criteria for judgment.
+7. **Ethics（伦理）**: responsibility, fairness, integrity, harm limits.
+8. **Meaning（意义）**: narrative significance and life-level resonance（人生层面的回响）.
+
+| Group | What It Names |
+|---|---|
+| **Importance（重要性）** | priority, trade-off, critical factor. |
+| **Benefit（收益）** | gain, return, improvement, network effect. |
+| **Cost（成本）** | time, attention, money, opportunity, sunk cost. |
+| **Risk（风险）** | uncertainty, failure, harm, downside. |
+| **Purpose（目的）** | reason for action and direction. |
+| **Standard（标准）** | criteria for judgment. |
+| **Ethics（伦理）** | responsibility, fairness, integrity, harm limits. |
+| **Meaning（意义）** | narrative significance and life-level resonance（人生层面的回响）. |
+
+## Core Containers
+
+### Importance
+
+Importance is the language of attention under limits. It asks what should matter more when time, energy, money, care, and action cannot cover everything.
+
+Importance is not the same as urgency. Urgency is a pressure signal; importance is a judgment about consequence, purpose, and priority.
+
+#### Priority（优先级）
+
+**Primary position:** Value → Importance → Priority
+
+**Priority（优先级）** names what should receive earlier or greater attention under limited resources.
+
+**Common misreading:** treating priority as emotion intensity. The loudest thing is not always the most important.
+
+**Use sentence:** “This feels urgent, but priority depends on consequence and purpose.”
+
+#### Trade-off Decision（取舍决策）
+
+**Primary position:** Value → Importance → Trade-off Decision
+
+**Trade-off Decision（取舍决策）** chooses between valuable options that cannot all be maximized.
+
+**Common misplacement:** treating trade-off as failure. A trade-off is often the normal form of real choice.
+
+**Use sentence:** “This is not about finding a perfect option; it is a trade-off decision.”
+
+#### Critical Factor（关键因素）
+
+**Primary position:** Value → Importance → Critical Factor
+
+**Critical Factor（关键因素）** is the variable that most strongly changes the outcome.
+
+**Common misreading:** optimizing many minor factors while ignoring the critical factor.
+
+**Use sentence:** “Before improving everything, we need to identify the critical factor.”
+
+### Benefit
+
+Benefit is the language of positive return. It asks what good may be gained, for whom, over what time scale, and whether the gain remains after the action ends.
+
+Benefit language helps the reader avoid measuring value only by immediate pleasure or visible output.
+
+#### Skill Gain（能力收益）
+
+**Primary position:** Value → Benefit → Skill Gain
+
+**Skill Gain（能力收益）** is improvement in ability that remains after the task ends.
+
+**Common misplacement:** measuring only visible output and missing skill gain.
+
+**Use sentence:** “Even if the result is small, the skill gain may be large.”
+
+#### Network Effect（网络效应）
+
+**Primary position:** Value → Benefit → Network Effect
+
+**Network Effect（网络效应）** is value that increases when more participants, connections, or compatible uses join.
+
+**Common misreading:** treating all growth as network effect.
+
+**Use sentence:** “This becomes more valuable only if each new participant increases value for others.”
+
+#### Compound Return（复利回报）
+
+**Primary position:** Value → Benefit → Compound Return
+
+**Compound Return（复利回报）** is benefit that accumulates and builds on itself over time.
+
+**Common misplacement:** expecting compound return from irregular action.
+
+**Use sentence:** “The return compounds only if the behavior repeats and reinvests.”
+
+### Cost
+
+Cost is the language of what must be spent, lost, delayed, absorbed, or sacrificed. It asks what the action consumes beyond the visible price.
+
+Cost language protects against false cheapness（虚假的便宜）. Something can be free in money but expensive in time, attention, recovery, or opportunity.
+
+#### Opportunity Cost（机会成本）
+
+**Primary position:** Value → Cost → Opportunity Cost
+
+**Opportunity Cost（机会成本）** is the value of what cannot be chosen because another choice is made.
+
+**Common misreading:** counting only money and ignoring time, attention, and alternative paths.
+
+**Use sentence:** “The real cost includes the opportunity I cannot pursue.”
+
+#### Sunk Cost（沉没成本）
+
+**Primary position:** Value → Cost → Sunk Cost
+
+**Sunk Cost（沉没成本）** is cost already spent and not recoverable.
+
+**Common misplacement:** using sunk cost as a reason to continue.
+
+**Use sentence:** “The past cost explains why this feels hard to stop, but it should not decide the next move.”
+
+#### Time Cost（时间成本）
+
+**Primary position:** Value → Cost → Time Cost
+
+**Time Cost（时间成本）** is the time consumed by action, maintenance, waiting, switching, or recovery.
+
+**Common misreading:** counting only execution time.
+
+**Use sentence:** “The time cost includes setup, context switching, and recovery.”
+
+### Risk
+
+Risk is the language of possible downside. It asks what could fail, how likely it is, how serious it would be, and whether the assessment itself may be wrong.
+
+Risk should not be confused with fear. Fear is an inner signal; risk is a structured judgment about uncertainty and consequence.
+
+#### Failure Risk（失败风险）
+
+**Primary position:** Value → Risk → Failure Risk
+
+**Failure Risk（失败风险）** is the possibility that the intended result will not happen.
+
+**Common misplacement:** treating failure risk as shame. It is a decision variable, not a verdict on identity.
+
+**Use sentence:** “Failure risk should change the plan, not erase the attempt.”
+
+#### Assessment Risk（评估风险）
+
+**Primary position:** Value → Risk → Assessment Risk
+
+**Assessment Risk（评估风险）** is the risk of judging incorrectly because the evidence, model, metric, or interpretation is weak.
+
+**Common misreading:** focusing on outcome risk while ignoring judgment risk.
+
+**Use sentence:** “The main risk is that our assessment may be wrong.”
+
+#### Uncertainty（不确定性）
+
+**Primary position:** Value → Risk → Uncertainty
+
+**Uncertainty（不确定性）** is not knowing which outcome will occur or what conditions fully apply.
+
+**Common misplacement:** treating uncertainty as danger. Some uncertainty is exploratory space.
+
+**Use sentence:** “Uncertainty means we need probes, not immediate certainty.”
+
+### Purpose
+
+Purpose is the language of direction. It asks what an action is for, what it serves, and whether the current move still belongs to that direction.
+
+Purpose language prevents useful activity from becoming directionless activity. A thing can be impressive and still not serve the right purpose.
+
+#### Personal Purpose（个人目的）
+
+**Primary position:** Value → Purpose → Personal Purpose
+
+**Personal Purpose（个人目的）** names the reason an action matters to a person’s own life direction.
+
+**Common misreading:** confusing purpose with public prestige.
+
+**Use sentence:** “This looks impressive, but does it serve my personal purpose?”
+
+#### Goal Alignment（目标对齐）
+
+**Primary position:** Value → Purpose → Goal Alignment
+
+**Goal Alignment（目标对齐）** checks whether actions, projects, tools, and relationships support the stated goal.
+
+**Common misplacement:** keeping activities because they are good in general, even when they are not aligned.
+
+**Use sentence:** “This is useful, but not aligned with the current goal.”
+
+#### Legacy（遗产）
+
+**Primary position:** Value → Purpose → Legacy
+
+**Legacy（遗产）** names what remains, influences, or is passed on after direct action ends.
+
+**Common misreading:** treating legacy as fame only.
+
+**Use sentence:** “Legacy can be a method, habit, structure, care, or standard that continues.”
+
+### Standard
+
+Standard is the language of evaluation. It asks what counts as good enough, complete, accurate, fair, beautiful, safe, or acceptable in this domain.
+
+Standard language matters because many conflicts are not about effort, but about which standard is being applied.
+
+#### Acceptance Criteria（验收标准）
+
+**Primary position:** Value → Standard → Acceptance Criteria
+
+**Acceptance Criteria（验收标准）** defines what must be true for work to count as complete or acceptable.
+
+**Common misplacement:** judging completion by fatigue or effort.
+
+**Use sentence:** “We need acceptance criteria, not just a feeling that we worked hard.”
+
+#### Benchmark（基准）
+
+**Primary position:** Value → Standard → Benchmark
+
+**Benchmark（基准）** is a reference point for comparison.
+
+**Common misreading:** treating a benchmark as destiny or worth.
+
+**Use sentence:** “The benchmark helps comparison; it does not define my value.”
+
+#### Quality Standard（质量标准）
+
+**Primary position:** Value → Standard → Quality Standard
+
+**Quality Standard（质量标准）** defines what good work means in a domain.
+
+**Common misplacement:** importing the wrong domain’s standard.
+
+**Use sentence:** “This needs the standard of clarity, not the standard of performance art.”
+
+### Ethics
+
+Ethics is the language of what should govern action even when an action is effective. It asks what harms, responsibilities, rights, fairness, and integrity must be considered.
+
+Ethics prevents effectiveness from becoming the only standard. What works may still be wrong, exploitative, dishonest, or careless.
+
+#### Responsibility（责任）
+
+**Primary position:** Value → Ethics → Responsibility
+
+**Responsibility（责任）** names what a person or system should answer for.
+
+**Common misreading:** confusing responsibility with total control. A person can be responsible for a domain without controlling everything inside it.
+
+**Use sentence:** “My responsibility is to respond well within my actual scope.”
+
+#### Fairness（公平）
+
+**Primary position:** Value → Ethics → Fairness
+
+**Fairness（公平）** concerns distribution, access, process, recognition, and treatment.
+
+**Common misplacement:** treating sameness as fairness.
+
+**Use sentence:** “Fairness may require equal rules, adjusted access, or transparent process depending on the case.”
+
+#### Integrity（诚信）
+
+**Primary position:** Value → Ethics → Integrity
+
+**Integrity（诚信）** means alignment between claim, action, standard, and evidence.
+
+**Common misreading:** reducing integrity to politeness.
+
+**Use sentence:** “Integrity requires that the claim and the evidence match.”
+
+### Meaning
+
+Meaning is the language of significance inside a life, project, relationship, or story. It asks why something matters beyond price, output, status, or immediate usefulness.
+
+Meaning language protects quiet importance（安静的重要性）. Some things matter deeply even when they are small, private, or hard to measure.
+
+#### Personal Meaning（个人意义）
+
+**Primary position:** Value → Meaning → Personal Meaning
+
+**Personal Meaning（个人意义）** is significance felt within a person’s own story.
+
+**Common misplacement:** demanding that personal meaning be objectively impressive.
+
+**Use sentence:** “This matters because of my life story, even if it is not externally grand.”
+
+#### Purpose Alignment（目的一致）
+
+**Primary position:** Value → Meaning → Purpose Alignment
+
+**Purpose Alignment（目的一致）** checks whether daily action stays connected to deeper purpose.
+
+**Common misreading:** expecting perfect alignment every day.
+
+**Use sentence:** “Alignment is maintained through correction, not perfection.”
+
+#### Narrative Significance（叙事意义）
+
+**Primary position:** Value → Meaning → Narrative Significance
+
+**Narrative Significance（叙事意义）** is the meaning an event has because of where it sits in a life, project, relationship, or historical arc.
+
+**Common misplacement:** judging an event only by immediate utility.
+
+**Use sentence:** “This moment matters because of its narrative position, not only its practical output.”
+
+## Misplacement Patterns
+
+| Often Confused / Misplaced As | Distinct Reality / Better Placement | Why It Matters |
+|---|---|---|
+| Price | Value | treating market price as total worth. |
+| Urgency | Importance | letting pressure define priority. |
+| Effort | Quality | judging by how hard it felt. |
+| Sunk cost | Reason to continue | letting past cost govern future choice. |
+| Pleasure | Purpose | confusing momentary attraction with life direction. |
+| Effectiveness | Ethics | assuming what works is therefore acceptable. |
+| Meaning | External recognition | demanding public proof for private significance. |
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch12-opportunity-cost-calc"></div>
+:::
+
+## Causal Chain
+
+A value problem often follows this chain:
+
+1. Several value containers are active at once.
+2. The person uses one vague word: “good,” “worth it,” “important,” “right.”
+3. Different criteria compete invisibly.
+4. The decision feels impossible.
+5. The person chooses by pressure, fear, habit, or status.
+
+Better chain:
+
+1. Name the active value containers.
+2. Separate importance, benefit, cost, risk, purpose, standard, ethics, and meaning.
+3. Decide which container governs the decision.
+4. Make the trade-off explicit.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch12-value-standard-matrix"></div>
+:::
+
+## Placement Practice
+
+| Case / Statement | Suggested Placement |
+|---|---|
+| “This pays well, so it must be valuable.” | Benefit + Market Price, not total Value. |
+| “I worked so hard, so it should be good.” | Cost → Time Cost, not Quality Standard. |
+| “I already spent two years on this.” | Cost → Sunk Cost. |
+| “This works, but it feels wrong.” | Ethics → Integrity or Fairness. |
+| “This small habit matters to me.” | Meaning → Personal Meaning + Compound Return. |
+
+## Chapter Output
+
+Value gives judgment a structure. The useful question is:
+
+> Which value container is deciding this, and what trade-off am I actually making?

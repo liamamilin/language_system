@@ -1,0 +1,95 @@
+---
+title: "第 26 章：Value 总览（Value Overview）"
+---
+
+## 本章要解决的问题
+
+前面的七个 Theme 覆盖了你做什么（Work）、怎么想（Mind）、怎么表达（Language）、和谁在一起（Relationship）、在什么结构中（Society）、用什么工具（Technology）以及身体状态如何（Body）。
+
+但这只是"描述"。还有一个更基本的问题：**你凭什么判断什么重要、什么值得、什么对、什么有意义？**
+
+这是 Value Theme 的工作。它是全局调节器——在所有 Theme 中都需要价值判断。但因为它太抽象，很多人放弃了系统化理解它，只用"我觉得"三个字覆盖所有价值判断。
+
+一个具体场景：你面临一个选择——接受一份高薪但高压的工作，还是留在当前薪水较低但更平衡的岗位。你的第一反应可能是"我觉得应该选高薪的"或"我觉得应该选平衡的"。但通过 Value 树，你可以更精确地分析：
+
+- 是 Benefit 问题？（高薪的显性收益 vs 低压力的隐性收益 → Explicit Benefit vs Implicit Benefit）
+- 是 Cost 问题？（高压消耗多少精力和时间 → Energy Cost + Time Cost）
+- 是 Risk 问题？（高薪工作的失败风险 vs 当前岗位的稳定性 → Failure Risk）
+- 是 Purpose 问题？（哪个选择更符合你的长期目的 → Personal Purpose）
+- 是 Meaning 问题？（哪个选择让你觉得更有意义 → Personal Meaning）
+
+分析越精确，决策越有效。"我觉得"不是一个有用的判断框架。"高薪的 Benefit 被 Energy Cost 抵消，而当前岗位的 Long-term Benefit（健康、学习时间）被低估了"是一个有用的判断。
+
+## Value 是什么
+
+Value 覆盖你如何判断重要性、收益、成本、风险、目的和意义。
+
+Value 的服务增益：
+
+- **判断更准确**：你知道一个选择真正的好坏，而不仅仅是"感觉好"
+- **行动更有效**：优先级更清晰——你知道什么应该先做、什么不做
+- **状态更稳定**：当你有清晰的价值判断系统时，你不再被每个决策消耗情绪
+- **长期能力边界更大**：价值判断能力是可训练的——你的决策质量会随时间提升
+
+## Value 的 8 个 Group
+
+| Group | 中文 | 覆盖什么 |
+|-------|------|----------|
+| Importance | 重要性 | 优先级、关键性、紧急 vs 重要 |
+| Benefit | 收益 | 显性收益、隐性收益、长期收益 |
+| Cost | 成本 | 时间成本、机会成本、沉没成本 |
+| Risk | 风险 | 失败风险、不确定性、风险管理 |
+| Purpose | 目的 | 目标的价值基础、为什么做 |
+| Standard | 标准 | 质量、验收标准、底线 |
+| Ethics | 伦理 | 对错、责任、公正、价值观冲突 |
+| Meaning | 意义 | 个人意义、存在价值、满足感 |
+
+## Value 的调节角色
+
+Value 不是独立的。它像一个调节器，作用于所有其他 Theme：
+
+- **Value → Body**：你认为健康重不重要（Importance）？你愿意花多少时间运动（Cost）？你接受什么健康风险（Risk）？
+- **Value → Mind**：你判断学习新技能的价值（Benefit）？你接受什么风险去尝试新事物（Risk）？你用什么标准衡量自己的进步（Standard）？
+- **Value → Language**：你认为什么值得被讨论（Importance）？什么不值得（Standard）？你的表达背后的目的是什么（Purpose）？
+- **Value → Work**：你的目标背后的目的（Purpose）？你接受什么质量标准（Standard）？你如何评估项目的收益和风险（Benefit vs Risk）？
+- **Value → Relationship**：什么关系值得维持（Importance）？你的边界底线在哪（Ethics）？你在关系中追求什么（Purpose）？
+- **Value → Society**：你选择什么职业路径（Benefit vs Cost）？你接受什么市场规则（Ethics）？你的职业对你意味着什么（Meaning）？
+- **Value → Technology**：你愿不愿意用新技术（Risk vs Benefit）？你用什么标准选择工具（Standard）？技术对你的生活意味着什么（Meaning）？
+
+这个调节角色是 Value 最独特的特征——它不独立存在，而是渗透在所有 Theme 的决策中。
+
+## Value 的运行模型
+
+Value 的运行可以理解为三个层次：
+
+**第一层：Importance + Benefit + Cost（重要性 + 收益 + 成本）**——这是最基础的判断层。你面对一个选择时，首先判断它重不重要、能得到什么、需要付出什么。这是日常决策的主要框架。
+
+**第二层：Risk + Purpose + Standard（风险 + 目的 + 标准）**——这是更深层的判断层。你不仅看收益和成本，还看不确定性、行为的目的和可接受的标准。这是复杂决策的框架。
+
+**第三层：Ethics + Meaning（伦理 + 意义）**——这是最深层的判断层。你不仅看得失，还看对错和意义。这是人生方向性决策的框架。
+
+这个模型帮助你理解：大多数人的决策停留在第一层（重要吗？划算吗？），少数人进入第二层（风险是什么？目的是什么？标准是什么？），极少数人到达第三层（这对吗？这有意义吗？）。你的目标不是每次都走到第三层——那会导致决策瘫痪——而是知道什么时候需要走到哪一层。
+
+## Value 的语言调用
+
+Value 的 RU 调用帮助主体打开"我觉得"这个黑箱。
+
+"The benefit does not justify the cost"——你不再说"我觉得不划算"，而是精确比较收益和成本。
+"The risk is too high for this stage"——你不再说"我觉得不太安全"，而是基于风险水平做判断。
+"We need a clearer standard"——你不再说"我觉得做得不够好"，而是指出需要明确标准。
+
+这些表达把模糊的价值判断转化为可讨论的结构化判断。
+
+## 本章产物
+
+Value 树索引卡片：
+
+```
+Theme: Value 价值判断单位
+Group: Importance / Benefit / Cost / Risk / Purpose / Standard / Ethics / Meaning
+服务增益: 判断 / 行动 / 状态 / 长期能力
+```
+
+## 小结
+
+Value 是全局调节器——在所有 Theme 中都涉及价值判断。接下来的两章深入每个 Group 和 Container。

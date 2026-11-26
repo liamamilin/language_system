@@ -1,0 +1,144 @@
+---
+title: "Referable Unit（可指称单位）"
+---
+
+## Opening Problem
+
+What exactly is being placed in the tree?
+
+The RU Tree does not place every word. It places units that can be referred to, discussed, classified, connected, and used. These units are called **RU: Referable Unit（可指称单位）**.
+
+An RU is anything that can be treated as "one thing" in thought or language.
+
+Examples:
+
+- sleep debt（睡眠负债）
+- attention control（注意力控制）
+- diagnostic question（诊断性问题）
+- feedback loop（反馈回路）
+- personal boundary（个人边界）
+- labor market（劳动力市场）
+- language model（语言模型）
+- opportunity cost（机会成本）
+
+## Definition
+
+An RU is a semantic unit（语义单位） that can be:
+
+- named;
+- placed;
+- distinguished from nearby concepts;
+- connected to associated positions;
+- used in a sentence or action.
+
+An RU is not always a noun. It may look like a phrase, process, role, pattern, or judgment. The question is not grammar. The question is referability（可指称性）.
+
+## Five Tests
+
+### 1. Can It Be Pointed To?
+
+The reader should be able to say, "This is the thing I am talking about."
+
+Weak: "better."
+
+Stronger: "quality standard（质量标准）."
+
+### 2. Can It Be Classified?
+
+The unit should be placeable inside a Theme, Group, and Container.
+
+Example: "quality standard" belongs first to Value → Standard.
+
+### 3. Can It Hold Examples?
+
+A good RU often gathers repeated cases.
+
+Example: "boundary" can hold time boundary, emotional boundary, body boundary, information boundary, and responsibility boundary.
+
+### 4. Can It Connect?
+
+An RU should connect to other positions.
+
+Example: "prompt" belongs first to Language, but connects to Technology, Work, and Value.
+
+### 5. Does It Serve Subject Gain?
+
+If the unit does not help understanding, judgment, action, regulation, expression, creation, or growth, it may not need stable placement.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch02-ru-five-tests"></div>
+:::
+
+## RU Is Not the Same as Vocabulary
+
+Vocabulary is a word list. RU is a placement unit.
+
+The word "stress" is vocabulary. As an RU, stress must be placed: Body load, Mind appraisal（评估）, Work pressure, Society role demand, or some combination.
+
+The same word may point to different RUs in different contexts. This is why the tree begins with domain language, not dictionary meaning.
+
+## Primary and Associated Positions
+
+Every strong RU has a **primary position（主位置）**. This is where the concept speaks from first.
+
+It may also have **associated positions（关联位置）**. These are domains the concept affects or requires.
+
+Example:
+
+```text
+RU: Trust Repair
+Primary position: Relationship → Trust
+Associated positions: Language → Statement; Value → Responsibility; Work → Feedback if inside a team
+Use sentence: The apology happened, but trust repair still needs evidence.
+```
+
+Primary position tells the reader what the RU is. Associated positions tell the reader what it touches.
+
+## Associated Language
+
+An RU is not fully placed until it has language around it.
+
+Ask:
+
+- What verbs go with it?
+- What adjectives describe it?
+- What questions does it answer?
+- What action does it invite?
+- What mistake does it prevent?
+
+Example:
+
+```text
+RU: Feedback Loop
+Verbs: close, shorten, inspect, improve, repeat
+Questions: What output returns as input? How quickly does the system learn?
+Mistake prevented: confusing one-time feedback with an ongoing loop.
+```
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch02-position-splitter"></div>
+:::
+
+## Common Mistakes
+
+- Treating every interesting word as an RU.
+- Treating grammar as the placement rule.
+- Placing a concept before hearing its domain language.
+- Forgetting associated positions.
+- Keeping an RU that cannot produce a usable sentence.
+
+## Chapter Output
+
+After this chapter, the reader should be able to test a candidate RU:
+
+```text
+Candidate RU:
+Can I point to it?
+Can I classify it?
+Can it hold examples?
+Can it connect?
+Does it serve Subject Gain?
+What is its primary position?
+What is its associated language?
+```
+

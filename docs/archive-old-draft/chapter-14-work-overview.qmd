@@ -1,0 +1,88 @@
+---
+title: "第 14 章：Work 总览（Work Overview）"
+---
+
+## 本章要解决的问题
+
+你在 Body 中有能量，在 Mind 中有想法，在 Language 中有表达。但所有这些最终需要转化为行动和产出。这就是 Work Theme 的工作。
+
+你每天做事。但你有没有停下来想过——你做事的系统是怎样的？你如何从目标到结果？你如何在过程中学习？大多数人"做事"只有任务清单，没有做事系统。
+
+一个具体场景：你有一个大项目要完成。你的第一反应可能是"列个 to-do list 开始做"。但通过 Work 树，你可以更精确地设计：
+
+- 是 Goal 问题？（你需要先明确是 Process Goal 还是 Outcome Goal → Goal）
+- 是 Plan 问题？（你需要把目标拆成 Step → Plan → Step）
+- 是 Task 问题？（你需要区分哪些是 Single Action Task，哪些需要继续拆 → Task）
+- 是 Method 问题？（你需要选择一个 Framework 来指导做事 → Method → Framework）
+- 是 Problem 问题？（你遇到了障碍，需要找 Root Problem → Problem → Root Problem）
+- 是 Feedback 问题？（你需要从错误中提取 Error Feedback → Feedback → Error Feedback）
+
+设计越系统，做事越有效。"列个 to-do list"不是一个有用的策略。"先明确 Process Goal，拆成 Step，区分 Task 类型，选择 Framework，遇到障碍找 Root Problem，从 Error Feedback 中学习"是一个有用的策略。
+
+Work Theme 提供完整做事链的 RU 安置：从目标设定到反馈改进，从方法选择到问题解决。
+
+## Work 是什么
+
+Work 覆盖你如何做事、完成事和从做事中学习。
+
+Work 的服务增益：
+
+- **行动更有效**：你有完整的做事链而不是零散的行为
+- **判断更准确**：你知道任务处于哪个阶段，需要什么方法
+- **创造更持续**：你有项目管理和练习机制
+- **长期能力边界更大**：你从反馈中持续改进
+
+## Work 的 8 个 Group
+
+| Group | 中文 | 覆盖什么 |
+|-------|------|----------|
+| Goal | 目标 | 目标设定、目标类型、目标拆解 |
+| Plan | 计划 | 步骤、时间线、资源分配 |
+| Task | 任务 | 任务识别、任务执行、任务状态 |
+| Method | 方法 | 做事方式、框架、流程、最佳实践 |
+| Project | 项目 | 完整项目生命周期 |
+| Practice | 练习 | 刻意练习、训练设计、习惯 |
+| Problem | 问题 | 问题识别、根因分析、解决路径 |
+| Feedback | 反馈 | 反馈获取、反馈处理、改进循环 |
+
+## Work 的服务路径
+
+Work 不是孤立的行为集合。它与其他 Theme 有深度连接：
+
+- **Work → Body**：做事消耗身体能量（Work → Task depletes Body → Energy）。长时间工作不休息会导致 Physical Fatigue。
+- **Work → Mind**：需要注意力、记忆和决策（Work → Problem requires Mind → Cognition）。认知负荷太高时，判断力下降。
+- **Work → Language**：方案、指令和反馈通过语言传递。语言模糊导致做事偏差。
+- **Work → Relationship**：合作是做事的核心场景。Teamwork 质量直接影响项目结果。
+- **Work → Society**：你的职业和产出在社会中被评价（Work → Project → Society → Career）。
+- **Work → Technology**：工具和自动化提升做事效率（Work → Method → Technology → Workflow）。
+- **Work → Value**：你的目标背后的目的（Purpose），你接受的质量标准（Standard）。
+
+## Work 的运行模型
+
+Work 的运行可以理解为三个层次：
+
+**第一层：Goal + Plan + Task（目标 + 计划 + 任务）**——这是执行层。你设定目标，制定计划，执行任务。这是做事的基础。
+
+**第二层：Method + Project + Practice（方法 + 项目 + 练习）**——这是系统层。你选择方法管理项目，通过练习提升能力。这是做事的框架。
+
+**第三层：Problem + Feedback（问题 + 反馈）**——这是改进层。你识别问题，从反馈中学习，持续优化。这是做事的进化机制。
+
+这个模型帮助你理解：大多数人的做事停留在第一层（列目标、做计划、执行任务），少数人进入第二层（选择方法、管理项目、刻意练习），极少数人到达第三层（主动发现问题、从反馈中学习）。你的目标不是忽略任何一层——三层都重要，但第三层是能力增长的引擎。
+
+## Work 的语言调用
+
+Work 的 RU 是做事场景中最常被调用的——"这个 task 需要更清晰的 output""这个 method 不适合当前 goal""我需要 feedback 再做下一步"。Work 表达直接影响行动质量。
+
+## 本章产物
+
+Work 树索引卡片：
+
+```
+Theme: Work 做事单位
+Group: Goal / Plan / Task / Method / Project / Practice / Problem / Feedback
+服务增益: 行动 / 判断 / 创造 / 长期能力
+```
+
+## 小结
+
+Work 是你做事的操作系统——从目标到反馈的完整链条。接下来的两章将深入每个 Group 和 Container，让你把做事从"感觉"转化为可拆解的操作结构。

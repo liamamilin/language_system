@@ -1,0 +1,93 @@
+---
+title: "第 8 章：Mind 总览（Mind Overview）"
+---
+
+## 本章要解决的问题
+
+Body 是所有其他 Theme 的物理基础。而 Mind 是"个人处理"的发生地——你在这 Theme 里安置所有与理解、感知、思考、记忆、情绪和身份相关的 RU。
+
+一个常见困境：你知道"注意力很重要""情绪需要管理""学习需要方法"，但这些概念在你的个人系统中是孤立的词，不是一个有结构的体系。结果就是，你花大量时间看关于注意力、情绪和学习的内容，却没有一个框架来安置它们。
+
+一个具体场景：你感到"今天脑子很乱"。这句话太模糊，无法指导行动。通过 Mind 树，你可以更精确地诊断：
+
+- 是 Attention 问题？（注意力被切割太多次 → Distraction）
+- 是 Memory 问题？（工作记忆过载 → Working Memory）
+- 是 Emotion 问题？（焦虑或压力影响了思考 → Negative Emotion）
+- 是 Cognition 问题？（认知负荷太高 → Cognitive Load）
+- 是 Learning 问题？（学习策略不匹配当前任务 → Learning Strategy）
+
+诊断越精确，行动越有效。"脑子很乱"不是一个有用的判断。"我的 Working Memory 过载了，因为同时处理了太多任务。我需要先把东西写下来，释放认知空间"是一个有用的判断。
+
+Mind Theme 提供一个心智概念安置架构。它不是心理学教科书，而是你个人 runtime 里的心智操作面板。
+
+## Mind 是什么
+
+Mind 覆盖心理和认知的一切方面。它回答两个问题：你如何接收和加工信息？你如何体验和认知自己？
+
+Mind 的服务增益：
+
+- **理解更清楚**：你不再笼统地说"脑子乱了"，而是能识别是 attention 分散、memory 过载、emotion 刺激还是 cognitive load 太高
+- **判断更准确**：你能区分不同类型的心理事件——情绪和认知不一样，感知和解释不一样，欲望和行动不一样
+- **行动更有效**：你知道注意力如何训练、记忆如何加固、学习如何设计
+- **长期能力边界更大**：Meta-cognition——你能观察自己的思维过程
+
+## Mind 的 8 个 Group
+
+| Group | 中文 | 覆盖什么 |
+|-------|------|----------|
+| Perception | 感知 | 感官输入、模式识别、解释框架 |
+| Attention | 注意 | 焦点、选择性注意、注意力分配与消耗 |
+| Memory | 记忆 | 工作记忆、长期记忆、检索、遗忘 |
+| Emotion | 情绪 | 情绪识别、情绪调节、情绪对判断的影响 |
+| Desire & Motivation | 欲望与动机 | 内在驱动、外在激励、拖延、意志力 |
+| Cognition | 认知 | 思维、推理、决策、问题解决、认知偏误 |
+| Learning | 学习 | 学习策略、理解、技能习得、反馈利用 |
+| Self | 自我 | 自我认知、身份、叙事、价值感 |
+
+## Mind 的服务路径
+
+Mind 不是一个封闭系统。它的输出直接进入：
+
+- **Mind → Language**：你用语言表达思考。清楚的心智产生清楚的表达（Mind → Language → Sentence / Argument）
+- **Mind → Work**：你做事的质量取决于计划、决策、问题解决等心智活动（Mind → Cognition → Work → Task / Project）
+- **Mind → Relationship**：你的情绪和认知框架影响你如何理解和回应他人（Mind → Emotion → Relationship → Conflict / Connection）
+- **Mind → Body**：心智状态影响身体状态。持续焦虑（Mind → Emotion）导致压力反应（Body → Stress）
+- **Mind → Technology**：你的认知能力决定了你如何使用认知工具（Mind → Cognition → Technology → Cognitive Tool）
+
+## Mind 的运行模型
+
+Mind 的运行可以理解为三个层次：
+
+**第一层：Perception + Attention + Memory（感知 + 注意 + 记忆）**——这是信息输入层。你接收信息（Perception），选择关注什么（Attention），存储和检索信息（Memory）。这是心智的基础设施。
+
+**第二层：Emotion + Desire & Motivation + Cognition（情绪 + 欲望与动机 + 认知）**——这是信息处理层。你对信息产生情绪反应（Emotion），被欲望驱动（Desire & Motivation），进行推理和决策（Cognition）。这是心智的核心处理器。
+
+**第三层：Learning + Self（学习 + 自我）**——这是元认知层。你学习如何学习（Learning），你观察自己的思维过程（Self）。这是心智的操作系统。
+
+这个模型帮助你理解：大多数人的心智训练停留在第一层（试图提高注意力、改善记忆），少数人进入第二层（管理情绪、理解动机、识别偏误），极少数人到达第三层（学习如何学习、观察自我叙事）。你的目标不是忽略任何一层——三层都重要，但第三层是杠杆点。
+
+## Mind 的使用方法
+
+在日常中应用 Mind Theme：
+
+1. **识别**：你不是说"我脑子乱了"，而是说"我的 working memory 过载了"或"我的 attention 被切割太多了"
+2. **安置**：一个新的心理概念（如"认知失调"），给它找到位置（Mind → Cognition → Cognitive Bias）
+3. **调用**：你在冲突中感到情绪上涌，识别这是 emotion 的激活，不是需要立刻回应——给了你 pause 的空间
+
+## Mind 的语言调用
+
+Mind 的 RU 调用在日常语言中格外重要——因为心智状态容易被模糊表达覆盖。"我脑子乱了"可以具体为"my working memory is overloaded"或"my attention is fragmented"。精度越高，判断和行动越准。
+
+## 本章产物
+
+Mind 树索引卡片：
+
+```
+Theme: Mind 心智单位
+Group: Perception / Attention / Memory / Emotion / Desire & Motivation / Cognition / Learning / Self
+服务增益: 理解 / 判断 / 行动 / 长期能力
+```
+
+## 小结
+
+Mind 是你个人系统的处理器。接下来的两章深入每个 Group 和 Container。

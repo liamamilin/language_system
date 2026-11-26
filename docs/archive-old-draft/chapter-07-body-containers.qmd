@@ -1,0 +1,709 @@
+---
+title: "第 7 章：Body 的 Container 示例（Body Containers）"
+---
+
+## 本章要解决的问题
+
+第 6 章已经梳理了 Body 身体单位下的 8 个 Group：Energy、Sleep、Diet、Movement、Health、Sensation、Stress、Fatigue & Pain。本章继续向下一层推进，展示每个 Group 下面可以放置哪些 Container。
+
+本章不是 Body 的完整 Container 清单，也不是健康百科。它的目标只有一个：展示 Container 如何工作。
+
+阅读本章时，不需要记住所有条目。更重要的是观察三件事：
+
+第一，Container 如何位于某个 Group 之下； 第二，Container 如何收纳一批具体 RU； 第三，Container 如何帮助主体把模糊感受转化为可判断、可表达、可行动的单位。
+
+例如，一个人说"我状态不好"，这句话太模糊。通过 Body 树，他可以进一步安置为：睡眠质量差、脑力不足、身体疲劳、压力反应过强、疼痛信号异常，或者饮食与水分状态不稳。概念越有位置，判断就越清楚，行动也越具体。
+
+本章还会补充常见搭配和例句。因为 RU 只有能被说出来、写出来、调用出来，才真正进入语言能力。
+
+## Energy 精力：Container 示例
+
+Energy 是 Body 下最基础的 Group。它不只是"有没有力气"，而是主体能否维持行动、学习、工作、运动和创造的能力储备。
+
+很多时候，一个人会把精力不足误判为懒惰、拖延、意志力差。但在 RU 树中，我们要先把"精力"拆开：它可能是体力不足，也可能是脑力不足，也可能是恢复不足或长期消耗过高。
+
+### Physical Energy 体力
+
+Physical Energy 是进行身体活动的能力储备。它决定一个人能否完成走路、通勤、运动、劳动、整理房间等需要身体参与的任务。
+
+收纳 RU：stamina、vitality、strength level、endurance capacity
+
+主体增益：它帮助人区分"我不想动"和"我的身体能源不足"。这一区分很重要。前者可能需要调整目标和动机，后者则可能需要休息、饮食、恢复或训练。如果没有这个 Container，人很容易把所有行动困难都归因于心理问题。
+
+常见用法：
+
+常见搭配：
+- restore physical energy 恢复体力
+- deplete physical energy 消耗体力
+- conserve physical energy 保存体力
+- physical energy is low 体力很低
+
+常用句型：
+- My physical energy is low today.
+    我今天体力很低。
+- I need to restore my physical energy before doing this task.
+    做这个任务前，我需要先恢复体力。
+- This task requires more physical energy than mental energy.
+    这个任务更消耗体力，而不是脑力。
+
+概念安置卡：
+
+```
+RU 名称：Physical Energy
+
+主位置：Body → Energy → Physical Energy
+
+关联位置：
+- Body → Energy → Mental Energy
+- Body → Movement → Exercise
+
+关联动作：expend, restore, conserve, deplete
+
+关联属性：high, low, stable, fluctuating
+
+说明：Physical Energy 是身体行动的能源单位。它帮助主体判断当前是否适合进行体力任务，以及是否需要恢复、训练或减少消耗。
+```
+### Mental Energy 脑力
+
+Mental Energy 是进行认知工作的能力储备。它表现为注意力、清晰度、持续思考能力和处理复杂任务的耐力。
+
+收纳 RU：focus capacity、cognitive stamina、mental clarity、decision stamina
+
+主体增益：它帮助人判断自己是否适合进行写作、学习、编程、复杂决策和高强度对话。很多时候，一个人不是"不够努力"，而是脑力已经被消耗到低位。识别这一点，可以避免用意志力硬顶所有任务。
+
+常见用法：
+
+常见搭配：
+- mental energy is low 脑力很低
+- mental energy is depleted 脑力被耗尽
+- restore mental energy 恢复脑力
+- conserve mental energy 保存脑力
+
+常用句型：
+- My mental energy is low today.
+    我今天脑力很低。
+- I do not have enough mental energy for complex work right now.
+    我现在没有足够的脑力处理复杂工作。
+- I need to recharge before making an important decision.
+    在做重要决定前，我需要先恢复一下状态。
+
+概念安置卡：
+
+```
+RU 名称：Mental Energy
+
+主位置：Body → Energy → Mental Energy
+
+关联位置：
+- Mind → Attention → Focus
+- Mind → Cognition → Mental Model
+
+关联动作：consume, recover, drain, recharge
+
+关联属性：fresh, depleted, sustained, crashed
+
+说明：Mental Energy 是认知工作的能源单位。它帮助主体判断当前是否适合处理复杂任务，以及是否需要休息、切换任务或降低认知负荷。
+```
+## Sleep 睡眠：Container 示例
+
+Sleep 是 Body 下的关键 Group。它不是单纯的休息时间，而是身体恢复、记忆巩固、情绪稳定和精力重建的基础机制。
+
+在个人能力系统中，睡眠不是生活细节，而是能力条件。注意力、记忆、情绪、判断力和行动稳定性，都受到睡眠影响。
+
+### Sleep Quality 睡眠质量
+
+Sleep Quality 衡量睡眠对恢复的有效性。它不只是睡了几个小时，还包括睡眠是否连续、是否容易醒、醒来后是否恢复、白天是否困倦。
+
+收纳 RU：deep sleep、sleep efficiency、wake after sleep onset、restorative sleep
+
+主体增益：它帮助人避免只盯着"睡眠时长"。有些人睡了很久却仍然疲劳，问题可能不是时间不够，而是睡眠质量差。把 Sleep Quality 作为 Container，可以让主体更准确地判断恢复问题。
+
+常见用法：
+
+常见搭配：
+- improve sleep quality 改善睡眠质量
+- poor sleep quality 睡眠质量差
+- track sleep quality 追踪睡眠质量
+- restorative sleep 有恢复效果的睡眠
+
+常用句型：
+- My sleep quality was poor last night.
+    我昨晚睡眠质量很差。
+- I slept for eight hours, but the sleep was not restorative.
+    我睡了八小时，但没有恢复感。
+- Poor sleep quality may explain my low mental energy today.
+    睡眠质量差可能解释了我今天脑力低下的状态。
+
+概念安置卡：
+
+```
+RU 名称：Sleep Quality
+
+主位置：Body → Sleep → Sleep Quality
+
+关联位置：
+- Mind → Memory → Long-term Memory
+- Body → Energy → Mental Energy
+
+关联动作：improve, track, degrade, restore
+
+关联属性：deep, light, disrupted, restorative
+
+说明：Sleep Quality 是睡眠恢复效果的判断单位。它帮助主体判断睡眠是否真正支持了精力、记忆和情绪稳定。
+```
+### Sleep Debt 睡眠负债
+
+Sleep Debt 是实际睡眠低于身体需要时积累的恢复赤字。它不是某一天少睡一点这么简单，而是持续睡眠不足带来的恢复缺口。
+
+收纳 RU：recovery need、catch-up sleep、chronic deficit、sleep restriction
+
+主体增益：它提醒主体不要把长期睡眠不足后的低效、烦躁、注意力下降简单解释成"状态不好"。咖啡因可以短暂提高警觉性，但不能真正替代睡眠恢复。长期睡眠负债仍需通过睡眠和恢复节律来修正。
+
+常见用法：
+
+常见搭配：
+- accumulate sleep debt 积累睡眠负债
+- repay sleep debt 偿还睡眠负债
+- chronic sleep debt 长期睡眠负债
+- catch-up sleep 补觉
+
+常用句型：
+- I have been accumulating sleep debt this week.
+    我这周一直在积累睡眠负债。
+- Coffee can mask sleep debt, but it cannot repay it.
+    咖啡可以掩盖睡眠负债，但不能偿还它。
+- My irritability may come from sleep debt.
+    我的烦躁可能来自睡眠负债。
+
+概念安置卡：
+
+```
+RU 名称：Sleep Debt
+
+主位置：Body → Sleep → Sleep Debt
+
+关联位置：
+- Body → Energy → Mental Energy
+- Mind → Attention → Focus
+
+关联动作：accumulate, repay, ignore, monitor
+
+关联属性：acute, chronic, partial, severe
+
+说明：Sleep Debt 是恢复赤字单位。它帮助主体理解长期睡眠不足如何影响精力、注意力、情绪和行动稳定性。
+```
+## Diet 饮食：Container 示例
+
+Diet 是能量输入系统。很多人关注"吃什么"，但更基础的问题是：饮食状态是否在支持精力、情绪和行动。
+
+### Nutrition 营养
+
+Nutrition 是身体所需基本营养素的整体状况。不是让你每顿计算，而是让你有基本的营养意识来判断饮食是否在支持身体需求。
+
+收纳 RU：protein、carbohydrate、fat、vitamin、mineral、fiber
+
+主体增益：它帮助人把模糊的"吃得好不好"转化为对宏量和微量营养素的判断。很多时候，精力不足、注意力差、情绪不稳定可能与营养结构的失衡有关，而不只是意志力问题。
+
+常见用法：
+
+常见搭配：
+- balanced nutrition 均衡营养
+- poor nutrition 营养状况差
+- nutrition deficiency 营养缺乏
+- improve nutrition 改善营养
+
+常用句型：
+- My nutrition has been poor this week.
+    我这周营养状况不好。
+- I need to pay attention to protein and fiber intake.
+    我需要关注蛋白质和纤维的摄入。
+
+概念安置卡：
+
+```
+RU 名称：Nutrition
+
+主位置：Body → Diet → Nutrition
+
+关联位置：
+- Body → Energy → Physical Energy
+- Body → Health → Physical State
+
+关联动作：consume, balance, improve, neglect
+
+关联属性：balanced, deficient, excessive, adequate
+
+说明：Nutrition 是能量输入的质量单位。它帮助主体评估饮食是否在支持精力、身体状态和免疫功能。
+```
+### Hydration 水分
+
+Hydration 是身体水分平衡状态。轻度水分不足就可能影响注意力和体力，但很多人不会把疲劳和水分不足联系起来。
+
+收纳 RU：water intake、electrolyte level、dehydration
+
+主体增益：它帮助主体识别水分不足带来的疲劳、注意力下降和体感不适，而不是把它们归因为"今天状态不好"。
+
+常见用法：
+
+常见搭配：
+- stay hydrated 保持水分充足
+- mild dehydration 轻度脱水
+- increase water intake 增加饮水量
+
+常用句型：
+- I may be dehydrated.
+    我可能水分不足。
+- Mild dehydration can affect focus and mood.
+    轻度水分不足也可能影响注意力和情绪。
+
+概念安置卡：
+
+```
+RU 名称：Hydration
+
+主位置：Body → Diet → Hydration
+
+关联位置：
+- Body → Energy → Mental Energy
+- Mind → Attention → Focus
+
+关联动作：drink, maintain, lose, replenish
+
+关联属性：hydrated, dehydrated, balanced
+
+说明：Hydration 是水分平衡单位。它帮助主体将疲劳、注意力下降与水分状态关联起来。
+```
+## Movement 运动：Container 示例
+
+Movement 覆盖身体活动类型。它不只是健身，而是主体能否维持日常身体功能和长期体能。
+
+### Physical Activity 身体活动
+
+Physical Activity 是非训练性的日常身体活动水平。走路、爬楼、站立、家务——这些活动构成了一天中的大部分能量消耗。
+
+收纳 RU：walking、standing、stair climbing、household labor
+
+主体增益：它帮助主体区分"我不运动"和"我日常活动量太低"。对很多人来说，增加日常活动量的收益可能大于专门去健身房。
+
+常见用法：
+
+常见搭配：
+- increase physical activity 增加身体活动
+- sedentary lifestyle 久坐生活方式
+- low physical activity 身体活动量低
+
+常用句型：
+- My physical activity has been low this week.
+    我这周身体活动量很低。
+- I need to increase my daily walking.
+    我每天需要多走一些路。
+
+概念安置卡：
+
+```
+RU 名称：Physical Activity
+
+主位置：Body → Movement → Physical Activity
+
+关联位置：
+- Body → Energy → Physical Energy
+- Body → Health → Physical State
+
+关联动作：increase, maintain, reduce, track
+
+关联属性：sedentary, light, moderate, active
+
+说明：Physical Activity 是日常身体活动水平单位。它帮助主体评估非训练性活动是否足以维持基本体能和代谢健康。
+```
+### Exercise 训练
+
+Exercise 是有目的的体能训练。力量、耐力、柔韧、平衡——不同类型的训练服务不同的主体增益。
+
+收纳 RU：strength training、cardio、stretching、HIIT、yoga
+
+主体增益：它把"我应该多运动"转化为具体训练类型的选择。不同训练类型服务于不同目标：力量训练服务长期体能，有氧训练服务心血管健康。
+
+常见用法：
+
+常见搭配：
+- do strength training 做力量训练
+- skip exercise 取消训练
+- moderate exercise 适度训练
+
+常用句型：
+- I did strength training this morning.
+    我今天早上做了力量训练。
+- I need a recovery day between exercise sessions.
+    我需要在训练日之间安排恢复日。
+
+概念安置卡：
+
+```
+RU 名称：Exercise
+
+主位置：Body → Movement → Exercise
+
+关联位置：
+- Body → Health → Physical State
+- Body → Fatigue & Pain → Physical Fatigue
+
+关联动作：do, schedule, skip, progress
+
+关联属性：intense, moderate, light, recovery
+
+说明：Exercise 是体能训练单位。它帮助主体选择适合当前状态的训练类型和强度。
+```
+## Health 健康：Container 示例
+
+Health 不是医学目录，而是主体监测和判断身体状态所需的 RU 容器。
+
+### Physical State 身体状态
+
+Physical State 是主体对身体整体感受的判断。不是体检报告上的指标，而是"我今天感觉怎么样"的结构化表达。
+
+收纳 RU：wellness、malaise、vitality、recovery status
+
+主体增益：它帮助主体把"感觉不对劲"转化为可描述的状态判断——是虚弱、不适、恢复中还是正常。
+
+常见用法：
+
+常见搭配：
+- physical state is good 身体状态良好
+- monitor physical state 监测身体状态
+- declining physical state 身体状态下降
+
+常用句型：
+- My physical state is not great today.
+    我今天的身体状态不太好。
+- I need to monitor my physical state this week.
+    我这周需要留意身体状态。
+
+概念安置卡：
+
+```
+RU 名称：Physical State
+
+主位置：Body → Health → Physical State
+
+关联位置：
+- Body → Energy → Mental Energy
+- Body → Sensation → Body Signal
+
+关联动作：monitor, improve, maintain, detect
+
+关联属性：good, fair, poor, declining
+
+说明：Physical State 是身体整体感受的判断单位。它帮助主体识别状态变化，而非等到症状出现才注意。
+```
+### Symptom 症状
+
+Symptom 是身体异常信号的具体描述。它是主体判断是否需要进一步行动的依据。
+
+收纳 RU：headache、fever、cough、pain、fatigue、dizziness
+
+主体增益：它帮助主体区分"有点不舒服"和"需要关注的具体信号"。明确的症状描述有助于判断是否需要休息、调整还是就医。
+
+常见用法：
+
+常见搭配：
+- notice a symptom 注意到一个症状
+- track symptoms 追踪症状
+- symptom gets worse 症状加重
+
+常用句型：
+- I have been noticing some symptoms this week.
+    我这周注意到一些症状。
+- The symptom is mild, but it has been persistent.
+    症状不严重，但一直持续。
+
+概念安置卡：
+
+```
+RU 名称：Symptom
+
+主位置：Body → Health → Symptom
+
+关联位置：
+- Body → Fatigue & Pain → Pain Signal
+- Body → Health → Physical State
+
+关联动作：notice, track, report, treat
+
+关联属性：mild, moderate, severe, acute, chronic
+
+说明：Symptom 是身体异常信号的描述单位。它帮助主体将不适转化为可追踪和可判断的具体信号。
+```
+## Sensation 感官：Container 示例
+
+Sensation 覆盖身体通过感官接收外界信号以及身体内部信号的能力。
+
+### Body Signal 身体信号
+
+Body Signal 是身体发出的各种感知信息——饥饿、口渴、温度、心跳、呼吸节奏。它是主体感知自身状态的基础接口。
+
+收纳 RU：hunger、thirst、temperature、heartbeat、breathing
+
+主体增益：它帮助主体提高对身体信号的感知精度。很多人在身体已发出明确信号时仍忽略，直到信号变成问题。提高对身体信号的识别能力是主动健康管理的第一步。
+
+常见用法：
+
+常见搭配：
+- sense a body signal 感知到一个身体信号
+- ignore a body signal 忽略一个身体信号
+- body signal is clear 身体信号很明确
+
+常用句型：
+- I felt a clear body signal that I need to rest.
+    我收到一个明确的身体信号，需要休息。
+- I have been ignoring my body signals this week.
+    我这周一直在忽略身体信号。
+
+概念安置卡：
+
+```
+RU 名称：Body Signal
+
+主位置：Body → Sensation → Body Signal
+
+关联位置：
+- Body → Health → Physical State
+- Body → Stress → Stress Response
+
+关联动作：sense, ignore, interpret, respond
+
+关联属性：subtle, clear, urgent, chronic
+
+说明：Body Signal 是身体感知信息的单位。它帮助主体更早地识别身体状态变化并做出回应。
+```
+
+### Sensory Threshold 感官阈值
+
+Sensory Threshold 是感官信号被感知到的最低强度。它不是信号的强度，而是"我能否感知到它"的门槛。
+
+收纳 RU：detection limit、sensitivity level、threshold shift、habituation
+
+主体增益：它帮助主体理解"为什么有时候能感觉到自己的心跳，有时候不能"。感官阈值不是固定的——疲劳、压力、注意力集中度都会改变它。了解阈值变化比只关注信号本身更有价值。
+
+常见用法：
+
+常见搭配：
+- lower the sensory threshold 降低感官阈值
+- the threshold is higher when tired 疲劳时阈值更高
+- sensory threshold varies 感官阈值会变化
+
+常用句型：
+- My sensory threshold for noise is lower when I am tired.
+   我疲劳时对噪音的感官阈值更低。
+- Understanding sensory thresholds helps me interpret body signals more accurately.
+   了解感官阈值帮助我更准确地解读身体信号。
+
+概念安置卡：
+
+```
+RU 名称：Sensory Threshold
+
+主位置：Body → Sensation → Sensory Threshold
+
+关联位置：
+- Mind → Perception → Sensory Perception
+- Body → Fatigue & Pain → Physical Fatigue
+
+关联动作：lower, raise, notice, calibrate
+
+关联属性：high, low, stable, fluctuating
+
+说明：Sensory Threshold 是感知门槛单位。它帮助主体理解感官信号的检测门槛及其变化规律。
+```
+## Stress 压力：Container 示例
+
+Stress 是身体对外部需求和威胁的自动反应系统。它不是问题本身，而是身体在尝试适应。
+
+### Stress Response 压力反应
+
+Stress Response 是身体在感知压力源时的自动反应。心率上升、呼吸变浅、肌肉紧张、皮质醇释放——这些都是压力反应的组成部分。
+
+收纳 RU：cortisol release、heart rate increase、muscle tension、shallow breathing
+
+主体增益：它帮助主体把"我好紧张"转化为具体的生理反应识别。知道这是压力反应，而不是"我出问题了"，能帮助主体选择适合的调节策略。
+
+常见用法：
+
+常见搭配：
+- trigger a stress response 触发压力反应
+- regulate the stress response 调节压力反应
+- stress response is activated 压力反应被激活
+
+常用句型：
+- This situation is triggering a stress response.
+    这个情况正在触发我的压力反应。
+- I need to regulate my stress response before continuing.
+    在继续之前，我需要调节一下压力反应。
+
+概念安置卡：
+
+```
+RU 名称：Stress Response
+
+主位置：Body → Stress → Stress Response
+
+关联位置：
+- Mind → Emotion → Negative Emotion
+- Body → Sensation → Body Signal
+
+关联动作：trigger, regulate, calm, amplify
+
+关联属性：acute, chronic, proportional, disproportionate
+
+说明：Stress Response 是身体压力反应的识别单位。它帮助主体识别生理反应并主动调节，而非被反应控制。
+```
+
+### Window of Tolerance 耐受窗口
+
+Window of Tolerance 是主体能够有效处理压力的舒适区间。在这个窗口内，压力是可控的；超出窗口，要么进入过度唤醒（焦虑、愤怒），要么进入过低唤醒（麻木、无力）。
+
+收纳 RU：optimal arousal zone、hyperarousal、hypoarousal、nervous system regulation
+
+主体增益：它帮助主体区分"我有压力"和"我的压力超出了我的处理能力"。压力本身不是问题，问题在于压力是否在耐受窗口内。识别自己当前在窗口内还是窗口外，是选择调节策略的前提。
+
+常见用法：
+
+常见搭配：
+- stay within the window of tolerance 保持在耐受窗口内
+- the window narrows under fatigue 疲劳时耐受窗口变窄
+- expand the window of tolerance 扩展耐受窗口
+
+常用句型：
+- My window of tolerance is narrower than usual today.
+   我今天耐受窗口比平时窄。
+- When stress pushes me out of my window of tolerance, I need regulation before problem-solving.
+   当压力把我推出耐受窗口时，我需要先调节再解决问题。
+
+概念安置卡：
+
+```
+RU 名称：Window of Tolerance
+
+主位置：Body → Stress → Window of Tolerance
+
+关联位置：
+- Mind → Emotion → Emotional Regulation
+- Body → Fatigue & Pain → Physical Fatigue
+
+关联动作：stay within, expand, narrow, recognize
+
+关联属性：wide, narrow, flexible, rigid
+
+说明：Window of Tolerance 是压力处理区间单位。它帮助主体识别压力是否超出有效处理能力。
+```
+## Fatigue & Pain 疲劳与疼痛：Container 示例
+
+Fatigue & Pain 是身体的重要信号系统。它们不是问题本身，而是身体在告诉你需要调整。
+
+### Physical Fatigue 身体疲劳
+
+Physical Fatigue 是体力消耗后的恢复需求。它是正常的生理信号，不是意志力问题。
+
+收纳 RU：exercise-induced fatigue、recovery need、muscle soreness
+
+主体增益：它帮助主体区分"不想动"和"身体需要恢复"。前者是动机问题，后者是身体信号。忽视身体疲劳信号会导致过度训练和慢性疲劳。
+
+常见用法：
+
+常见搭配：
+- feel physical fatigue 感到身体疲劳
+- recover from fatigue 从疲劳中恢复
+- chronic fatigue 慢性疲劳
+
+常用句型：
+- I am feeling physical fatigue after today's workout.
+    今天训练后我感到身体疲劳。
+- I need rest to recover from this fatigue.
+    我需要休息来从疲劳中恢复。
+
+概念安置卡：
+
+```
+RU 名称：Physical Fatigue
+
+主位置：Body → Fatigue & Pain → Physical Fatigue
+
+关联位置：
+- Body → Fatigue & Pain → Pain Signal
+- Body → Energy → Physical Energy
+
+关联动作：accumulate, recover from, ignore, manage
+
+关联属性：mild, moderate, severe, chronic
+
+说明：Physical Fatigue 是身体疲劳信号单位。它帮助主体区分正常恢复需求与长期过度消耗。
+```
+
+### Pain Signal 疼痛信号
+
+Pain Signal 是身体发出的疼痛信息。它不是疼痛本身，而是神经系统传递的警告信号。
+
+收纳 RU：acute pain、chronic pain、referred pain、pain threshold
+
+主体增益：它帮助主体区分"这个疼痛需要立即处理"和"这个疼痛可以观察"。忽视疼痛信号会导致小问题变成大问题，过度反应则会制造不必要的焦虑。
+
+常见用法：
+
+常见搭配：
+- notice a pain signal 注意到疼痛信号
+- ignore a pain signal 忽略疼痛信号
+- pain signal is sharp 疼痛信号尖锐
+
+常用句型：
+- This pain signal is telling me to stop.
+  这个疼痛信号告诉我要停下来。
+- Not all pain signals mean something is seriously wrong.
+  不是所有疼痛信号都意味着严重问题。
+
+概念安置卡：
+
+```
+RU 名称：Pain Signal
+
+主位置：Body → Fatigue & Pain → Pain Signal
+
+关联位置：
+- Body → Sensation → Body Signal
+- Body → Health → Symptom
+
+关联动作：notice, ignore, interpret, respond
+
+关联属性：acute, chronic, sharp, dull
+
+说明：Pain Signal 是疼痛警告单位。它帮助主体识别并正确响应身体发出的疼痛信息。
+```
+
+## 本章产物
+
+Body 主题的 Container 路径表：
+
+| Container           | 路径                                     |
+|---------------------|------------------------------------------|
+| Physical Energy     | Body → Energy → Physical Energy          |
+| Mental Energy       | Body → Energy → Mental Energy            |
+| Sleep Quality       | Body → Sleep → Sleep Quality             |
+| Sleep Debt          | Body → Sleep → Sleep Debt                |
+| Nutrition           | Body → Diet → Nutrition                  |
+| Hydration           | Body → Diet → Hydration                  |
+| Physical Activity   | Body → Movement → Physical Activity      |
+| Exercise            | Body → Movement → Exercise               |
+| Physical State      | Body → Health → Physical State           |
+| Symptom             | Body → Health → Symptom                  |
+| Body Signal         | Body → Sensation → Body Signal           |
+| Sensory Threshold   | Body → Sensation → Sensory Threshold     |
+| Stress Response     | Body → Stress → Stress Response          |
+| Window of Tolerance | Body → Stress → Window of Tolerance      |
+| Physical Fatigue    | Body → Fatigue & Pain → Physical Fatigue |
+| Pain Signal         | Body → Fatigue & Pain → Pain Signal      |
+
+## 小结
+
+Body 的 Container 示例展示了一个基本原则：身体状态不能只用"好"或"差"来概括。精力、睡眠、饮食、运动、健康、感官、压力、疲劳与疼痛，都可以被拆成更具体的 RU 容器。容器越清楚，主体越容易判断自己真正需要的是睡眠、恢复、营养、运动、压力调节，还是医疗评估。
+
+更重要的是，Container 不能只停留在树上。它还需要进入语言调用层。一个 RU 只有能被说出来、写出来、用于判断和表达，才真正成为主体可用的能力。
+
+接下来进入 Part 3：Mind。Mind 比 Body 更抽象，但安置逻辑不变：先找到 Theme，再找到 Group，再找到 Container，最后把具体 RU 放进稳定位置，并学习它的常见表达方式。

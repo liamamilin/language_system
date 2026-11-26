@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 330" width="920" height="330" role="img" aria-label="Body and Mind Causal Loop and Misplacement Trap">
+  <rect width="920" height="330" rx="14" fill="#ffffff"/>
+  <text x="460" y="36" text-anchor="middle" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'PingFang SC', sans-serif" font-size="19" font-weight="700">Body → Mind Coupling &amp; The Misplacement Trap（身心耦合与错置陷阱）</text>
+
+  <defs>
+    <marker id="arrB" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#0284c7"/>
+    </marker>
+    <marker id="arrR" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+
+  <!-- Main Causal Chain Row -->
+  <g font-family="-apple-system, sans-serif">
+    <rect x="28" y="76" width="150" height="74" rx="10" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+    <text x="103" y="102" text-anchor="middle" fill="#0369a1" font-size="12" font-weight="700">BODY · SLEEP</text>
+    <text x="103" y="124" text-anchor="middle" fill="#0f172a" font-size="13.5" font-weight="700">Sleep Debt</text>
+    <text x="103" y="141" text-anchor="middle" fill="#64748b" font-size="11">睡眠负债</text>
+
+    <line x1="178" y1="113" x2="206" y2="113" stroke="#0284c7" stroke-width="2" marker-end="url(#arrB)"/>
+
+    <rect x="212" y="76" width="150" height="74" rx="10" fill="#f0f9ff" stroke="#0284c7" stroke-width="1.8"/>
+    <text x="287" y="102" text-anchor="middle" fill="#0369a1" font-size="12" font-weight="700">BODY · ENERGY</text>
+    <text x="287" y="124" text-anchor="middle" fill="#0f172a" font-size="13.5" font-weight="700">Low Mental Energy</text>
+    <text x="287" y="141" text-anchor="middle" fill="#64748b" font-size="11">脑力容量下降</text>
+
+    <line x1="362" y1="113" x2="390" y2="113" stroke="#0284c7" stroke-width="2" marker-end="url(#arrB)"/>
+
+    <rect x="396" y="76" width="150" height="74" rx="10" fill="#eef2ff" stroke="#4f46e5" stroke-width="1.8"/>
+    <text x="471" y="102" text-anchor="middle" fill="#4338ca" font-size="12" font-weight="700">MIND · ATTENTION</text>
+    <text x="471" y="124" text-anchor="middle" fill="#0f172a" font-size="13.5" font-weight="700">Attention Drift</text>
+    <text x="471" y="141" text-anchor="middle" fill="#64748b" font-size="11">注意稳定性下降</text>
+
+    <line x1="546" y1="113" x2="574" y2="113" stroke="#0284c7" stroke-width="2" marker-end="url(#arrB)"/>
+
+    <rect x="580" y="76" width="150" height="74" rx="10" fill="#f0fdfa" stroke="#0d9488" stroke-width="1.8"/>
+    <text x="655" y="102" text-anchor="middle" fill="#0f766e" font-size="12" font-weight="700">WORK · EXECUTION</text>
+    <text x="655" y="124" text-anchor="middle" fill="#0f172a" font-size="13.5" font-weight="700">Task Stalls</text>
+    <text x="655" y="141" text-anchor="middle" fill="#64748b" font-size="11">任务推进受阻</text>
+
+    <line x1="730" y1="113" x2="758" y2="113" stroke="#0284c7" stroke-width="2" marker-end="url(#arrB)"/>
+
+    <rect x="764" y="76" width="128" height="74" rx="10" fill="#fef2f2" stroke="#dc2626" stroke-width="1.8"/>
+    <text x="828" y="102" text-anchor="middle" fill="#b91c1c" font-size="12" font-weight="700">BODY · STRESS</text>
+    <text x="828" y="124" text-anchor="middle" fill="#0f172a" font-size="13.5" font-weight="700">Higher Stress</text>
+    <text x="828" y="141" text-anchor="middle" fill="#64748b" font-size="11">压力回流加剧失眠</text>
+  </g>
+
+  <!-- Branch comparison: Misplacement vs Proper Placement -->
+  <rect x="28" y="186" width="420" height="114" rx="10" fill="#fef2f2" stroke="#fca5a5" stroke-width="1.5"/>
+  <text x="48" y="212" fill="#b91c1c" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700">✗ Misplaced Diagnosis（错置路径）</text>
+  <text x="48" y="236" fill="#334155" font-family="-apple-system, sans-serif" font-size="12.5">Reads low capacity as "laziness" or "weak discipline"</text>
+  <text x="48" y="258" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">→ Moral self-blame + caffeine + pushing harder</text>
+  <text x="48" y="280" fill="#b91c1c" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">→ Deepens sleep debt &amp; pushes outside Window of Tolerance</text>
+
+  <rect x="472" y="186" width="420" height="114" rx="10" fill="#ecfdf5" stroke="#6ee7b7" stroke-width="1.5"/>
+  <text x="492" y="212" fill="#047857" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700">✓ Proper Placement（正确安置路径）</text>
+  <text x="492" y="236" fill="#334155" font-family="-apple-system, sans-serif" font-size="12.5">Locates first RU at Body → Sleep → Sleep Debt</text>
+  <text x="492" y="258" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">→ Lower cognitive load + schedule recovery + regulate breath</text>
+  <text x="492" y="280" fill="#047857" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">→ Restores operating base before demanding Mind/Work output</text>
+</svg>

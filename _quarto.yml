@@ -1,0 +1,83 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Concepts Need a Place"
+  subtitle: "A Personal RU Tree for Reading, Thinking, and Action"
+  author: "Lin Mi"
+  date: today
+  description: "A practical book about concept placement: how to build a personal RU Tree, place concepts inside eight life domains, and turn reading into usable language."
+  cover-image: assets/cover.svg
+  favicon: assets/favicon.svg
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 2
+  chapters:
+    - index.qmd
+    - chapter-00-foreword.qmd
+    - part: "Part 1: Method and Map"
+      chapters:
+        - chapter-01-subject-gain-principle.qmd
+        - chapter-02-referable-unit.qmd
+        - chapter-03-four-layer-structure.qmd
+        - chapter-04-ru-tree-overview.qmd
+    - part: "Part 2: Body and Mind"
+      chapters:
+        - chapter-05-body-toolbox.qmd
+        - chapter-06-mind-toolbox.qmd
+    - part: "Part 3: Language and Work"
+      chapters:
+        - chapter-07-language-toolbox.qmd
+        - chapter-08-work-toolbox.qmd
+    - part: "Part 4: Relationship and Society"
+      chapters:
+        - chapter-09-relationship-toolbox.qmd
+        - chapter-10-society-toolbox.qmd
+    - part: "Part 5: Technology and Value"
+      chapters:
+        - chapter-11-technology-toolbox.qmd
+        - chapter-12-value-toolbox.qmd
+    - part: "Part 6: Use and Training"
+      chapters:
+        - chapter-13-place-new-concept.qmd
+        - chapter-14-diagnose-with-ru-tree.qmd
+        - chapter-15-maintain-train-system.qmd
+    - references.qmd
+  appendices:
+    - appendix-a-ru-tree-table.qmd
+    - appendix-b-concept-placement-card.qmd
+    - appendix-c-daily-training.qmd
+    - appendix-d-stress-test.qmd
+  search: true
+  page-navigation: true
+  reader-mode: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - assets/custom.css
+      - assets/toys.css
+    include-after-body: assets/toys-loader.html
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    anchor-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+  pdf:
+    documentclass: scrreprt
+    toc: true
+    number-sections: true
+    colorlinks: true
+
+editor: visual

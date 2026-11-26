@@ -1,0 +1,147 @@
+---
+title: "Maintaining and Training the System（维护与训练系统）"
+---
+
+## Opening Problem
+
+How does the RU Tree stay alive after the book is finished?
+
+A personal knowledge system fails when it becomes a museum（博物馆）. The RU Tree should not become a static list of concepts. It should remain a living placement practice: concepts enter, move, connect, split, merge, and become easier to use.
+
+Maintenance is not clerical work. It is how the reader keeps language usable.
+
+## The Maintenance Principle
+
+The system should be light enough to use and stable enough to trust.
+
+If it is too light, concepts float again. If it is too heavy, the reader stops using it. The right system has three routines:
+
+1. **Capture**: notice new concepts and problems.
+2. **Place**: assign primary and associated positions.
+3. **Review**: revise positions when use reveals a better structure.
+
+## Weekly Practice
+
+Once a week, choose three items:
+
+- one new concept;
+- one recurring problem;
+- one sentence from a book, conversation, article, or project.
+
+For each item, write:
+
+```text
+What is this about?
+Which Theme speaks first?
+Which Group holds it?
+Which Container makes it usable?
+What sentence can I now say more clearly?
+```
+
+This practice keeps reading tied to language rather than memorization.
+
+## Monthly Review
+
+Once a month, review the tree for three kinds of drift（漂移）:
+
+- **Overcrowding**: too many concepts are placed under one Container.
+- **Misplacement**: a concept is used often but feels awkward in its current position.
+- **Missing container**: repeated concepts need a new Container.
+
+Do not redesign the whole tree every month. Change only what repeated use has exposed.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch15-drift-maintenance-sim"></div>
+:::
+
+## Training Through Sentences
+
+The system becomes real when it changes the sentences the reader can say.
+
+Weak sentence:
+
+> “I am overwhelmed.”
+
+Trained sentence:
+
+> “My Body has low energy, my Work has undefined next actions, and my Value system is treating everything as equally important.”
+
+Weak sentence:
+
+> “People are disappointing.”
+
+Trained sentence:
+
+> “I am mixing trust repair, boundary, and relational role into one emotional judgment.”
+
+Weak sentence:
+
+> “AI is changing everything.”
+
+Trained sentence:
+
+> “AI changes the workflow, the labor market, the skill standard, and the value question of what human judgment should govern.”
+
+Training does not make life cold. It makes life more legible（更可读）.
+
+## When to Move a Concept
+
+Move a concept when:
+
+- the current position does not help you use it;
+- the concept repeatedly appears in another domain’s language;
+- the causal chain becomes clearer from another position;
+- the concept was placed by association, not function;
+- the same misreading keeps happening.
+
+Example:
+
+If “confidence” was placed under Value because it feels important, but every real use involves attention, emotion, action readiness, and feedback, it may belong first to Mind, with Work and Value as associated positions.
+
+## When to Split a Concept
+
+Split a concept when one word hides several different containers.
+
+Examples:
+
+- “Stress” may split into Body load, Mind appraisal（评估）, Work pressure, and Society role demand.
+- “Productivity” may split into Work output, Technology workflow, Body energy, and Value priority.
+- “Trust” may split into reliability, emotional safety, evidence, and repair.
+
+Splitting is useful only when it improves use. Do not split concepts to look sophisticated.
+
+## When to Merge a Concept
+
+Merge concepts when two names repeatedly do the same job.
+
+Ask:
+
+- Do they solve different problems?
+- Do they belong to different Groups?
+- Do they produce different sentences?
+- Do they lead to different action?
+
+If not, merge them or keep one as a synonym（同义表达）.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch15-split-merge-router"></div>
+:::
+
+## The Final Habit
+
+Whenever a sentence feels vague, ask:
+
+> Which domain language would make this readable?
+
+This is the core habit of the book. The reader is not collecting knowledge. The reader is training the ability to place meaning.
+
+## Chapter Output
+
+By the end of this chapter, the reader has a maintenance rhythm:
+
+- weekly placement practice;
+- monthly structure review;
+- sentence training;
+- concept movement, split, and merge rules.
+
+The RU Tree is complete enough to use and open enough to grow.

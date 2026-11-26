@@ -1,0 +1,368 @@
+---
+title: "Society Toolbox（社会工具箱）"
+---
+
+## Opening Problem
+
+Why do personal problems often turn out to be social-position problems?
+
+A person may feel confused, ashamed, ambitious, blocked, underpaid, invisible, or pressured. At first, these look like private feelings. But many of them are produced inside social structures（社会结构）: roles, groups, organizations, markets, institutions, rules, careers, and platforms.
+
+Society is the domain that explains how a person is positioned among other people at scale（在更大范围内）.
+
+::: {.callout-note title="Scope & Boundary"}
+Society in this book is not sociology as an academic survey. It is not a full political theory, economic theory, or institutional history. It is a practical placement system for social forces that shape everyday life.
+
+The goal is not to blame “society” for everything. The goal is to stop misplacing social constraints as purely personal weakness.
+:::
+
+## Domain Language
+
+Society talks about the world through these questions:
+
+- **Position**: Where am I located in this structure?
+- **Role**: What am I expected to do?
+- **Rule**: What is allowed, rewarded, punished, or ignored?
+- **Market**: What is being exchanged, priced, competed for, or scarce?
+- **Institution**: Which larger system stabilizes the behavior?
+- **Organization**: Who coordinates people and resources?
+- **Status**: What is recognized as higher, lower, central, marginal, expert, junior, legitimate, or informal?
+- **Platform**: Which environment sets the visibility and distribution rules?
+
+The key shift: do not ask only “What do I want?” Ask, “What social structure is shaping the available moves?”
+
+## Group Map
+
+Society has eight Groups:
+
+1. **Role（角色）**: expected social position and behavior.
+2. **Group（群体）**: belonging, identity, membership, and shared norms.
+3. **Organization（组织）**: coordinated human system with goals and roles.
+4. **Institution（制度）**: durable social system with rules and legitimacy.
+5. **Market（市场）**: exchange, price, demand, supply, competition, scarcity.
+6. **Rule（规则）**: explicit or implicit constraints.
+7. **Career（职业）**: long-term social trajectory of work roles.
+8. **Platform Ecology（平台生态）**: platform-shaped visibility, access, incentives, and dependency.
+
+| Group | What It Names |
+|---|---|
+| **Role（角色）** | expected social position and behavior. |
+| **Group（群体）** | belonging, identity, membership, and shared norms. |
+| **Organization（组织）** | coordinated human system with goals and roles. |
+| **Institution（制度）** | durable social system with rules and legitimacy. |
+| **Market（市场）** | exchange, price, demand, supply, competition, scarcity. |
+| **Rule（规则）** | explicit or implicit constraints. |
+| **Career（职业）** | long-term social trajectory of work roles. |
+| **Platform Ecology（平台生态）** | platform-shaped visibility, access, incentives, and dependency. |
+
+## Core Containers
+
+### Role
+
+Role is the language of expected behavior inside a structure. It asks what position a person occupies, what that position authorizes, and what it demands.
+
+Role language protects the reader from over-personalizing social expectations. Not every pressure is a private flaw; some pressure comes from the role itself.
+
+#### Professional Role（职业角色）
+
+**Primary position:** Society → Role → Professional Role
+
+**Professional Role（职业角色）** names what a person is expected to do inside a work or institutional setting.
+
+**Common misplacement:** treating role expectations as personality truth. “I am bad at this” may mean “this role is asking for a function I have not trained.”
+
+**Use sentence:** “This is not only about me; it is a professional role expectation.”
+
+#### Worker（工作者）
+
+**Primary position:** Society → Role → Worker
+
+**Worker（工作者）** names the person as a participant in labor, obligation, skill, compensation, and workplace power.
+
+**Common misreading:** reducing worker identity to productivity.
+
+**Use sentence:** “As a worker, I need to examine compensation, power, and sustainability.”
+
+### Group
+
+Group is the language of belonging and classification. It asks who is included, who is outside, what identity or interest binds people, and what norms hold the group together.
+
+Group language is useful because people often mistake attention, similarity, or demographic category for real belonging.
+
+#### Community（社群）
+
+**Primary position:** Society → Group → Community
+
+**Community（社群）** is a group with shared participation, recognition, and repeated interaction.
+
+**Common misplacement:** treating an audience as a community. An audience consumes attention; a community has mutual presence.
+
+**Use sentence:** “This is an audience now; it may become a community only through repeated mutual interaction.”
+
+#### Interest Group（兴趣小组）
+
+**Primary position:** Society → Group → Interest Group
+
+**Interest Group（兴趣小组）** is formed around shared concern, hobby, goal, or domain.
+
+**Common misreading:** assuming shared interest means shared values.
+
+**Use sentence:** “We share the topic, but not necessarily the same standards or purpose.”
+
+#### Demographic（人口群体）
+
+**Primary position:** Society → Group → Demographic
+
+**Demographic（人口群体）** names a statistical or social category such as age, location, income, education, or background.
+
+**Common misplacement:** treating a demographic label as a full identity.
+
+**Use sentence:** “This demographic pattern describes probability, not the whole person.”
+
+### Organization
+
+Organization is the language of coordinated people and resources. It asks how goals, roles, authority, budgets, incentives, and procedures produce collective behavior.
+
+Organization language helps the reader avoid reducing every institutional outcome to one person’s personality.
+
+#### Company（公司）
+
+**Primary position:** Society → Organization → Company
+
+**Company（公司）** is an organization that coordinates resources, labor, products, risk, and profit.
+
+**Common misreading:** treating company behavior as one person’s intention.
+
+**Use sentence:** “This decision may be organizational, not merely personal.”
+
+#### Non-profit（非营利组织）
+
+**Primary position:** Society → Organization → Non-profit
+
+**Non-profit（非营利组织）** is an organization whose declared purpose is not profit distribution, though it still has strategy, incentives, resources, and power.
+
+**Common misplacement:** assuming non-profit means non-political or non-strategic.
+
+**Use sentence:** “The mission matters, but the organization still has incentives.”
+
+#### Government Agency（政府机构）
+
+**Primary position:** Society → Organization → Government Agency
+
+**Government Agency（政府机构）** is an organization with public authority and formal administrative responsibility.
+
+**Common misreading:** treating bureaucracy（官僚流程） as simple incompetence. Sometimes it is a rule system.
+
+**Use sentence:** “This delay may be produced by administrative rules, not one person’s attitude.”
+
+### Institution
+
+Institution is the language of durable social order（稳定的社会秩序）. It asks which system gives behavior legitimacy, continuity, and procedure beyond one person or organization.
+
+Institution language matters because many life outcomes are shaped by credential, law, finance, education, and administration before personal effort even begins.
+
+#### Education System（教育制度）
+
+**Primary position:** Society → Institution → Education System
+
+**Education System（教育制度）** organizes learning, credentials（证书/资质）, selection, status, and social mobility.
+
+**Common misplacement:** treating educational outcomes as intelligence alone.
+
+**Use sentence:** “The result reflects ability, but also institution, access, and credential rules.”
+
+#### Legal System（法律制度）
+
+**Primary position:** Society → Institution → Legal System
+
+**Legal System（法律制度）** organizes rights, obligations, evidence, enforcement, and procedure.
+
+**Common misreading:** confusing moral fairness with legal outcome.
+
+**Use sentence:** “This may feel unfair, but we need to separate moral judgment from legal procedure.”
+
+#### Financial System（金融系统）
+
+**Primary position:** Society → Institution → Financial System
+
+**Financial System（金融系统）** organizes money, credit, risk, investment, insurance, and capital access.
+
+**Common misplacement:** treating financial outcomes as willpower alone.
+
+**Use sentence:** “This is partly a personal choice problem, but also a financial-system position.”
+
+### Market
+
+Market is the language of exchange under scarcity. It asks what is being priced, competed for, demanded, supplied, negotiated, or made visible through exchange.
+
+Market language is powerful but dangerous. It explains exchange value, not total human value.
+
+#### Labor Market（劳动力市场）
+
+**Primary position:** Society → Market → Labor Market
+
+**Labor Market（劳动力市场）** is the market for skills, roles, compensation, scarcity, and employer demand.
+
+**Common misreading:** treating salary as personal worth.
+
+**Use sentence:** “Salary reflects market position, negotiation, scarcity, and organization budget; it is not my human value.”
+
+#### Price（价格）
+
+**Primary position:** Society → Market → Price
+
+**Price（价格）** is a social signal about exchange under conditions of demand, supply, scarcity, branding, timing, and power.
+
+**Common misplacement:** treating price as intrinsic value.
+
+**Use sentence:** “The price tells us about market conditions, not the total value of the thing.”
+
+### Rule
+
+Rule is the language of permission and constraint. It asks what is allowed, rewarded, punished, hidden, required, or socially enforced.
+
+Rules may be formal or informal. A legal rule, platform rule, and social norm can all govern behavior, but they do so through different mechanisms.
+
+#### Platform Rule（平台规则）
+
+**Primary position:** Society → Rule → Platform Rule
+
+**Platform Rule（平台规则）** defines what a platform allows, distributes, hides, ranks, bans, or monetizes.
+
+**Common misreading:** thinking poor visibility always means poor quality.
+
+**Use sentence:** “The result may come from platform rules, not only content quality.”
+
+#### Social Norm（社会规范）
+
+**Primary position:** Society → Rule → Social Norm
+
+**Social Norm（社会规范）** is an informal expectation enforced through approval, shame, imitation, or exclusion.
+
+**Common misplacement:** treating a norm as natural truth.
+
+**Use sentence:** “This feels natural because it is socially trained, not because it is inevitable.”
+
+#### Legal Rule（法律规则）
+
+**Primary position:** Society → Rule → Legal Rule
+
+**Legal Rule（法律规则）** is a formal rule backed by legal authority.
+
+**Common misreading:** treating legal permission as ethical approval.
+
+**Use sentence:** “Legal permission answers one question; ethical acceptability answers another.”
+
+### Career
+
+Career is the language of social trajectory（社会轨迹） through work. It asks how roles, skills, reputation, opportunity, compensation, and timing accumulate over years.
+
+Career language prevents the reader from treating one job as a final verdict. A job is a node; a career is a path.
+
+#### Career Path（职业路径）
+
+**Primary position:** Society → Career → Career Path
+
+**Career Path（职业路径）** is a sequence of roles, skills, reputation, opportunities, and constraints over time.
+
+**Common misplacement:** treating one job decision as the whole career.
+
+**Use sentence:** “This job is one node in a career path, not the whole path.”
+
+#### Job（岗位）
+
+**Primary position:** Society → Career → Job
+
+**Job（岗位）** is a specific role with tasks, constraints, compensation, authority, and evaluation.
+
+**Common misreading:** confusing job fit with life fit.
+
+**Use sentence:** “This job may fit my skill but not my desired career path.”
+
+### Platform Ecology
+
+Platform Ecology is the language of rule-shaped visibility. It asks how platforms structure access, ranking, incentives, dependency, monetization, and social proof.
+
+Platform ecology matters because many modern outcomes look personal but are distributed through technical-social environments（技术-社会环境）.
+
+#### Creator Economy（创作者经济）
+
+**Primary position:** Society → Platform Ecology → Creator Economy
+
+**Creator Economy（创作者经济）** names the platform-mediated system in which attention, content, audience, monetization, and identity become linked.
+
+**Common misplacement:** treating creator work as pure self-expression.
+
+**Use sentence:** “The expression is personal, but the ecology is platform-shaped.”
+
+#### Marketplace（市场平台）
+
+**Primary position:** Society → Platform Ecology → Marketplace
+
+**Marketplace（市场平台）** is a platform where buyers, sellers, ranking, trust signals, payment, and rules meet.
+
+**Common misreading:** assuming a marketplace is neutral.
+
+**Use sentence:** “The marketplace does not only host exchange; it designs exchange.”
+
+#### Developer Ecosystem（开发者生态）
+
+**Primary position:** Society → Platform Ecology → Developer Ecosystem
+
+**Developer Ecosystem（开发者生态）** is a social-technical environment of tools, APIs, documentation, norms, communities, and incentives.
+
+**Common misplacement:** treating technical adoption as purely technical quality.
+
+**Use sentence:** “Adoption depends on ecosystem trust, documentation, tooling, and social proof.”
+
+## Misplacement Patterns
+
+| Often Confused / Misplaced As | Distinct Reality / Better Placement | Why It Matters |
+|---|---|---|
+| Social position | Personal weakness | reading structural constraints as private failure. |
+| Market price | Human worth | confusing exchange value with life value. |
+| Norm | Nature | treating trained expectation as natural truth. |
+| Organization | Person | blaming one person for a system behavior. |
+| Audience | Community | mistaking attention for belonging. |
+| Platform rule | Quality judgment | thinking distribution equals merit. |
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch10-structure-vs-personal"></div>
+:::
+
+## Causal Chain
+
+A social problem often follows this chain:
+
+1. A structure defines roles, rules, rewards, and visibility.
+2. A person enters the structure without naming those conditions.
+3. The person interprets outcomes as direct reflection of self.
+4. Shame, resentment, or confusion grows.
+5. Action becomes either over-personalized or too abstract.
+
+Better chain:
+
+1. Name the social structure.
+2. Locate role, rule, market, organization, institution, group, career, or platform.
+3. Separate personal agency from structural constraint.
+4. Choose a move that fits the real position.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch10-incentive-platform-sim"></div>
+:::
+
+## Placement Practice
+
+| Case / Statement | Suggested Placement |
+|---|---|
+| “My post got no views, so maybe my ideas are bad.” | Platform Ecology + Platform Rule, then Value → Standard. |
+| “My salary is low, so I feel low-value.” | Market → Labor Market, not human worth. |
+| “Everyone says this is normal, so I guess I should accept it.” | Rule → Social Norm, then Value → Ethics. |
+| “My manager is impossible.” | Organization + Role + Rule before personality judgment. |
+| “I feel behind in life.” | Career Path + Social Norm + Value → Meaning. |
+
+## Chapter Output
+
+Society gives the reader a way to place large forces without becoming vague. The useful question is:
+
+> Which social structure is shaping this situation, and what position am I actually in?

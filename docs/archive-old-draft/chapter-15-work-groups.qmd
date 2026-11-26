@@ -1,0 +1,193 @@
+---
+title: "第 15 章：Work 的核心 Group（Work Groups）"
+---
+
+## 本章要解决的问题
+
+第 14 章给了你 Work 的全景。现在逐一了解每个 Group：它覆盖什么？它为什么重要？它包含什么 Container？
+
+本章逐一介绍 Work 的 8 个 Group。
+
+## 1. Goal 目标
+
+Goal 是做事的起点。没有清晰的目标，所有后续工作都缺乏方向。
+
+覆盖：
+
+- **Process Goal 过程目标**：关注行动本身的目标。"每天写 500 字。"
+- **Outcome Goal 结果目标**：关注最终结果的目标。"完成一本书。"
+- **Goal Decomposition 目标拆解**：把大目标拆成可执行的子目标。
+- **Goal Conflict 目标冲突**：当多个目标互相竞争时需要的管理。
+
+核心认知：过程目标和结果目标需要配合——只有结果目标会让你焦虑，只有过程目标会让你偏离方向。
+
+关联 RU：milestone, objective, intention, priority, goal alignment
+
+## 2. Plan 计划
+
+Plan 将目标转化为可执行的路径。
+
+覆盖：
+
+- **Step 步骤**：完成一个目标的顺序行动。每个步骤应该可执行、可检查。
+- **Timeline 时间线**：步骤的时间安排。不是精确预测，是行动框架。
+- **Resource Allocation 资源分配**：你需要什么资源（时间、精力、信息、支持）。
+- **Contingency 应急计划**：计划出问题时怎么办。
+
+核心认知：计划的价值不是"按计划执行"，是"通过计划理解任务结构"。
+
+关联 RU：roadmap, schedule, milestone, dependency, buffer
+
+## 3. Task 任务
+
+Task 是做事的最小可执行单位。
+
+覆盖：
+
+- **Single Action Task 单动任务**：一次行动可以完成的任务。"发邮件给李总。"
+- **Multi-step Task 多步任务**：需要多个步骤的任务，实际上是一个 mini project。
+- **Recurring Task 重复任务**：定期出现的任务。需要系统化处理，而不是每次都从头想。
+- **Task State 任务状态**：待办、进行中、阻塞、完成。
+
+核心认知：Task 管理的核心不是列清单，是区分任务类型——单动任务立刻做，多步任务先拆再排。
+
+关联 RU：to-do, subtask, task dependency, task priority, completion
+
+## 4. Method 方法
+
+Method 是做事的"方法论"。好的方法让同样的事做得更快、更好、更稳定。
+
+覆盖：
+
+- **Framework 框架**：结构化的问题解决模板。"GTD 就是一个做事框架。"
+- **Process 流程**：固定步骤序列的开端到结束。"写作流程可以用大纲→初稿→修改。"
+- **Best Practice 最佳实践**：领域内被验证有效的方法。
+- **Standard Operating Procedure 标准操作流程**：可重复执行的精确方法描述。
+
+核心认知：方法是可转移的。你今天在一个领域学到的方法论可以应用到另一个领域。
+
+关联 RU：workflow, technique, approach, system, strategy
+
+## 5. Project 项目
+
+Project 是有明确目标和终点的完整工作单元。
+
+覆盖：
+
+- **Project Lifecycle 项目生命周期**：启动 → 规划 → 执行 → 监测 → 收尾。
+- **Scoping 项目范围**：做什么、不做什么。
+- **Project Artifact 项目产物**：项目产生的具体产出。
+- **Stakeholder 干系人**：影响项目或受项目影响的人。
+
+核心认知：Project 和 Task 的区别在于复杂度。Task 可以一个人完成，Project 通常需要协调和多个子任务的完成。
+
+关联 RU：initiative, campaign, deliverable, milestone, project review
+
+## 6. Practice 练习
+
+Practice 是以提升能力为目的的事。不同于"工作"，Practice 的产出不是产品，是能力的提升。
+
+覆盖：
+
+- **Deliberate Practice 刻意练习**：有明确目标、即时反馈、适当挑战度的训练。
+- **Routine 惯例**：固定的练习序列。不是每次都需要重新设计。
+- **Practice Session 练习时段**：一次练习的时间安排和内容。
+- **Feedback Loop 反馈循环**：练习 → 反馈 → 调整 → 再练习。
+
+核心认知：大多数人"做事但不练习"。做事使用已有能力，练习扩展能力。两者缺一不可。
+
+关联 RU：training, drill, simulation, practice schedule, skills assessment
+
+## 7. Problem 问题
+
+Problem 是"实际状态和期望状态之间的差距"。它是所有做事的触发点。
+
+覆盖：
+
+- **Problem Identification 问题识别**：意识到存在一个 gap。不是所有问题都被自动识别。
+- **Problem Definition 问题定义**：精确描述问题的边界和条件。"为什么客户留存下降"比"增长不行"更清晰。
+- **Root Cause Analysis 根因分析**：找到问题的真正原因，不是表面现象。
+- **Solution Space 解决方案空间**：可能解决路径的集合。
+
+核心认知：定义问题的质量决定了解决的质量。花更多时间在问题定义上，而不是在方案上。
+
+关联 RU：obstacle, symptom, root cause, constraint, tradeoff
+
+## 8. Feedback 反馈
+
+Feedback 是改进的基础。没有反馈，你无法知道你的行动是否有效。
+
+覆盖：
+
+- **Feedback Source 反馈来源**：数据、他人观察、自我评估。
+- **Feedback Quality 反馈质量**：具体、及时、可行动 vs 模糊、滞后、无操作意义。
+- **Feedback Utilization 反馈利用**：把反馈转化为具体行动。
+- **Error Feedback 错误反馈**：从失败中提取的信息。
+
+核心认知：反馈不是评价。评价说"做得好/不好"。反馈说"什么具体行为产生了什么具体结果"。
+
+关联 RU：review, evaluation, metric, lesson learned, after-action review
+
+## Work 的常见语言用法
+
+日常调用 Work RU 时，常用动词搭配包括：
+
+- Goal: set / pursue / achieve / abandon
+- Plan: define / sequence / execute / adjust
+- Task: start / complete / delegate / block
+- Method: apply / adapt / design / evaluate
+- Project: initiate / manage / deliver / close
+- Practice: design / execute / reflect / refine
+- Problem: identify / define / analyze / solve
+- Feedback: give / receive / utilize / ignore
+
+## Work 与其他 Theme 的连接示例
+
+Work 是做事的操作系统，与其他 Theme 有深度连接：
+
+**场景 1：Work → Body**
+你长期忽略 Task 之间的休息 → Physical Fatigue 积累 → 后续 Task 效率下降。
+这个链条说明：做事方式影响身体状态。
+
+**场景 2：Work → Mind**
+你的 Problem 定义模糊 → Cognition 无法有效处理 → 解决方案质量差。
+这个链条说明：问题定义质量影响心智处理。
+
+**场景 3：Work → Language**
+你的 Feedback 表达模糊 → 接收者无法理解 → 改进循环断裂。
+这个链条说明：语言质量影响反馈效果。
+
+**场景 4：Work → Relationship**
+你的 Cooperation 中 Role 不明确 → Teamwork 效率低 → Conflict 产生。
+这个链条说明：做事结构影响关系质量。
+
+**场景 5：Work → Society**
+你的 Project Artifact 质量高 → 在 Society 中获得认可 → Career Path 扩展。
+这个链条说明：做事产出影响社会位置。
+
+**场景 6：Work → Technology**
+你的 Method 选择了错误的 Tool → 做事效率下降 → 需要重新评估 Workflow。
+这个链条说明：方法选择影响技术使用效果。
+
+**场景 7：Work → Value**
+你的 Goal 背后的 Purpose 不清晰 → 做事缺乏动力 → 需要重新评估 Importance。
+这个链条说明：价值判断驱动做事动力。
+
+## 本章产物
+
+Work Group 速查表：
+
+| Group | 核心关注 | 关键 Container | 服务增益 |
+|-------|---------|---------------|----------|
+| Goal | 目标设定 | Process Goal, Outcome Goal | 行动 |
+| Plan | 路径设计 | Step, Timeline | 行动 |
+| Task | 最小可执行 | Single Action Task, Task State | 行动 |
+| Method | 做事方式 | Framework, Process | 判断、行动 |
+| Project | 完整工作单元 | Project Lifecycle, Scope | 行动、创造 |
+| Practice | 能力训练 | Deliberate Practice, Routine | 长期能力 |
+| Problem | 问题解决 | Root Cause Analysis | 判断 |
+| Feedback | 改进循环 | Feedback Source, Feedback Utilization | 判断、长期 |
+
+## 小结
+
+Work 的 8 个 Group 覆盖了从目标设定到反馈改进的完整做事链。第 16 章为每个 Group 提供 Container 示例。

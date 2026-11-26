@@ -1,0 +1,488 @@
+---
+title: "第 10 章：Mind 的 Container 示例（Mind Containers）"
+---
+
+## 本章要解决的问题
+
+第 9 章梳理了 Mind 心智单位下的 8 个 Group：Perception、Attention、Memory、Emotion、Desire & Motivation、Cognition、Learning、Self。本章继续向下一层推进，展示每个 Group 下可以放置哪些 Container。
+
+心智概念比身体概念更抽象，但安置逻辑一致。一个人说"我脑子很乱"——这句话太模糊。通过 Mind 树，他可以进一步安置为：注意力被频繁切割、工作记忆过载、情绪反应被触发、认知负荷太高、或者学习策略不匹配。概念越有位置，判断就越清楚。
+
+## Perception 感知：Container 示例
+
+Perception 是信息进入心智的第一道门。它不同于 Sensation（Body → Sensation）——Sensation 是感觉器官接收信号，Perception 是大脑对信号的组织和解释。
+
+### Framing 框架
+
+Framing 是解释信息的参考系。同一个数据在不同框架下有不同含义。
+
+收纳 RU：perspective、context、reframing、narrative frame
+
+主体增益：它帮助主体识别"我看到的不是事实，是一个框架下的解释"。意识到自己在用某个框架，是切换框架的第一步。
+
+常见搭配： - shift the framing 切换框架 - narrow framing 狭窄的框架 - reframe the problem 重新定义问题
+
+常用句型： - The framing of this problem limits what solutions we consider. 这个问题的框架限制了我们能考虑的解决方案。 - I need to reframe this situation. 我需要重新框定这个情况。
+
+概念安置卡：
+
+```         
+RU 名称：Framing
+
+主位置：Mind → Perception → Framing
+
+关联位置：
+- Language → Narrative → Frame
+- Mind → Cognition → Mental Model
+
+关联动作：set, shift, challenge, broaden
+
+关联属性：positive, negative, narrow, expansive
+
+说明：Framing 是信息解释框架单位。它帮助主体意识到自己在用什么参考系解读信息。
+```
+
+## Attention 注意：Container 示例
+
+Attention 是认知资源分配机制。它是这个时代最稀缺的个人资源——不是因为注意力总量减少了，而是争夺注意力的外力指数级增加了。
+
+### Focus 专注
+
+Focus 是注意力持续集中于一个目标的状态。它是深度工作的基础。
+
+收纳 RU：deep work、flow、concentration、attention span
+
+主体增益：它帮助主体判断"我在专注还是假装在专注"。很多时候，一个人坐在桌前几小时，但注意力已经被切割成碎片。没有 Focus 这个 Container，他只会归因为"效率低"。
+
+常见用法：
+
+常见搭配： - maintain focus 保持专注 - lose focus 失去专注 - deep focus 深度专注 - focus is fragmented 专注被切割
+
+常用句型： - My focus has been fragmented this morning. 今天上午我的专注一直被切割。 - I need a block of uninterrupted time to get into deep focus. 我需要一段不被打断的时间来进入深度专注。
+
+概念安置卡：
+
+```         
+RU 名称：Focus
+
+主位置：Mind → Attention → Focus
+
+关联位置：
+- Body → Energy → Mental Energy
+- Technology → Tool → Cognitive Tool
+
+关联动作：enter, maintain, lose, regain
+
+关联属性：deep, shallow, sustained, fragmented
+
+说明：Focus 是注意力集中状态单位。它帮助主体判断专注质量，而非只计算坐在桌前的时间。
+```
+
+### Distraction 分心
+
+Distraction 是所有将注意力从焦点偏移的因素。它分为内部因素（思绪漂移）和外部因素（通知、中断）。
+
+收纳 RU：notification、interruption、mind wandering、multitasking
+
+主体增益：它帮助主体区分"我不够自律"和"环境设计太差"。分心很大程度是环境问题，不是个人问题。识别分心来源是管理分心的第一步。
+
+常见用法：
+
+常见搭配： - reduce distraction 减少分心 - eliminate distractions 消除分心源 - internal distraction 内在分心 - external distraction 外部干扰
+
+常用句型： - Notifications are a major source of distraction. 通知是分心的主要来源。 - I need to reduce external distractions during focused work. 在专注工作时，我需要减少外部干扰。
+
+概念安置卡：
+
+```         
+RU 名称：Distraction
+
+主位置：Mind → Attention → Distraction
+
+关联位置：
+- Technology → Tool → Notification
+- Mind → Attention → Focus
+
+关联动作：remove, resist, reduce, manage
+
+关联属性：internal, external, voluntary, involuntary
+
+说明：Distraction 是注意力偏移因素单位。它帮助主体识别分心来源，将问题从意志力转移到环境设计。
+```
+
+## Memory 记忆：Container 示例
+
+Memory 是信息的存储和检索系统。它不是"记性好不好"的问题——它是身份和学习的基础。
+
+### Working Memory 工作记忆
+
+Working Memory 是当前能操作的信息空间。它的容量有限，通常在 4-7 个组块之间。
+
+收纳 RU：chunk、mental load、cognitive capacity
+
+主体增益：它帮助主体理解"为什么有时处理不了复杂信息"——不是能力问题，是工作记忆空间已被占满。识别这一点后，主体会选择降低信息输入或使用外部工具来扩展工作记忆。
+
+常见用法：
+
+常见搭配： - working memory is overloaded 工作记忆过载 - working memory capacity 工作记忆容量 - offload working memory 卸载工作记忆负担
+
+常用句型： - My working memory is overloaded right now. 我当前的工作记忆过载了。 - I need to write things down to offload my working memory. 我需要写下来以减轻工作记忆负担。
+
+概念安置卡：
+
+```         
+RU 名称：Working Memory
+
+主位置：Mind → Memory → Working Memory
+
+关联位置：
+- Mind → Cognition → Cognitive Load
+- Technology → Tool → Cognitive Tool
+
+关联动作：load, unload, expand, overflow
+
+关联属性：available, overloaded, fresh, depleted
+
+说明：Working Memory 是认知桌面空间单位。它帮助主体判断何时需要降低信息输入或使用外部工具。
+```
+
+## Emotion 情绪：Container 示例
+
+Emotion 是对内外事件的自动反应系统。它不是"需要消除的东西"，而是携带信息的重要信号。
+
+### Negative Emotion 负向情绪
+
+Negative Emotion 包括焦虑、恐惧、愤怒、悲伤、羞耻等。每种情绪都有不同的触发和功能。
+
+收纳 RU：anxiety、fear、anger、sadness、shame、guilt
+
+主体增益：它帮助主体识别具体情绪类型，而不是笼统地说"我心情不好"。不同的情绪需要不同的处理方法——焦虑需要降低不确定性，愤怒需要确认边界被侵犯，悲伤需要允许哀悼。
+
+常见用法：
+
+常见搭配： - feel anxiety 感到焦虑 - manage anger 管理愤怒 - trigger sadness 触发悲伤 - negative emotion arises 负向情绪出现
+
+常用句型： - I am feeling anxiety about this decision. 我对这个决定感到焦虑。 - This anger may be a signal that my boundary was crossed. 这种愤怒可能是一个信号——我的边界被侵犯了。
+
+概念安置卡：
+
+```         
+RU 名称：Negative Emotion
+
+主位置：Mind → Emotion → Negative Emotion
+
+关联位置：
+- Body → Stress → Stress Response
+- Body → Sensation → Body Signal
+
+关联动作：feel, identify, regulate, express
+
+关联属性：mild, moderate, intense, overwhelming
+
+说明：Negative Emotion 是负向情绪识别单位。它帮助主体精确识别情绪类型，而非笼统地归为"心情不好"。
+```
+
+### Emotional Regulation 情绪调节
+
+Emotional Regulation 是管理和回应情绪的策略集合。它不是压制情绪，而是让主体有选择地回应。
+
+收纳 RU：cognitive reappraisal、acceptance、suppression、grounding
+
+主体增益：它帮助主体区分"我被情绪控制"和"我在管理情绪"。有调节策略意味着主体有选择——情绪出现后，可以选择回应方式，而不是被自动反应控制。
+
+常见用法：
+
+常见搭配： - practice emotional regulation 练习情绪调节 - regulate emotions 调节情绪 - emotional regulation strategy 情绪调节策略
+
+常用句型： - I need to regulate my emotion before responding. 在回应之前，我需要先调节一下自己的情绪。 - Emotional regulation is not about suppressing feelings. 情绪调节不是压制感受。
+
+概念安置卡：
+
+```         
+RU 名称：Emotional Regulation
+
+主位置：Mind → Emotion → Emotional Regulation
+
+关联位置：
+- Mind → Self → Self-awareness
+- Body → Stress → Stress Response
+
+关联动作：apply, practice, automate, refine
+
+关联属性：adaptive, maladaptive, conscious, automatic
+
+说明：Emotional Regulation 是情绪管理策略单位。它帮助主体从被情绪控制转向有选择地回应。
+```
+
+## Desire & Motivation 欲望与动机：Container 示例
+
+### Intrinsic Motivation 内在动机
+
+Intrinsic Motivation 是主体因活动本身而行动的驱动力。它不依赖外部奖励，而是来自兴趣、好奇心或内在满足感。
+
+收纳 RU：curiosity、interest、flow、autonomy、mastery
+
+主体增益：它帮助主体区分"我想做"和"我应该做"。依赖外在动机的行为容易在奖励消失后停止，而内在动机驱动的行为更持久。识别内在动机是建立长期习惯的核心。
+
+常见搭配： - find intrinsic motivation 找到内在动机 - lose intrinsic motivation 失去内在动机 - intrinsic motivation drives behavior 内在动机驱动行为
+
+常用句型： - I need to find the intrinsic motivation for this task. 我需要为这个任务找到内在动机。 - External rewards can undermine intrinsic motivation. 外部奖励可能削弱内在动机。
+
+概念安置卡：
+
+```         
+RU 名称：Intrinsic Motivation
+
+主位置：Mind → Desire & Motivation → Intrinsic Motivation
+
+关联位置：
+- Work → Goal → Process Goal
+- Value → Purpose → Personal Purpose
+
+关联动作：find, cultivate, lose, sustain
+
+关联属性：strong, weak, authentic, externalized
+
+说明：Intrinsic Motivation 是内在驱动力单位。它帮助主体识别并培养来自活动本身的持久动力。
+```
+
+### Goal-directed Desire 目标导向欲望
+
+Goal-directed Desire 是主体为达成特定目标而产生的渴望。它不同于即时冲动，而是有方向的、可持续的动力。
+
+收纳 RU：ambition、aspiration、drive、target desire
+
+主体增益：它帮助主体区分"我想要这个因为别人有"和"我想要这个因为它服务我的目标"。目标导向的欲望是行动的有效燃料，而盲目欲望只会消耗精力。
+
+常见搭配： - channel desire toward a goal 将欲望导向目标 - desire fades 欲望消退 - strong desire for achievement 强烈的成就欲望
+
+常用句型： - My desire to learn this skill is tied to my long-term goal. 我学习这项技能的欲望与我的长期目标相连。 - Desire without direction is just noise. 没有方向的欲望只是噪音。
+
+概念安置卡：
+
+```         
+RU 名称：Goal-directed Desire
+
+主位置：Mind → Desire & Motivation → Goal-directed Desire
+
+关联位置：
+- Work → Goal → Outcome Goal
+- Value → Purpose → Personal Purpose
+
+关联动作：channel, direct, sustain, redirect
+
+关联属性：focused, scattered, aligned, misaligned
+
+说明：Goal-directed Desire 是目标驱动欲望单位。它帮助主体将渴望转化为有方向的行动力。
+```
+
+## Cognition 认知：Container 示例
+
+### Mental Model 心智模型
+
+Mental Model 是主体用来理解世界如何运作的内部表征。它不是事实，而是简化现实的框架。
+
+收纳 RU：causal model、systems thinking、heuristic、analogy
+
+主体增益：它帮助主体意识到"我理解世界的方式只是一个模型，不是世界本身"。拥有多个心智模型的人能在不同情境下切换视角，而不是用单一框架解释一切。
+
+常见搭配： - build a mental model 建立心智模型 - update a mental model 更新心智模型 - the mental model is wrong 心智模型有误
+
+常用句型： - I need a better mental model for this situation. 我需要一个更好的心智模型来理解这个情况。 - A good mental model helps you predict outcomes. 一个好的心智模型帮助你预测结果。
+
+概念安置卡：
+
+```         
+RU 名称：Mental Model
+
+主位置：Mind → Cognition → Mental Model
+
+关联位置：
+- Language → Concept → Definition
+- Work → Method → Framework
+
+关联动作：build, test, update, discard
+
+关联属性：accurate, outdated, simple, complex
+
+说明：Mental Model 是世界理解框架单位。它帮助主体用简化的内部表征来预测和解释现实。
+```
+
+### Cognitive Bias 认知偏误
+
+Cognitive Bias 是系统性偏离理性判断的思维模式。它不是随机错误，而是可预测的判断偏差。
+
+收纳 RU：confirmation bias、sunk cost bias、availability heuristic、anchoring
+
+主体增益：它帮助主体识别"我的判断可能被什么偏误影响"。知道偏误的存在不能消除偏误，但能在关键时刻触发检查机制。
+
+常见搭配： - recognize a cognitive bias 识别认知偏误 - fall for a bias 陷入偏误 - bias affects judgment 偏误影响判断
+
+常用句型： - I may be falling for confirmation bias here. 我可能在这里陷入了确认偏误。 - Knowing about biases does not eliminate them, but it creates a pause. 了解偏误不能消除它们，但能制造一个停顿。
+
+概念安置卡：
+
+```         
+RU 名称：Cognitive Bias
+
+主位置：Mind → Cognition → Cognitive Bias
+
+关联位置：
+- Value → Risk → Failure Risk
+- Work → Feedback → Error Feedback
+
+关联动作：recognize, check for, mitigate, fall for
+
+关联属性：common, subtle, strong, corrected
+
+说明：Cognitive Bias 是系统性判断偏差单位。它帮助主体识别并检查自己的思维盲点。
+```
+
+## Learning 学习：Container 示例
+
+### Deliberate Practice 刻意练习
+
+Deliberate Practice 是有明确目标、即时反馈和持续修正的训练方式。它不同于重复练习，而是针对能力边界的有意识训练。
+
+收纳 RU：feedback loop、skill drill、edge training、error correction
+
+主体增益：它帮助主体区分"我在练习"和"我在有效练习"。没有反馈和修正的重复只是巩固现有水平，不会提升能力边界。
+
+常见搭配： - engage in deliberate practice 进行刻意练习 - design a practice routine 设计练习计划 - practice at the edge of ability 在能力边界练习
+
+常用句型： - I need deliberate practice, not just repetition. 我需要刻意练习，不只是重复。 - Deliberate practice requires immediate feedback. 刻意练习需要即时反馈。
+
+概念安置卡：
+
+```         
+RU 名称：Deliberate Practice
+
+主位置：Mind → Learning → Deliberate Practice
+
+关联位置：
+- Work → Practice → Skill Drill
+- Work → Feedback → Error Feedback
+
+关联动作：design, engage in, track, adjust
+
+关联属性：effective, mindless, targeted, scattered
+
+说明：Deliberate Practice 是能力边界训练单位。它帮助主体将重复转化为有反馈和修正的有效练习。
+```
+
+### Feedback Utilization 反馈利用
+
+Feedback Utilization 是将外部或内部反馈转化为改进行动的能力。它不是"收到反馈"，而是"用反馈做了什么"。
+
+收纳 RU：feedback loop、course correction、iteration、performance review
+
+主体增益：它帮助主体从"我知道问题在哪"转向"我根据反馈做了什么调整"。反馈本身不产生改进，利用反馈才产生改进。
+
+常见搭配： - utilize feedback 利用反馈 - close the feedback loop 闭合反馈循环 - feedback is ignored 反馈被忽略
+
+常用句型： - The feedback is useful, but I need to act on it. 反馈有用，但我需要据此行动。 - Closing the feedback loop is where real learning happens. 闭合反馈循环才是真正的学习发生的地方。
+
+概念安置卡：
+
+```         
+RU 名称：Feedback Utilization
+
+主位置：Mind → Learning → Feedback Utilization
+
+关联位置：
+- Work → Feedback → Error Feedback
+- Work → Practice → Deliberate Practice
+
+关联动作：receive, process, apply, iterate
+
+关联属性：effective, ignored, delayed, actionable
+
+说明：Feedback Utilization 是反馈转化单位。它帮助主体将收到的反馈转化为具体的改进行动。
+```
+
+## Self 自我：Container 示例
+
+### Self-awareness 自我觉察
+
+Self-awareness 是主体对自身状态、模式、触发点和盲点的觉察能力。它是所有自我调节的前提。
+
+收纳 RU：meta-cognition、emotional awareness、pattern recognition、blind spot
+
+主体增益：它帮助主体回答"我现在处于什么状态""我为什么会这样反应"。没有自我觉察，所有调节策略都是盲目的。
+
+常见搭配： - develop self-awareness 培养自我觉察 - lack self-awareness 缺乏自我觉察 - self-awareness increases 自我觉察提升
+
+常用句型： - I need more self-awareness in this situation. 我在这个情况下需要更多自我觉察。 - Self-awareness is the first step to self-regulation. 自我觉察是自我调节的第一步。
+
+概念安置卡：
+
+```         
+RU 名称：Self-awareness
+
+主位置：Mind → Self → Self-awareness
+
+关联位置：
+- Mind → Emotion → Emotional Regulation
+- Relationship → Boundary → Personal Boundary
+
+关联动作：develop, practice, deepen, lose
+
+关联属性：high, low, growing, stagnant
+
+说明：Self-awareness 是自我认知单位。它帮助主体识别自身状态、模式和触发点，为自我调节提供基础。
+```
+
+### Self-narrative 自我叙事
+
+Self-narrative 是主体讲述自己故事的方式。它不是事实记录，而是主体如何解释自己的经历、选择和身份。
+
+收纳 RU：identity story、personal myth、self-talk、narrative identity
+
+主体增益：它帮助主体意识到"我对自己讲的故事"如何影响行为。一个"我总是失败"的叙事会阻止尝试，而"我在学习"的叙事会鼓励继续。
+
+常见搭配： - change the self-narrative 改变自我叙事 - the narrative is limiting 叙事在限制自己 - rewrite the narrative 重写叙事
+
+常用句型： - My self-narrative is holding me back. 我的自我叙事在限制我。 - I can rewrite my self-narrative from "I can't" to "I'm learning". 我可以把自我叙事从"我不行"改写为"我在学习"。
+
+概念安置卡：
+
+```         
+RU 名称：Self-narrative
+
+主位置：Mind → Self → Self-narrative
+
+关联位置：
+- Language → Narrative → Personal Narrative
+- Mind → Emotion → Emotional Regulation
+
+关联动作：identify, challenge, rewrite, reinforce
+
+关联属性：limiting, empowering, fixed, growth-oriented
+
+说明：Self-narrative 是自我故事单位。它帮助主体识别并改写限制性的自我叙事。
+```
+
+## 本章产物
+
+Mind 主题的 Container 路径表：
+
+| Container            | 路径                                              |
+|----------------------|---------------------------------------------------|
+| Framing              | Mind → Perception → Framing                       |
+| Focus                | Mind → Attention → Focus                          |
+| Distraction          | Mind → Attention → Distraction                    |
+| Working Memory       | Mind → Memory → Working Memory                    |
+| Negative Emotion     | Mind → Emotion → Negative Emotion                 |
+| Emotional Regulation | Mind → Emotion → Emotional Regulation             |
+| Intrinsic Motivation | Mind → Desire & Motivation → Intrinsic Motivation |
+| Goal-directed Desire | Mind → Desire & Motivation → Goal-directed Desire |
+| Mental Model         | Mind → Cognition → Mental Model                   |
+| Cognitive Bias       | Mind → Cognition → Cognitive Bias                 |
+| Deliberate Practice  | Mind → Learning → Deliberate Practice             |
+| Feedback Utilization | Mind → Learning → Feedback Utilization            |
+| Self-awareness       | Mind → Self → Self-awareness                      |
+| Self-narrative       | Mind → Self → Self-narrative                      |
+
+## 小结
+
+Mind 的 Container 比 Body 更抽象，但安置逻辑完全一致：先确定 Theme，再到 Group，再到 Container。每个 Container 都服务主体增益，并通过常见用法进入语言调用层。接下来进入 Part 4：Language。

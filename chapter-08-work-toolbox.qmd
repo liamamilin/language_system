@@ -1,0 +1,446 @@
+---
+title: "Work Toolbox（工作工具箱）"
+---
+
+## Opening Problem
+
+Why does effort fail to become progress?（为什么努力没有变成进展？）
+
+Work is where inner state, thought, language, tools, and value judgment become action. A person can have energy, ideas, and clear language, yet still fail to produce stable results if the work structure is weak.
+
+When Work language is weak, a person says:
+
+- "I am busy."
+- "I have too many tasks."
+- "This project is stuck."
+- "I worked hard, but I did not improve."
+
+These sentences may be honest, but they are not yet diagnostic. Work turns them into more usable units:
+
+- My goal is an outcome goal, but I have no process goal.（我有结果目标，但没有过程目标。）
+- This is not a task; it is a project with missing milestones.（这不是任务，而是缺少里程碑的项目。）
+- The problem statement is vague, so the method keeps changing.（问题陈述模糊，所以方法一直变。）
+- I received feedback, but I did not close the feedback loop.（我收到了反馈，但没有闭合反馈循环。）
+
+The goal of this chapter is not productivity tricks. It is work structure: how goals become plans, plans become tasks, tasks become artifacts, and artifacts become feedback.
+
+::: {.callout-note title="Scope & Boundary"}
+This chapter is not a time-management system or productivity app guide. It focuses on Work as an action-and-feedback system（行动与反馈系统）.
+:::
+
+## Domain Language
+
+Work talks about the world through goal, plan, task, method, project, practice, problem, and feedback. It asks:
+
+- What is the goal?
+- What is the next step?
+- Is this a task or a project?
+- What method should guide the work?
+- What artifact should this produce?
+- What problem is blocking progress?
+- What feedback should change the next action?
+
+Work language matters because action fails quietly when work units are vague. A goal can pretend to be a task. A project can hide inside a to-do item. Feedback can become evaluation instead of information.
+
+Work gives the reader a vocabulary for execution causality（执行因果）:
+
+```text
+vague goal → vague plan → unclear task → weak execution
+（目标模糊 → 计划模糊 → 任务不清 → 执行变弱）
+
+unclear problem → wrong method → wasted effort
+（问题不清 → 方法错误 → 努力浪费）
+
+missing feedback loop → repeated error → no skill gain
+（反馈循环缺失 → 重复错误 → 没有能力收益）
+```
+
+Once this language is familiar, the reader can inspect work without reducing everything to effort or discipline.
+
+## Group Map
+
+Work has eight Groups. They are eight ways action becomes structured.
+
+| Group | What It Names | Typical Question |
+|---|---|---|
+| Goal（目标） | direction and desired state（方向与期望状态） | What am I trying to make true? |
+| Plan（计划） | path and sequence（路径与顺序） | What has to happen next? |
+| Task（任务） | executable work units（可执行工作单元） | Is this small enough to do? |
+| Method（方法） | reusable way of working（可复用的做事方式） | What approach should guide the work? |
+| Project（项目） | multi-step work with artifacts（有产物的多步工作） | What is this project producing? |
+| Practice（练习） | work designed for skill gain（服务能力收益的工作） | Is this improving my ability? |
+| Problem（问题） | gap between current and desired state（现状与目标之间的差距） | What is actually blocking progress? |
+| Feedback（反馈） | information that changes future action（改变后续行动的信息） | What should I adjust next? |
+
+## Core Containers
+
+The following containers are not a complete project-management system. They are the handles most needed for turning effort into structured progress.
+
+### Goal
+
+Goal talks about direction, control, measurement, and alignment. It asks: what should become true, and what part of that is under my control?
+
+#### Process Goal
+
+**Primary position:** Work → Goal → Process Goal
+
+Process Goal focuses on controllable action rather than final outcome. "Write 500 words per day" is a process goal; "finish the book" is an outcome goal.
+
+It solves the problem of making progress depend entirely on uncertain results. A process goal gives the reader a stable action path.
+
+It can hold RU such as daily practice, consistent action, habit target, and practice quota.
+
+**Common misplacement:** Process Goal is often misplaced under Task. A task can be completed once; a process goal organizes repeated action.
+
+**Associated positions:** Mind → Learning → Deliberate Practice; Value → Benefit → Skill Gain; Work → Practice → Runtime Training.
+
+**Associated language:** set, track, maintain, adjust; consistent, achievable, abandoned, overambitious.
+
+**Use sentences:**
+
+- I set a process goal of writing 500 words per day.
+- Process goals keep me moving when the outcome is uncertain.
+- This goal needs a repeatable action, not only a target result.
+
+#### Outcome Goal
+
+**Primary position:** Work → Goal → Outcome Goal
+
+Outcome Goal names the desired result. It holds RU such as target result, performance goal, achievement metric, and desired outcome.
+
+**Common misreading:** Outcome goals are often treated as fully controllable. They give direction, but they must be paired with process goals.
+
+**Use sentence:** Outcome goals tell me where I am going; process goals tell me how I keep moving.
+
+### Plan
+
+Plan talks about sequence, dependency, resource, and time. It asks: what path turns the goal into action?
+
+#### Step
+
+**Primary position:** Work → Plan → Step
+
+Step is a sequenced action inside a plan. It is not the whole task system; it is one move in an ordered path.
+
+It solves the problem of having a goal but no next movement. A clear step tells the reader what to do next.
+
+It can hold RU such as action step, next step, dependency, and sequence.
+
+**Common misplacement:** Step is often misplaced under Task → Single Action Task. A step may become a task, but inside a plan its main role is sequence.
+
+**Associated positions:** Work → Task → Single Action Task; Language → Instruction → Action Sentence; Value → Cost → Time Cost.
+
+**Associated language:** define, sequence, execute, skip; clear, vague, critical, optional.
+
+**Use sentences:**
+
+- What is the next step?
+- If a step is not actionable, break it down further.
+- This plan has goals but no clear steps.
+
+#### Timeline
+
+**Primary position:** Work → Plan → Timeline
+
+Timeline maps steps onto time. It holds RU such as schedule, deadline, due date, time estimate, and buffer.
+
+**Common misreading:** A timeline is often treated as prediction. Better: it is a coordination tool that makes time commitments visible.
+
+**Use sentence:** A timeline without buffer is a plan for failure.
+
+### Task
+
+Task talks about executability, size, state, and recurrence. It asks: what exactly can be done, delegated, batched, or blocked?
+
+#### Single Action Task
+
+**Primary position:** Work → Task → Single Action Task
+
+Single Action Task is a task that can be completed in one continuous action. It requires no further decomposition.
+
+It solves the problem of over-managing tiny actions and under-defining large ones.
+
+It can hold RU such as send email, make call, submit form, and sign document.
+
+**Common misplacement:** Single Action Task is often confused with Subtask. A subtask can still contain multiple actions; a single action task should be directly executable.
+
+**Associated positions:** Work → Plan → Step; Language → Instruction → Action Sentence; Technology → Automation → Shortcut.
+
+**Associated language:** complete, delegate, batch, defer; quick, urgent, routine, blocked.
+
+**Use sentences:**
+
+- This is a single action task; I should just do it now.
+- This item is not a task yet; it still needs decomposition.
+- I batch small single action tasks together.
+
+#### Recurring Task
+
+**Primary position:** Work → Task → Recurring Task
+
+Recurring Task is a task that returns on a schedule. It holds RU such as weekly review, monthly report, regular backup, and daily standup.
+
+**Common misreading:** Recurring tasks are often handled as fresh work every time. They should usually become templates, routines, or automations.
+
+**Use sentence:** This recurring task needs a template or automation.
+
+### Method
+
+Method talks about approach, framework, template, and transfer. It asks: what reusable way of working fits this situation?
+
+#### Framework
+
+**Primary position:** Work → Method → Framework
+
+Framework is a structured method for handling a type of problem. It reduces the cost of starting from zero.
+
+It solves the problem of reinventing the work structure every time a similar situation appears.
+
+It can hold RU such as GTD, first principles, design thinking, agile, and decision framework.
+
+**Common misplacement:** Framework is often misplaced under Mind → Cognition → Mental Model. A mental model explains how something works; a framework guides what to do.
+
+**Associated positions:** Mind → Cognition → Mental Model; Language → Concept → Core Concept; Technology → Workflow → Process Automation.
+
+**Associated language:** apply, adapt, combine, discard; rigid, flexible, proven, experimental.
+
+**Use sentences:**
+
+- This problem needs a different framework.
+- A good framework reduces the cognitive load of decision-making.
+- The framework is useful, but it does not fit every case.
+
+#### Template
+
+**Primary position:** Work → Method → Template
+
+Template is a reusable structure for producing work faster and more consistently. It holds RU such as standard format, checklist, blueprint, and boilerplate.
+
+**Common misreading:** A template is often treated as mechanical copying. A good template preserves a useful work structure while leaving room for judgment.
+
+**Use sentence:** A good template reduces the time from start to first draft.
+
+### Project
+
+Project talks about scope, artifact, milestone, coordination, and completion. It asks: what larger unit of work is this, and what should it produce?
+
+#### Project Artifact
+
+**Primary position:** Work → Project → Project Artifact
+
+Project Artifact is a visible output of a project: document, prototype, specification, report, codebase, deck, or design.
+
+It solves the problem of confusing activity with output. A project is not a pile of meetings; it is a system that produces artifacts.
+
+It can hold RU such as deliverable, prototype, specification, report, and codebase.
+
+**Common misplacement:** Project Artifact is often misplaced under Language → Text → Document. Some artifacts are documents, but the Work position asks what the project produces.
+
+**Associated positions:** Language → Text → Document; Technology → System → Codebase; Value → Standard → Acceptance Criteria.
+
+**Associated language:** produce, review, deliver, archive; draft, final, incomplete, deprecated.
+
+**Use sentences:**
+
+- What artifact should this meeting produce?
+- A project without clear artifacts is just activity.
+- The artifact is incomplete, so the project is not actually done.
+
+#### Milestone
+
+**Primary position:** Work → Project → Milestone
+
+Milestone is a major checkpoint in a project. It holds RU such as phase completion, checkpoint, release point, and gate review.
+
+**Common misreading:** A milestone is often treated as a deadline. A deadline is a time constraint; a milestone marks stage completion.
+
+**Use sentence:** A milestone is not just a date; it is a checkpoint.
+
+### Practice
+
+Practice talks about repetition, skill edge, feedback, and runtime. It asks: is this activity expanding ability or merely using existing ability?
+
+#### Runtime Training
+
+**Primary position:** Work → Practice → Runtime Training
+
+Runtime Training turns known concepts into callable concepts. It trains the system to call a concept when the situation requires it.
+
+It solves the problem of "I know this, but I do not use it when needed."
+
+It can hold RU such as spaced repetition, retrieval practice, contextual trigger, and fluency drill.
+
+**Common misplacement:** Runtime Training is often misplaced under Mind → Learning. It supports learning, but in Work it is a practice design for automatic use during action.
+
+**Associated positions:** Mind → Learning → Deliberate Practice; Language → Concept → Core Concept; Technology → Automation → Reminder.
+
+**Associated language:** train, trigger, repeat, internalize; fluent, slow, automatic, fragile.
+
+**Use sentences:**
+
+- I need runtime training for this concept, not just reading.
+- This concept is not yet callable under pressure.
+- Runtime training turns knowledge into usable instinct.
+
+#### Skill Drill
+
+**Primary position:** Work → Practice → Skill Drill
+
+Skill Drill is repeated practice aimed at one specific skill. It holds RU such as writing drill, coding exercise, speaking practice, and typing drill.
+
+**Common misreading:** Skill drills are often dismissed as boring. They build the base that complex projects depend on.
+
+**Use sentence:** I need to practice this skill before applying it to the project.
+
+### Problem
+
+Problem talks about gap, obstacle, root cause, and solution space. It asks: what is blocking the desired state?
+
+#### Problem Statement
+
+**Primary position:** Work → Problem → Problem Statement
+
+Problem Statement is a structured description of the gap between current state and desired state.
+
+It solves the problem of starting solution work before the problem is clear.
+
+It can hold RU such as problem definition, issue description, current state vs desired state, and gap analysis.
+
+**Common misplacement:** Problem Statement is often misplaced under Language → Sentence → Statement. It is a statement, but its Work role is to structure problem-solving.
+
+**Associated positions:** Language → Sentence → Statement; Language → Question → Diagnostic Question; Work → Problem → Root Problem.
+
+**Associated language:** write, refine, validate, share; clear, vague, actionable, abstract.
+
+**Use sentences:**
+
+- Before solving, I need a clear problem statement.
+- A good problem statement includes current state, desired state, and the gap.
+- The solution keeps changing because the problem statement is vague.
+
+#### Root Problem
+
+**Primary position:** Work → Problem → Root Problem
+
+Root Problem is the underlying issue that produces multiple surface symptoms. It holds RU such as core issue, systemic problem, underlying cause, and fundamental challenge.
+
+**Common misreading:** A root problem is often confused with the loudest symptom. The loudest symptom is not always the cause.
+
+**Use sentence:** All these symptoms may point to one root problem.
+
+### Feedback
+
+Feedback talks about result, information, adjustment, and learning loop. It asks: what should change because of what happened?
+
+#### Error Feedback
+
+**Primary position:** Work → Feedback → Error Feedback
+
+Error Feedback is information extracted from mistakes or failures.
+
+It solves the problem of treating error as shame rather than data. Error feedback turns failure into usable adjustment.
+
+It can hold RU such as mistake type, failure mode, lesson learned, and correction signal.
+
+**Common misplacement:** Error Feedback is often misplaced under Mind → Emotion → Shame. Shame may appear, but the Work unit is the information that improves the next action.
+
+**Associated positions:** Mind → Learning → Feedback Utilization; Language → Argument → Evidence; Work → Problem → Root Problem.
+
+**Associated language:** capture, analyze, apply, share; actionable, vague, specific, repeated.
+
+**Use sentences:**
+
+- I need to capture error feedback from this project.
+- Error feedback is most valuable when it is specific and actionable.
+- This mistake should become a change in the next attempt.
+
+#### Feedback Loop
+
+**Primary position:** Work → Feedback → Feedback Loop
+
+Feedback Loop is the cycle of action, feedback, adjustment, and renewed action. It holds RU such as iteration cycle, review cycle, test-feedback-adjust, and continuous improvement.
+
+**Common misreading:** Feedback is often treated as a one-time comment. A loop matters because feedback must change the next action.
+
+**Use sentence:** I need a faster feedback loop to improve this skill.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch08-single-action-splitter"></div>
+:::
+
+## Misplacement Patterns
+
+Work concepts are often misplaced because activity feels like progress, and effort feels like evidence.
+
+| Misplaced As | Better Placement | Why It Matters |
+|---|---|---|
+| "I worked hard" | Work → Project → Project Artifact | Effort is not the same as output. |
+| "This is a task" | Work → Project / Work → Task | Some "tasks" are actually projects. |
+| "I need motivation" | Work → Goal → Process Goal | Action may need a controllable process, not more emotion. |
+| "I need a better app" | Work → Method → Framework | Tool problems often hide method problems. |
+| "I failed" | Work → Feedback → Error Feedback | Failure can become adjustment data. |
+| "I practiced" | Work → Practice → Skill Drill / Feedback Loop | Repetition without feedback may not improve ability. |
+
+The point is not to turn life into work. The point is to notice when action is failing because the work unit is unclear.
+
+## Causal Chain
+
+Here is a common Work chain:
+
+```text
+vague goal
+→ unclear plan
+→ oversized task
+→ weak execution
+→ vague feedback
+→ repeated failure
+
+（目标模糊 → 计划不清 → 任务过大 → 执行变弱 → 反馈模糊 → 重复失败）
+```
+
+The useful move is to place the first RU correctly. If the first RU is Goal, the system should not start with a new app or a longer to-do list. It should start with goal type, process design, and task decomposition.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch08-feedback-loop-sim"></div>
+:::
+
+## Placement Practice
+
+Place each RU. Give a primary position, one associated position, and one use sentence.
+
+1. daily writing quota
+2. oversized to-do item
+3. design doc draft
+4. missed release checkpoint
+5. repeated bug after review
+
+Example:
+
+```text
+RU: oversized to-do item
+Primary position: Work → Task → Subtask
+Associated position: Work → Project → Milestone
+Use sentence: This to-do item is too large; I need to break it into subtasks.（这个待办太大了，我需要把它拆成子任务。）
+```
+
+Possible placements:
+
+| RU | Primary Position | Associated Position | Use Sentence |
+|---|---|---|---|
+| daily writing quota | Work → Goal → Process Goal | Mind → Learning → Deliberate Practice | My daily writing quota keeps action controllable. |
+| oversized to-do item | Work → Task → Subtask | Work → Plan → Step | This item is too large to execute as one task. |
+| design doc draft | Work → Project → Project Artifact | Language → Text → Document | This draft is the artifact the project currently needs. |
+| missed release checkpoint | Work → Project → Milestone | Work → Feedback → Error Feedback | The missed milestone gives feedback about scope or timeline. |
+| repeated bug after review | Work → Feedback → Error Feedback | Work → Problem → Root Problem | This repeated bug points to a deeper root problem. |
+
+## Chapter Output
+
+After this chapter, the reader should have a Work map that can turn vague effort into placed work units:
+
+```text
+"I am busy but not progressing"
+→ Goal / Step / Task / Project Artifact / Problem Statement / Error Feedback
+→ clearer action and better feedback
+```
+
+Work is not busyness. It is the structure that turns action into output, feedback, and skill gain.

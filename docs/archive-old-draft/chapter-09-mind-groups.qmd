@@ -1,0 +1,190 @@
+---
+title: "第 9 章：Mind 的核心 Group（Mind Groups）"
+---
+
+## 本章要解决的问题
+
+第 8 章给出了 Mind 的全景。现在逐一了解每个 Group。
+
+## 1. Perception 感知
+
+Perception 是信息进入心智的第一道门。它覆盖你如何接收和组织感官输入，以及你如何"解释"你看到的东西。
+
+Perception 不同于 Sensation（Body → Sensation）。Sensation 是感觉器官接收原始信号，Perception 是大脑对这些信号的组织和解释。
+
+覆盖：
+
+- **Sensory Input 感官输入**：视觉、听觉等原始信号的接收质量
+- **Pattern Recognition 模式识别**：你从复杂信息中识别结构的能力
+- **Interpretive Framework 解释框架**：你用什么参考系来解释感知到的信息。同样的事件，不同人看到不同的"事实"
+
+核心认知：你的感知不是客观的。它被你的预期、经验和当前状态塑造。这个认知本身是一个 powerful 的 RU——知道自己的感知有滤镜，比不知道要强。
+
+关联 RU：attention filter, selective perception, gestalt, framing
+
+## 2. Attention 注意
+
+Attention 是你分配认知资源的机制。它是这个时代最稀缺的个人资源——不是因为注意力总量减少了，而是争夺注意力的外力指数级增加了。
+
+覆盖：
+
+- **Focus 专注**：把注意力持续集中在一个目标上的能力
+- **Selective Attention 选择性注意**：在多个信号中主动选择关注什么
+- **Divided Attention 分散注意**：同时处理多个任务时的注意力分配
+- **Attention Residue 注意力残留**：切换任务时，前一任务的注意力残留干扰新任务的质量
+
+核心认知：注意力不是无限的。每一次切换都有成本——注意力残留需要时间消散。你感觉"做了一堆事但没做成什么"的核心原因常常不是效率，而是 attention fragmentation。
+
+关联 RU：concentration, distraction, multitasking, deep work, flow
+
+## 3. Memory 记忆
+
+Memory 是你存储和检索经验与知识的能力。Memory 不是"记性好不好的问题"，它是你的身份和学习的基础。
+
+覆盖：
+
+- **Working Memory 工作记忆**：你当前能"拿着"处理的信息量。通常只有 4-7 个组块。它是认知的桌面空间。
+- **Long-term Memory 长期记忆**：你存储的知识和经验。容量几乎无限，但检索需要线索。
+- **Encoding 编码**：信息如何进入记忆。编码质量决定了回忆质量。
+- **Retrieval 检索**：如何从记忆中提取信息。检索练习是加固记忆最有效的方法。
+- **Forgetting 遗忘**：不是记忆的敌人，而是系统的必要过滤器。问题不是遗忘，该记的没被编码。
+
+核心认知：你的记忆不是录像机。每次回忆都是一次重建。理解了这一点，你就不会因为"想不起"而恐慌——你会去重建线索，而不是质疑自己的记忆能力。
+
+关联 RU：recall, recognition, spacing effect, retrieval practice, memory palace
+
+## 4. Emotion 情绪
+
+Emotion 是你对内部和外部事件的自动反应系统。它不是弱点的表现，而是进化的工具。
+
+覆盖：
+
+- **Emotion Recognition 情绪识别**：识别自己当前的情绪状态。"我感到 anxiety"和"我不舒服"是完全不同的精度
+- **Emotional Regulation 情绪调节**：改变或管理情绪反应的策略。不是压制，是调节
+- **Negative Emotion 负向情绪**：焦虑、恐惧、愤怒、悲伤、羞耻——每个都有不同的触发和功能
+- **Positive Emotion 正向情绪**：快乐、感激、感动、满足——不是"锦上添花"，它们扩展认知资源
+- **Emotional Contagion 情绪感染**：情绪在人际之间的无意识传递
+
+核心认知：情绪是信息，不是敌人。你不需要消除负向情绪，你需要理解它们想告诉你什么。anxiety 说"有个不确定的风险"，anger 说"我的边界被侵犯了"。
+
+关联 RU：anxiety, anger, sadness, fear, joy, regulation strategy
+
+## 5. Desire & Motivation 欲望与动机
+
+Desire & Motivation 覆盖你为什么想要什么（desire）和为什么要去做（motivation）。
+
+覆盖：
+
+- **Intrinsic Motivation 内在动机**：因为你本身想做而产生的动力。好奇心、胜任感、自主性、归属感。
+- **Extrinsic Motivation 外在动机**：因为外部奖励或惩罚而产生的动力。金钱、认可、成绩、避免惩罚。
+- **Goal-directed Drive 目标驱动力**：明确目标驱动的行动能量。
+- **Procrastination 拖延**：明知道应该做但迟迟不动。不是懒，是某种动机冲突的外在表现。
+- **Willpower 意志力**：被认为是有限的资源或可训练的能力。
+
+核心认知：大部分人用"我不够自律"来解释行动失败，但问题常常是 motivation 设计问题——你没有设计让行动更容易发生的环境。
+
+关联 RU：want, need, drive, reward, incentive, resistance
+
+## 6. Cognition 认知
+
+Cognition 覆盖你"思考"的过程——推理、决策、问题解决、判断。
+
+覆盖：
+
+- **Cognitive Load 认知负荷**：心智任务消耗的工作记忆资源。负荷太高，判断力下降。
+- **Decision-making 决策**：在选项中做选择的过程。不是纯粹理性的，被情绪和偏误影响。
+- **Problem-solving 问题解决**：从问题状态到目标状态的路径设计。
+- **Mental Models 心智模型**：你对世界如何运转的内部表示。决定你如何解释信息和做出预测。
+- **Cognitive Bias 认知偏误**：系统性的思维偏差——确认偏误、可得性启发、锚定效应等。
+
+核心认知：了解认知偏误的意义不是消除它们（不可能），而是在高风险决策时知道自己可能在哪偏了。
+
+关联 RU：analytical thinking, critical thinking, heuristic, logic, judgment
+
+## 7. Learning 学习
+
+Learning 覆盖你如何获得新知识、技能和理解。它不是学校教育——它是终身的认知变化。
+
+覆盖：
+
+- **Learning Strategy 学习策略**：你怎么学。测试效应、间隔重复、交错练习、主动回忆。不是读一遍就能记住。
+- **Comprehension 理解**：不只是记住，是建立内在联系结构。
+- **Skill Acquisition 技能习得**：从新手到胜任的阶段。刻意练习是关键。
+- **Transfer 迁移**：把学到的知识应用到新场景的能力。
+- **Feedback Utilization 反馈利用**：从错误和反馈中提取信息来改进。
+
+核心认知：学习不是输入驱动的，是输出驱动的。你通过回忆、应用、教授来学，不是通过阅读和听讲。
+
+关联 RU：meta-learning, deliberate practice, zone of proximal development, understanding
+
+## 8. Self 自我
+
+Self 覆盖"你是谁"的方方面面。它是 Mind 中最抽象但也最影响行动的 Group。
+
+覆盖：
+
+- **Self-awareness 自我认知**：对自己内部状态的观察能力。Meta-cognition 的核心。
+- **Self-narrative 自我叙事**：你给自己讲的故事——"我是一个什么样的人""我经历了什么"。这个叙事影响你未来的选择。
+- **Identity 身份**：你是谁的核心认定。它可以随时间和环境变化。
+- **Self-esteem 自尊**：对自我价值的评估。太低的 self-esteem 让你不敢选择，太高的让你不自省。
+- **Self-compassion 自我慈悲**：面对失败时对自己的态度——不是自责，是认识到"人都会失败"。
+
+核心认知：Self 是最容易被忽视的 Group。大部分人在"我"这个词上花了很多时间，但没有把它当作一个可以安置和训练的心智领域。
+
+关联 RU：identity, self-concept, ego, self-talk, values, authenticity
+
+## Mind 的常见语言用法
+
+日常调用 Mind RU 时，常用动词搭配包括：
+
+- Perception: perceive / frame / interpret / recognize
+- Attention: direct / maintain / split / lose
+- Memory: encode / retrieve / store / forget
+- Emotion: feel / identify / regulate / express
+- Desire & Motivation: drive / inspire / drain / sustain
+- Cognition: analyze / reason / judge / decide
+- Learning: learn / practice / apply / transfer
+- Self: observe / reflect / narrate / accept
+
+## Mind 与其他 Theme 的连接示例
+
+Mind 是个人系统的处理器，与其他 Theme 有深度连接：
+
+**场景 1：Mind → Language**
+你的 Working Memory 过载 → 无法组织清晰的 Argument → 表达模糊。
+这个链条说明：心智状态直接影响语言质量。
+
+**场景 2：Mind → Work**
+你的 Cognitive Bias 影响了 Decision-making → 选择了错误的 Method → Project 方向偏差。
+这个链条说明：心智偏误会导致做事错误。
+
+**场景 3：Mind → Relationship**
+你的 Self-narrative 是"我不擅长社交" → 在 Connection 中表现退缩 → Bond 无法深化。
+这个链条说明：自我叙事影响关系质量。
+
+**场景 4：Mind → Technology**
+你的 Cognitive Load 太高 → 无法有效学习新 Tool → Technology 能力停滞。
+这个链条说明：心智状态影响技术学习。
+
+**场景 5：Mind → Body**
+你的 Negative Emotion（焦虑）持续激活 → Stress Response 被触发 → 身体状态下降。
+这个链条说明：心智状态直接影响身体。
+
+## 本章产物
+
+Mind Group 速查表：
+
+| Group | 核心关注 | 关键 Container | 服务增益 |
+|-------|---------|---------------|----------|
+| Perception | 信息输入与解释 | Pattern Recognition | 理解 |
+| Attention | 认知资源分配 | Focus, Distraction | 行动 |
+| Memory | 存储与检索 | Working Memory, Long-term Memory | 理解 |
+| Emotion | 情绪识别与调节 | Negative Emotion, Positive Emotion | 判断、状态 |
+| Desire & Motivation | 驱动力与行动障碍 | Intrinsic Motivation, Procrastination | 行动 |
+| Cognition | 思考、决策、判断 | Cognitive Load, Mental Model | 判断、理解 |
+| Learning | 知识获得与技能习得 | Learning Strategy, Skill Acquisition | 长期能力 |
+| Self | 自我认知与身份 | Self-narrative, Identity | 判断、状态 |
+
+## 小结
+
+Mind 的 8 个 Group 覆盖了你处理信息、做出判断和认识自己的方式。第 10 章为每个 Group 提供 Container 示例。

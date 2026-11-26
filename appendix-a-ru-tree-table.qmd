@@ -1,0 +1,50 @@
+---
+title: "RU Tree Master Table（RU 树总表）"
+---
+
+This appendix is a compact reference aligned with all eight Theme Toolbox chapters. It is not meant to replace the toolboxes—use it when you need to quickly locate a Theme, Group, or Associated Position.
+
+## Theme Table
+
+| Theme | Domain Language | Core Question |
+|---|---|---|
+| Body | condition, energy, signal, recovery | What physical condition is shaping this? |
+| Mind | perception, attention, emotion, cognition, self | What inner process is active? |
+| Language | word, sentence, concept, question, argument, instruction | What needs to be named, argued, or said? |
+| Work | goal, plan, task, method, project, feedback | How does intention become action and result? |
+| Relationship | access, trust, boundary, intimacy, repair, role | What is the arrangement between people? |
+| Society | role, group, organization, institution, market, platform | What social structure is shaping this? |
+| Technology | tool, software, AI model, data, system, automation, workflow | What mediates action technically? |
+| Value | importance, benefit, cost, risk, purpose, standard, ethics, meaning | What matters and by what standard? |
+
+## Group Table
+
+Every Theme contains exactly eight Groups, matching Chapters 5–12:
+
+| Theme | Groups (8 per Theme) |
+|---|---|
+| **Body** | Energy, Sleep, Diet, Movement, Health, Sensation, Stress, Fatigue & Pain |
+| **Mind** | Perception, Attention, Memory, Emotion, Desire & Motivation, Cognition, Learning, Self |
+| **Language** | Word & Phrase, Sentence, Text, Concept, Question, Argument, Narrative, Instruction |
+| **Work** | Goal, Plan, Task, Method, Project, Practice, Problem, Feedback |
+| **Relationship** | Connection, Trust, Boundary, Intimacy, Cooperation, Conflict, Influence, Relational Role |
+| **Society** | Role, Group, Organization, Institution, Market, Rule, Career, Platform Ecology |
+| **Technology** | Tool, Software, AI Model, Data, System, Technology Platform, Automation, Workflow |
+| **Value** | Importance, Benefit, Cost, Risk, Purpose, Standard, Ethics, Meaning |
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="appa-tree-lookup"></div>
+:::
+
+## Primary and Associated Position Examples
+
+| Concept | Primary Position | Associated Positions |
+|---|---|---|
+| Sleep Debt | Body → Sleep | Mind → Attention; Work → Task |
+| Cognitive Bias | Mind → Cognition | Language → Argument; Value → Standard |
+| Prompt | Language → Instruction | Technology → Workflow; Work → Task |
+| Feedback Loop | Work → Feedback | Technology → Automation; Mind → Learning |
+| Personal Boundary | Relationship → Boundary | Body → Sensation; Value → Ethics |
+| Labor Market | Society → Market | Work → Project; Value → Benefit |
+| Language Model | Technology → AI Model | Language → Text; Value → Standard |
+| Opportunity Cost | Value → Cost | Work → Goal; Society → Market |

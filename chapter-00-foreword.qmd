@@ -1,0 +1,46 @@
+# Foreword: Why Concepts Need a Place（为什么概念需要位置） {.unnumbered}
+
+Large language models can produce an answer in seconds. Search engines can produce hundreds of sources. Social platforms can produce a river of terms, frameworks, and opinions. But none of them can answer the most personal question:
+
+> Does this concept have a stable place in my own system?
+
+If a concept has no place, more information does not help much. The concept enters, shines for a moment, and disappears. You may remember that it felt important, but you cannot call it when life asks for it.
+
+This book begins from that problem.
+
+A concept needs more than a definition. It needs a **position**. It needs a domain language（领域语言）, a neighborhood, a boundary, a set of related actions, and a few sentences through which it can be used.
+
+For example, "boundary" is not just a word. Its primary position is Relationship. It often touches Body, Mind, Language, Work, and Value → Ethics. It can be misread as rejection, but it often functions as protection and clarity. Once placed, it becomes callable:
+
+> "This is not rejection; it is a boundary about what I can offer."
+
+That sentence is the point of the book.
+
+The RU Tree is a structure for making such sentences possible. It has four layers:
+
+- **Theme**: the large domain of life.
+- **Group**: a major family inside a Theme.
+- **Container**: the usable conceptual holder.
+- **Leaf**: the concrete concept, example, or case.
+
+The eight Themes are:
+
+- Body / Mind
+- Language / Work
+- Relationship / Society
+- Technology / Value
+
+The pairs matter, but the Themes remain separate. Body is not Mind. Language is not Work. Relationship is not Society. Technology is not Value. Each domain talks about the world differently, and reading becomes easier when the reader hears that difference.
+
+This is not a book of knowledge accumulation. Knowledge appears here only when it helps placement. A list is useful only if it helps the reader locate, distinguish, connect, and call a concept.
+
+I suggest reading in this order:
+
+1. Read Part 1 to understand the method.
+2. Read any Theme Toolbox that matches a current life problem.
+3. Use Part 6 to place new concepts and diagnose messy problems.
+4. Return to the appendices when you need tables, cards, drills, or pressure tests.
+
+The goal is not to know more words. The goal is to become the kind of reader who can ask:
+
+> What kind of thing is this, where does it belong, and what can I now say or do because I placed it?

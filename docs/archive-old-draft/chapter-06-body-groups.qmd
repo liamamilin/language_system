@@ -1,0 +1,191 @@
+---
+title: "第 6 章：Body 的核心 Group（Body Groups）"
+---
+
+## 本章要解决的问题
+
+第 5 章给了你 Body Theme 的全景。现在你需要了解每一个 Group：它覆盖什么？它为什么重要？它包含什么 Container？
+
+本章逐一介绍 Body 的 8 个 Group。
+
+## 1. Energy 精力
+
+Energy 是身体最重要的资源。它不是"有劲没劲"的简单二分，而是一个多维度状态。
+
+Energy 覆盖三个子方向：
+
+- **Physical Energy 体力**：你做体力活儿的能力。与睡眠、营养、运动直接相关。体力低时你不想动，但你越不动体力越低——这是需要被意识到的循环。
+- **Mental Energy 脑力**：你做思考工作的能力。与睡眠质量、血糖水平、认知负荷有关。脑力和体力不是同一存储池——你可能身体有力但脑子转不动。
+- **Emotional Energy 情绪能量**：你处理情绪和维持社交的能力。与压力水平、休息、心理恢复有关。情绪能量耗尽时你不想和任何人说话。
+
+Energy 的核心逻辑是**管理，不是压榨**。你无法一直保持高能量状态，周期性的恢复是系统内置需求。
+
+关联 RU：rest, recovery, depletion, burnout, energy management
+
+## 2. Sleep 睡眠
+
+Sleep 是身体恢复的核心机制。它不是"不做事的时间"，而是身体在做事——清理代谢废物、固化记忆、调节激素、修复组织。
+
+Sleep 覆盖：
+
+- **Sleep Quality 睡眠质量**：不是睡了多少小时，而是深度睡眠比例、入睡时间、睡眠连续性
+- **Sleep Cycle 睡眠周期**：约 90 分钟一个周期，含浅睡、深睡、REM
+- **Alertness 清醒度**：睡眠对第二天状态的影响
+- **Rest 休息**：不是睡眠，而是在清醒状态下的低消耗恢复行为
+
+核心认知：睡眠不是可以无限压缩的。长期的睡眠负债直接导致认知下降、情绪不稳、免疫力降低。
+
+关联 RU：sleep debt, circadian rhythm, deep sleep, REM, nap, insomnia
+
+## 3. Diet 饮食
+
+Diet 覆盖你的能量输入系统。它不是一个营养学课程，而是你管理饮食的基本 RU 置。
+
+Diet 覆盖：
+
+- **Nutrition 营养**：宏量营养素（碳水、蛋白质、脂肪）、微量营养素（维生素、矿物质）
+- **Diet Structure 饮食结构**：何时吃、吃多少、怎么搭配
+- **Eating Pattern 进食模式**：三餐制、断食、少食多餐、情绪性饮食
+
+核心认知：饮食服务主体增益的标准很简单——它是否让你更好地维持精力、管理体重、调节情绪和预防疾病。不是让你成为一个营养学家。
+
+关联 RU：nutrition, meal, food quality, hydration, supplement, hunger
+
+## 4. Movement 运动
+
+Movement 覆盖你的身体活动，从日常走动到系统化训练。
+
+Movement 覆盖：
+
+- **Physical Activity 身体活动**：日常走路、爬楼、家务等非训练性活动
+- **Exercise 训练**：有目的的体能训练（力量、耐力、柔韧、平衡）
+- **Recovery 恢复**：运动后的休息、拉伸、筋膜放松
+
+核心认知：不一定要成为健身者。但缺乏 Movement 会导致身体失能——不只是体能下降，而是影响睡眠质量、情绪稳定、认知能力。
+
+关联 RU：strength, endurance, flexibility, posture, warm-up, injury
+
+## 5. Health 健康
+
+Health 覆盖疾病预防、身体监测和医疗行为。它不是医学课程，而是你个人管理健康所需的核心 RU。
+
+Health 覆盖：
+
+- **Physical State 身体状态**：你的日常身体感受（良好、不适、虚弱）
+- **Illness 疾病**：常见病症的识别和管理
+- **Immunity 免疫**：身体防御系统的状态
+- **Medical Behavior 医疗行为**：体检、就诊、用药
+
+核心认知：Health 中的大部分 RU 不是"治"的，是"监测和预防"的。把健康 RU 放在你的 runtime 里，意味着你在小问题变成大问题之前就能识别。
+
+关联 RU：symptom, diagnosis, treatment, prevention, screening, chronic condition
+
+## 6. Sensation 感官
+
+Sensation 覆盖你通过五感接收外部信息的系统。它是 Body 和 Language/Mind 的接口。
+
+Sensation 覆盖：
+
+- **Vision 视觉**：视觉质量、眼疲劳、视觉敏感度
+- **Hearing 听觉**：听力、噪音敏感度
+- **Touch & Proprioception 触觉与本体感觉**：触觉灵敏度和身体在空间中的位置感
+- **Pain Signal 疼痛信号**：身体发出的疼痛信息，需要识别类型和采取行动
+
+核心认知：大多数人只有在感官出问题时才意识到它们的存在。Sensation 的 RU 帮助你主动监测感官状态。
+
+关联 RU：vision, hearing, skin sensation, balance, pain
+
+## 7. Stress 压力
+
+Stress 覆盖你对环境压力的生理反应。它是 Body 和 Mind 最大的交界域。
+
+Stress 覆盖：
+
+- **Stress Source 压力源**：触发压力反应的外部事件或内部信念
+- **Stress Response 压力反应**：身体的应激反应（皮质醇释放、心率上升、呼吸变浅）
+- **Stress Adaptation 压力适应**：身体对长期压力源的适应性变化
+- **Stress Management 压力管理**：通过行为干预压力反应
+
+核心认知：压力本身不是问题。问题是压力系统长期激活且没有恢复期。慢性压力是 body 最隐蔽的损耗源。
+
+关联 RU：cortisol, fight-or-flight, recovery, window of tolerance, burnout
+
+## 8. Fatigue & Pain 疲劳与疼痛
+
+Fatigue & Pain 覆盖身体的两个关键信号系统。它们不是独立的"问题"，是身体在告诉你需要调整。
+
+Fatigue 覆盖：
+
+- **Physical Fatigue 身体疲劳**：运动或体力劳动后的身体恢复需要
+- **Mental Fatigue 精神疲劳**：长时间认知工作后的脑力耗尽
+- **Chronic Fatigue 慢性疲劳**：长期恢复不足导致的持续性疲劳
+
+Pain 覆盖：
+
+- **Acute Pain 急性疼痛**：短暂、有明确定位的疼痛，通常是组织损伤信号
+- **Chronic Pain 慢性疼痛**：持续超过 3 个月的疼痛，可能不再有组织损伤，但神经系统持续发出信号
+- **Pain Signal Recognition 疼痛信号识别**：何时需要关注、何时可以观察
+
+关联 RU：exhaustion, soreness, recovery time, pain threshold, inflammation
+
+## Body 的常见语言用法
+
+日常调用 Body RU 时，常用动词搭配包括：
+
+- Energy: expend / restore / conserve / deplete
+- Sleep: improve / track / disrupt / recover
+- Diet: balance / supplement / optimize / neglect
+- Movement: increase / maintain / reduce / schedule
+- Health: monitor / detect / check / maintain
+- Sensation: sense / ignore / interpret / respond
+- Stress: trigger / regulate / manage / reduce
+- Fatigue & Pain: accumulate / recover / manage / treat
+
+## Body 与其他 Theme 的连接示例
+
+Body 不是孤立的。以下是几个跨 Theme 的连接场景：
+
+**场景 1：Body → Mind**
+你昨晚 Sleep Quality 差 → 今天 Mental Energy 低 → Attention 被切割 → 无法 Focus。
+这个链条说明：Body 的状态直接决定了 Mind 的运行质量。
+
+**场景 2：Body → Work**
+你长期处于 Stress Response 激活状态 → Fatigue 积累 → Task 执行效率下降 → Project 延期。
+这个链条说明：忽视 Body 信号最终会影响 Work 产出。
+
+**场景 3：Body → Relationship**
+你处于 Fatigue & Pain 状态 → 情绪调节能力下降 → 在 Conflict 中更容易升级。
+这个链条说明：身体状态影响你在关系中的反应模式。
+
+**场景 4：Body → Language**
+你注意到 Body Signal → 需要用精确的 Diagnostic Question 来排查问题根源 → 用 Sentence 表达给医生或 AI。
+这个链条说明：身体感知需要语言工具来精确描述和诊断。
+
+**场景 5：Body → Technology**
+你使用 Wearable Device 监测 Sleep Quality 和 Physical Activity → 用 App 跟踪 Nutrition 和 Stress Response。
+这个链条说明：技术工具扩展了你感知和管理身体信号的能力。
+
+**场景 6：Body → Value**
+你判断 Health 的 Importance → 决定你愿意花多少 Time Cost 在 Movement 上 → 评估不同运动方式的 Benefit。
+这个链条说明：价值判断驱动身体行为的选择。
+
+场景数越多，说明你对 Body 在各生活域中的影响理解越深。建议你在日常中继续发现更多连接。
+
+## 本章产物
+
+Body Group 速查表：
+
+| Group | 核心关注 | 关键 Container | 服务增益 |
+|-------|---------|---------------|----------|
+| Energy | 多维度精力管理 | Physical Energy, Mental Energy | 行动、状态 |
+| Sleep | 睡眠质量与恢复 | Sleep Quality, Sleep Cycle | 状态、长期 |
+| Diet | 能量输入管理 | Nutrition, Eating Pattern | 行动、状态 |
+| Movement | 身体活动与训练 | Physical Activity, Exercise | 行动、长期 |
+| Health | 疾病预防与监测 | Physical State, Illness | 状态、长期 |
+| Sensation | 感官信号与保护 | Vision, Pain Signal | 状态 |
+| Stress | 压力反应与管理 | Stress Response | 状态、判断 |
+| Fatigue & Pain | 疲劳与疼痛信号 | Physical Fatigue, Pain Signal | 状态、行动 |
+
+## 小结
+
+Body 的 8 个 Group 覆盖了身体运行的主要方面。第 7 章将给出每个 Group 下的 Container 示例。

@@ -1,0 +1,112 @@
+---
+title: "Daily Training（每日训练）"
+---
+
+The RU Tree becomes useful only through practice. The goal is not to memorize the tree. The goal is to make placement natural.
+
+## Daily Five
+
+Each day, place five items:
+
+1. one concept from reading;
+2. one concept from conversation;
+3. one problem from your own life;
+4. one tool, task, or workflow;
+5. one value judgment.
+
+For each item, write only:
+
+```text
+Concept or problem:
+Primary Theme:
+Group:
+Container:
+Use sentence:
+```
+
+This should take 10-15 minutes.
+
+## Weekly Review
+
+Once a week, choose three cards and improve them.
+
+Ask:
+
+- Is the primary Theme correct?
+- Did I confuse the concept with a nearby concept?
+- Does the use sentence feel natural?
+- What associated position did I miss?
+- Does this concept deserve a stable place or only a temporary note?
+
+## Four-Week Training Path
+
+### Week 1: Theme Only
+
+Practice asking:
+
+> Is this Body, Mind, Language, Work, Relationship, Society, Technology, or Value?
+
+Do not worry about Group or Container yet.
+
+### Week 2: Theme + Group
+
+Add the first neighborhood.
+
+Example:
+
+```text
+Concept: salary
+Theme: Society
+Group: Market
+```
+
+### Week 3: Theme + Group + Container
+
+Make the concept usable.
+
+```text
+Concept: salary
+Theme: Society
+Group: Market
+Container: Labor Market
+Associated position: Value → Benefit
+```
+
+### Week 4: Use Sentences
+
+Every placement must produce a sentence.
+
+```text
+Salary reflects market position, negotiation, scarcity, and organization budget; it is not my human value.
+```
+
+## Training With AI
+
+AI can help, but it should not decide the placement for you.
+
+Useful prompts:
+
+```text
+I am building a personal RU Tree. Help me test whether this concept belongs first to Body, Mind, Language, Work, Relationship, Society, Technology, or Value. Give reasons and possible misplacements.
+```
+
+```text
+Generate three possible use sentences for this concept. Each sentence should make the concept actionable, not merely define it.
+```
+
+```text
+Challenge my placement. What nearby concept am I confusing it with?
+```
+
+## Evaluation
+
+A placement is improving when:
+
+- it becomes easier to explain;
+- it produces better sentences;
+- it changes action or judgment;
+- it prevents a repeated confusion;
+- it connects to other domains without becoming vague.
+
+The test is not whether the card looks complete. The test is whether the concept becomes callable.
+

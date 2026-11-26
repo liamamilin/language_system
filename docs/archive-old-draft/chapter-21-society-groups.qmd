@@ -1,0 +1,189 @@
+---
+title: "第 21 章：Society 的核心 Group（Society Groups）"
+---
+
+## 本章要解决的问题
+
+第 20 章给了你 Society 的全景。现在逐一了解每个 Group：它覆盖什么？它为什么重要？它包含什么 Container？
+
+本章逐一介绍 Society 的 8 个 Group。
+
+## 1. Role 角色
+
+Role 是在社会结构中由制度或文化赋予的位置。你同时扮演多个 Role：员工、家长、朋友、公民。
+
+覆盖：
+
+- **Role Identity 角色身份**：你在特定社会结构中是谁。不是个人选择，是结构分配 + 个人同意。
+- **Role Expectation 角色期待**：社会对你这个角色有什么行为期待。Role 冲突发生在不同角色期待相互矛盾时。
+- **Ascribed Role 社会赋予角色**：你被给予的角色——年龄、性别、家庭出身。
+- **Achieved Role 获得角色**：你通过努力获得的角色——职位、资格。
+
+核心认知：Role 不是"你"的全部，但决定了你在不同场景中被如何对待。
+
+关联 RU：status, position, function, responsibility, authority
+
+## 2. Group 群体
+
+Group 指代社会中的集体单位——从兴趣小组到社会阶层。
+
+覆盖：
+
+- **Community 社群**：基于共同兴趣、身份或目标形成的群体。
+- **Social Class 社会阶层**：由经济地位、教育、文化资本等划分的社会层次。
+- **In-group / Out-group 内部群体/外部群体**：我是/不是这个群体的心理边界。
+- **Group Identity 群体身份**：你从群体中获得的部分身份认同。
+
+核心认知：Group 不是你"加入"它就完了。每个 Group 都有其默认的行为规范、语言习惯和价值判断。理解你所在 Group 的 RU，是理解你被如何塑造的关键。
+
+关联 RU：tribe, circle, network effect, collective identity, social capital
+
+## 3. Organization 组织
+
+Organization 指正式的机构实体。大部分人一生中大部分时间生活在 Organization 之内或与之互动。
+
+覆盖：
+
+- **Company 公司**：最经典的现代组织形态。有明确的层级、目标和规则。
+- **Non-profit 非营利组织**：以使命驱动的组织。
+- **Government Agency 政府机构**：公共服务组织。
+- **Organization Structure 组织结构**：层级、矩阵、扁平、网状——结构决定沟通和决策路径。
+
+核心认知：不同类型的 Organization 有完全不同的运行逻辑。你把非营利当公司管，或者把公司当家庭期待，都会出问题。
+
+关联 RU：hierarchy, management, department, culture, mission
+
+## 4. Institution 制度
+
+Institution 是塑造社会运行的基础结构和规则体系。不同于 Organization，Institution 是更抽象、更持久的"游戏规则"。
+
+覆盖：
+
+- **Education System 教育制度**：如何被教育、被认证。学校不仅是学习场所，也是社会筛选机制。
+- **Legal System 法律制度**：约束行为的正式规则体系。
+- **Economic System 经济制度**：资源如何分配。
+- **Institutional Change 制度变迁**：当制度需要演进时的过程。
+
+核心认知：大部分个人层面的"不公平"体验是 Institution 层面的问题。你把它识别为个人问题时，解决方案是适应；你把它识别为制度问题时，解决方案可能是参与改变。
+
+关联 RU：norm, regulation, policy, systemic barrier, access
+
+## 5. Market 市场
+
+Market 是交换发生的系统。不限于股市——劳动市场、注意力市场、声誉市场。
+
+覆盖：
+
+- **Labor Market 劳动力市场**：你的时间、技能和经验被定价的地方。你的"市场价值"是这个市场的估值。
+- **Product Market 产品市场**：你创造的东西被交易的地方。
+- **Attention Market 注意力市场**：现代互联网的核心市场。你的注意力是被买卖的。
+- **Market Signal 市场信号**：市场给出的信息——价格变化、需求波动、竞争行为。
+
+核心认知：你在多个市场中同时交易。你出卖劳动（Labor Market）、消费时间（Attention Market）、建立声誉（Reputation Market）。理解你在哪些市场里是被交易的，是你保护自己利益的第一步。
+
+关联 RU：supply, demand, price, competition, differentiation, platform
+
+## 6. Rule 规则
+
+Rule 是约束行为的系统——从法律条到办公室的"我们一直这样做"。
+
+覆盖：
+
+- **Explicit Rule 明文规则**：写下来的、可稽查的。法律、合同、规定。
+- **Implicit Rule 潜规则**：没有人写但所有人都知道。职场中的"不能比领导早走"。
+- **Rule System 规则系统**：一套规则的运行结构——谁制定、谁执行、谁受约束。
+- **Rule Change 规则变更**：规则的演变。
+
+核心认知：没有意识到潜规则的存在，你的理性决策就会漏掉最大变量。
+
+关联 RU：law, policy, code of conduct, unwritten rule, enforcement
+
+## 7. Career 职业
+
+Career 是你工作生命的轨迹。它不是一份工作接着一份工作，而是你专业技能、社会角色和个人身份在时间中的演变。
+
+覆盖：
+
+- **Career Path 职业路径**：你从当前职位到目标职位的可能路线。
+- **Skill Market 技能市场**：决定你的技能值多少钱的市场。
+- **Career Transition 职业转型**：从一条路径切换到另一条。
+- **Career Capital 职业资本**：你在职业生涯中积累的知识、技能、人脉、声誉。
+
+核心认知：Career 不是一条直线。它由多个阶段组成，每个阶段需要不同的技能和策略。
+
+关联 RU：job, profession, promotion, career ladder, portfolio career
+
+## 8. Platform Ecology 平台生态
+
+Platform Ecology 是数字时代新增的关键社会结构。平台不仅是技术（Technology），它重组了社会关系和经济模式。
+
+覆盖：
+
+- **Digital Platform 数字平台**：连接供需方的数字基础设施。淘宝、微信、YouTube、Upwork。
+- **Creator Economy 创作者经济**：个人通过平台直接向受众提供内容并获得收入。
+- **Platform Rule 平台规则**：平台制定的算法、审核规则、分成规则。
+- **Platform Dependency 平台依赖**：你依赖平台获取收入或影响力的程度。
+
+核心认知：平台不是中性的基础设施。它们有自己的利益和规则。不理解平台 ecology 的个人创作者在这个时代几乎不可能建立可持续的独立职业。
+
+关联 RU：algorithm, monetization, audience, platform risk, multi-platform strategy
+
+## Society 的常见语言用法
+
+日常调用 Society RU 时，常用动词搭配包括：
+
+- Role: take on / shift / negotiate / perform
+- Group: join / belong to / leave / influence
+- Organization: work at / found / manage / restructure
+- Institution: participate in / navigate / change / challenge
+- Market: enter / compete / adapt / monitor
+- Rule: follow / break / create / enforce
+- Career: plan / transition / build / advance
+- Platform Ecology: join / create / depend on / diversify
+
+## Society 与其他 Theme 的连接示例
+
+Society 是宏观背景，与其他 Theme 有深度连接：
+
+**场景 1：Society → Work**
+你的 Organization 结构扁平 → 决策路径短 → Project 推进更快。
+这个链条说明：组织结构影响做事效率。
+
+**场景 2：Society → Mind**
+你的 Role 冲突（员工 vs 家长）→ Cognitive Load 增加 → 判断力下降。
+这个链条说明：社会角色影响心智状态。
+
+**场景 3：Society → Language**
+你所在的 Community 有特定 Jargon → 你需要掌握这些术语才能有效沟通。
+这个链条说明：社会群体影响语言使用。
+
+**场景 4：Society → Relationship**
+你的 Professional Network 质量高 → 获得更多 Career 机会 → 社会位置提升。
+这个链条说明：关系网络影响社会机会。
+
+**场景 5：Society → Technology**
+Platform Rule 改变 → 你的 Creator Economy 收入受影响 → 需要调整 Technology 策略。
+这个链条说明：平台规则影响技术使用效果。
+
+**场景 6：Society → Value**
+你在 Labor Market 中的价值被低估 → 需要重新评估 Benefit vs Cost → 做出 Career 决策。
+这个链条说明：市场信号影响价值判断。
+
+## 本章产物
+
+Society Group 速查表：
+
+| Group | 核心关注 | 关键 Container | 服务增益 |
+|-------|---------|---------------|----------|
+| Role | 社会位置 | Role Identity, Role Expectation | 理解 |
+| Group | 集体归属 | Community, Social Class | 理解 |
+| Organization | 正式机构 | Company, Organization Structure | 行动 |
+| Institution | 运行规则 | Education System, Legal System | 理解、判断 |
+| Market | 交换系统 | Labor Market, Attention Market | 判断、行动 |
+| Rule | 约束系统 | Explicit Rule, Implicit Rule | 理解、判断 |
+| Career | 职业轨迹 | Career Path, Career Capital | 行动、长期 |
+| Platform Ecology | 数字生态 | Creator Economy, Platform Rule | 理解、行动 |
+
+## 小结
+
+Society 的 8 个 Group 覆盖了你与社会结构的主要接口。第 22 章为每个 Group 提供 Container 示例。

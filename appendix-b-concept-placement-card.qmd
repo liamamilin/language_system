@@ -1,0 +1,107 @@
+---
+title: "Concept Placement Card（概念安置卡）"
+---
+
+Use this card whenever a new concept appears.
+
+## Short Card
+
+```text
+Concept:
+Primary Theme:
+Group:
+Container:
+Problem it helps solve:
+Common misplacement:
+Common misreading:
+Associated positions:
+Use sentence:
+One real example:
+```
+
+## Full Card
+
+```text
+Concept:
+
+1. Subject Gain
+What does this concept help me understand, judge, do, regulate, express, create, or grow?
+
+2. Primary Position
+Theme:
+Group:
+Container:
+
+3. Associated Positions
+Which other Themes does it touch?
+
+4. Boundary
+What is this concept not?
+
+5. Misplacement
+Where do I often place it incorrectly?
+
+6. Misreading
+What misunderstanding does this concept invite?
+
+7. Associated Language
+Useful verbs:
+Useful adjectives:
+Useful questions:
+
+8. Use Sentence
+Write one sentence that makes the concept callable.
+
+9. Real Case
+Where did I meet this concept in life, reading, work, or conversation?
+```
+
+## Example 1: Boundary
+
+```text
+Concept: Boundary
+Primary Theme: Relationship
+Group: Boundary
+Container: Personal Boundary
+Problem it helps solve: confusion about access, responsibility, and limits
+Common misplacement: treating boundary as rejection
+Common misreading: thinking a boundary means lack of care
+Associated positions: Body → Access; Mind → Regulation; Value → Ethics
+Use sentence: This is not rejection; it is a boundary about what I can offer.
+One real example: declining a late-night work request because recovery time is protected
+```
+
+## Example 2: AI Workflow
+
+```text
+Concept: AI Workflow
+Primary Theme: Technology
+Group: Workflow
+Container: AI Workflow
+Problem it helps solve: treating the model as the whole process
+Common misplacement: placing everything under AI Model
+Common misreading: assuming better output only requires a better prompt
+Associated positions: Language → Prompt; Work → Process; Value → Quality Standard
+Use sentence: The model is one step; the workflow includes input, review, storage, and use.
+One real example: using AI to draft a report, then checking evidence, revising claims, and saving the result
+```
+
+## Example 3: Opportunity Cost
+
+```text
+Concept: Opportunity Cost
+Primary Theme: Value
+Group: Cost
+Container: Opportunity Cost
+Problem it helps solve: ignoring the option lost by choosing another option
+Common misplacement: counting only money
+Common misreading: thinking all cost is visible
+Associated positions: Work → Priority; Society → Market; Body → Recovery
+Use sentence: The real cost includes the opportunity I cannot pursue.
+One real example: accepting one more project and losing the weekend needed for rest
+```
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="appb-card-exporter"></div>
+:::
+

@@ -1,0 +1,435 @@
+---
+title: "Mind Toolbox（心智工具箱）"
+---
+
+## Opening Problem
+
+Why does my inner state keep changing what I notice, feel, decide, and do?（为什么我的内在状态总是在改变我注意什么、感受什么、决定什么、做什么？）
+
+Mind is where the personal system processes the world. It receives information, selects what matters, stores and retrieves experience, reacts emotionally, forms desires, makes judgments, learns, and tells a story about the self.
+
+When Mind language is weak, a person collapses many different problems into one vague sentence: "My mind is messy." That sentence may point to fragmented attention（注意被切割）, overloaded working memory（工作记忆过载）, an activated negative emotion（负向情绪被激活）, a wrong mental model（心智模型有误）, or a limiting self-narrative（限制性自我叙事）.
+
+The goal of this chapter is not to turn the reader into a psychologist. It is to give the reader stable handles（稳定抓手） for naming inner events before they become decisions, actions, conflicts, or identities.
+
+::: {.callout-note title="Scope & Boundary"}
+This chapter helps with naming and placement, not clinical diagnosis or therapy. Severe, persistent, or worsening distress, or any risk of harm to self or others（伤害自己或他人的风险）, calls for professional support.
+:::
+
+## Domain Language
+
+Mind talks about the world through attention, memory, emotion, motivation, cognition, learning, and self-observation. It asks:
+
+- What did I notice?
+- What did I focus on?
+- What am I holding in working memory?
+- What emotion is active?
+- What model am I using?
+- What story am I telling about myself?
+
+Mind language is especially important because inner events easily disguise themselves as truth. A feeling can feel like evidence. A self-narrative can feel like identity. A bias can feel like clear judgment.
+
+Mind gives the reader a vocabulary for cognitive causality（认知因果）:
+
+```text
+working memory overload → unclear argument → poor decision
+（工作记忆过载 → 论证不清 → 决策变差）
+
+negative emotion → narrowed attention → reactive behavior
+（负向情绪 → 注意范围变窄 → 反应性行为）
+
+self-narrative → expectation → action pattern → repeated outcome
+（自我叙事 → 预期 → 行动模式 → 重复结果）
+```
+
+Once this language is familiar, the reader can follow arguments about thinking, emotion, learning, and self without stopping to decode every term.
+
+## Group Map
+
+Mind has eight Groups. They are not psychology categories to memorize. They are eight ways the inner system talks about experience.
+
+| Group | What It Names | Typical Question |
+|---|---|---|
+| Perception（感知） | how input is organized and interpreted（输入如何被组织和解释） | What frame am I using to see this? |
+| Attention（注意） | allocation of cognitive resources（认知资源分配） | Where is my mind actually placed? |
+| Memory（记忆） | holding, storing, and retrieving information（保持、存储和检索信息） | Is my mental workspace overloaded? |
+| Emotion（情绪） | automatic affective responses（自动情绪反应） | What emotion is active, and what information does it carry? |
+| Desire & Motivation（欲望与动机） | drive, wanting, resistance, and action energy（驱动力、想要、阻力和行动能量） | What is moving or blocking action? |
+| Cognition（认知） | reasoning, judgment, models, and bias（推理、判断、模型和偏误） | What thinking pattern is shaping this judgment? |
+| Learning（学习） | changing knowledge, skill, and understanding（改变知识、技能和理解） | Is this activity producing learning? |
+| Self（自我） | self-observation, identity, and narrative（自我观察、身份和叙事） | What story about myself is steering behavior? |
+
+## Core Containers
+
+The following containers are not a complete map of the mind. They are the minimum set of handles needed to read common inner events.
+
+### Perception
+
+Perception talks about input, frame, interpretation, and pattern. It asks: am I seeing the situation, or am I seeing the situation through one narrow frame?
+
+#### Framing
+
+**Primary position:** Mind → Perception → Framing
+
+Framing is the interpretive frame through which information becomes meaningful. The same event can become failure, feedback, disrespect, opportunity, or risk depending on the frame.
+
+It solves the problem of treating perception as neutral fact. The reader learns to ask: "What frame am I using?"
+
+It can hold RU such as perspective, context, reframing, and narrative frame.
+
+**Common misplacement:** Framing is often placed only under Language → Narrative. Language expresses a frame, but Mind uses the frame to perceive and interpret before expression happens.
+
+**Associated positions:** Language → Narrative → Personal Narrative; Mind → Cognition → Mental Model; Value → Standard → Evaluation Standard.
+
+**Associated language:** frame, reframe, narrow, broaden; positive, negative, rigid, flexible.
+
+**Use sentences:**
+
+- The framing of this problem limits the solutions I can see.
+- I need to reframe this situation before I decide.
+- This may be a framing problem, not a fact problem.
+
+#### Pattern Recognition
+
+**Primary position:** Mind → Perception → Pattern Recognition
+
+Pattern Recognition is the ability to notice structure in repeated signals. It holds RU such as recurring pattern, signal cluster, anomaly, and gestalt.
+
+**Common misreading:** Pattern Recognition is often treated as certainty. Seeing a pattern is useful, but the pattern still needs testing.
+
+**Use sentence:** I may be seeing a pattern, but I still need to test it.
+
+### Attention
+
+Attention talks about placement, selection, interruption, and residue. It asks: where is the mind placed, and what keeps pulling it away?
+
+#### Focus
+
+**Primary position:** Mind → Attention → Focus
+
+Focus is the state of sustained attention on one object. It is the condition for deep work, difficult reading, careful listening, and complex creation.
+
+It solves the problem of measuring work by time spent rather than attention quality.
+
+It can hold RU such as deep work, flow, concentration, and attention span.
+
+**Common misplacement:** Focus is often misplaced under Work → Task. The task may be clear, but the attention state may still be fragmented.
+
+**Associated positions:** Body → Energy → Mental Energy; Technology → Tool → Distraction Blocker; Work → Task → Deep Work.
+
+**Associated language:** enter, maintain, lose, regain; deep, shallow, sustained, fragmented.
+
+**Use sentences:**
+
+- My focus has been fragmented this morning.
+- I need uninterrupted time to enter deep focus.
+- The issue is not task clarity; it is focus quality.
+
+#### Distraction
+
+**Primary position:** Mind → Attention → Distraction
+
+Distraction is any force that pulls attention away from its intended object. It holds RU such as notification, interruption, mind wandering, and multitasking.
+
+**Common misreading:** Distraction is often moralized as weak discipline. In the Mind tree, it is first an attention-design problem: what is pulling the mind away?
+
+**Use sentence:** Notifications are a major source of distraction.
+
+### Memory
+
+Memory talks about holding, encoding, retrieval, and reconstruction. It asks: what can the mind hold now, and what can it retrieve later?
+
+#### Working Memory
+
+**Primary position:** Mind → Memory → Working Memory
+
+Working Memory is the active mental workspace（当前可操作的心智工作台）. It holds information temporarily while the reader reasons, compares, speaks, writes, or decides.
+
+It solves the problem of treating cognitive overload as lack of intelligence. The workspace may simply be full.
+
+It can hold RU such as chunk, mental load, cognitive capacity, and temporary representation.
+
+**Common misplacement:** Working Memory is often misplaced under Work → Productivity. The person tries to work faster, when the actual need is to offload information.
+
+**Associated positions:** Mind → Cognition → Cognitive Load; Technology → Tool → Note-taking Tool; Language → Text → Outline.
+
+**Associated language:** load, offload, overload, clear; available, overloaded, fragile, externalized.
+
+**Use sentences:**
+
+- My working memory is overloaded right now.
+- I need to write things down to offload working memory.
+- This is not a motivation issue; my mental workspace is full.
+
+### Emotion
+
+Emotion talks about signal, intensity, regulation, and expression. It asks: what emotion is active, what does it indicate, and how should the system respond?
+
+#### Negative Emotion
+
+**Primary position:** Mind → Emotion → Negative Emotion
+
+Negative Emotion includes anxiety, fear, anger, sadness, shame, and guilt. It is not one thing; different emotions point to different information.
+
+It solves the problem of saying only "I feel bad." Anxiety may point to uncertainty; anger may point to boundary violation; sadness may point to loss.
+
+It can hold RU such as anxiety, fear, anger, sadness, shame, and guilt.
+
+**Common misplacement:** Negative Emotion is often misplaced under Body → Stress → Stress Response. The body response matters, but the emotional meaning still needs a Mind position.
+
+**Associated positions:** Body → Stress → Stress Response; Relationship → Conflict → Boundary Violation; Value → Risk → Perceived Risk.
+
+**Associated language:** feel, identify, regulate, express; mild, intense, overwhelming, mixed.
+
+**Use sentences:**
+
+- I am feeling anxiety about this decision.
+- This anger may signal that a boundary was crossed.
+- I need to identify the emotion before I act from it.
+
+#### Emotional Regulation
+
+**Primary position:** Mind → Emotion → Emotional Regulation
+
+Emotional Regulation is the ability to influence emotional response without denying the emotion. It holds RU such as cognitive reappraisal, acceptance, grounding, and suppression.
+
+**Common misreading:** Regulation is often confused with suppression. Suppression says "do not feel"; regulation asks "how should I respond to what I feel?"
+
+**Use sentence:** Emotional regulation is not about suppressing feelings.
+
+### Desire & Motivation
+
+Desire & Motivation talks about wanting, drive, resistance, and action energy. It asks: what is making action easier or harder to begin?
+
+#### Intrinsic Motivation
+
+**Primary position:** Mind → Desire & Motivation → Intrinsic Motivation
+
+Intrinsic Motivation is the drive that comes from the activity itself: curiosity, interest, autonomy, mastery, and meaningful challenge.
+
+It solves the problem of building every action around external reward. External reward may start behavior, but intrinsic motivation often sustains it.
+
+It can hold RU such as curiosity, interest, flow, autonomy, and mastery.
+
+**Common misplacement:** Intrinsic Motivation is often misplaced under Value → Purpose. Purpose matters, but intrinsic motivation describes the felt drive inside the activity.
+
+**Associated positions:** Work → Goal → Process Goal; Value → Purpose → Personal Purpose; Mind → Learning → Deliberate Practice.
+
+**Associated language:** find, cultivate, lose, sustain; strong, weak, authentic, externalized.
+
+**Use sentences:**
+
+- I need to find the intrinsic motivation for this task.
+- External rewards can weaken intrinsic motivation.
+- This activity becomes easier when curiosity is active.
+
+#### Goal-directed Desire
+
+**Primary position:** Mind → Desire & Motivation → Goal-directed Desire
+
+Goal-directed Desire is desire organized toward a specific target. It holds RU such as ambition, aspiration, drive, and target desire.
+
+**Common misreading:** Desire is often treated as noise. In this container, desire becomes useful when it is aligned with a goal.
+
+**Use sentence:** Desire without direction is just noise.
+
+### Cognition
+
+Cognition talks about model, inference, decision, problem, and bias. It asks: what thinking structure is producing this judgment?
+
+#### Mental Model
+
+**Primary position:** Mind → Cognition → Mental Model
+
+Mental Model is an internal representation of how something works. It is not the world itself; it is a simplified structure used to explain and predict.
+
+It solves the problem of mistaking understanding for reality. A model can be useful, outdated, too simple, or wrong.
+
+It can hold RU such as causal model, systems thinking, heuristic, and analogy.
+
+**Common misplacement:** Mental Model is often misplaced under Language → Concept → Definition. A definition names something; a mental model helps the reader simulate how it works.
+
+**Associated positions:** Language → Concept → Definition; Work → Method → Framework; Technology → System → System Model.
+
+**Associated language:** build, test, update, discard; accurate, outdated, simple, complex.
+
+**Use sentences:**
+
+- I need a better mental model for this situation.
+- My model may be too simple for this system.
+- A good mental model helps me predict outcomes.
+
+#### Cognitive Bias
+
+**Primary position:** Mind → Cognition → Cognitive Bias
+
+Cognitive Bias is a predictable distortion in judgment. It holds RU such as confirmation bias, sunk cost bias, availability heuristic, and anchoring.
+
+It solves the problem of treating a judgment as clean just because it feels reasonable. Bias does not usually feel like bias from the inside. It feels like "this is obvious."
+
+It can hold RU such as confirmation bias, sunk cost bias, availability heuristic, anchoring, and survivorship bias.
+
+**Common misreading:** Knowing about bias does not remove bias. It creates a pause before high-risk judgment.
+
+**Associated positions:** Value → Risk → Failure Risk; Work → Feedback → Error Feedback; Language → Argument → Claim.
+
+**Associated language:** recognize, check for, mitigate, fall for; subtle, strong, common, corrected.
+
+**Use sentences:**
+
+- I may be falling for confirmation bias here.
+- This judgment feels obvious, which is exactly why I should check for bias.
+- I need a pause before I trust this conclusion.
+
+### Learning
+
+Learning talks about practice, feedback, transfer, and change. It asks: is this activity changing what the reader can understand or do?
+
+#### Deliberate Practice
+
+**Primary position:** Mind → Learning → Deliberate Practice
+
+Deliberate Practice is targeted practice at the edge of ability with feedback and correction. It is not mere repetition.
+
+It solves the problem of confusing time spent with skill gain.
+
+It can hold RU such as feedback loop, skill drill, edge training, and error correction.
+
+**Common misplacement:** Deliberate Practice is often placed only under Work → Practice. It appears in Work as a doing structure, but its primary role here is learning design.
+
+**Associated positions:** Work → Practice → Skill Drill; Work → Feedback → Error Feedback; Value → Benefit → Skill Gain.
+
+**Associated language:** design, practice, correct, repeat; targeted, mindless, difficult, effective.
+
+**Use sentences:**
+
+- I need deliberate practice, not just repetition.
+- Deliberate practice requires immediate feedback.
+- This practice is too easy to produce skill gain.
+
+#### Feedback Utilization
+
+**Primary position:** Mind → Learning → Feedback Utilization
+
+Feedback Utilization is the ability to turn feedback into adjustment. It holds RU such as feedback loop, course correction, iteration, and performance review.
+
+**Common misreading:** Receiving feedback is not the same as using feedback. Learning happens when feedback changes the next action.
+
+**Use sentence:** The feedback is useful, but I need to act on it.
+
+### Self
+
+Self talks about observation, identity, narrative, and self-relation. It asks: what story about the self is shaping interpretation and action?
+
+#### Self-awareness
+
+**Primary position:** Mind → Self → Self-awareness
+
+Self-awareness is the ability to observe one's own state, pattern, trigger, and blind spot. It is the entry point for self-regulation.
+
+It solves the problem of trying to change a pattern that has not yet been noticed.
+
+It can hold RU such as meta-cognition, emotional awareness, pattern recognition, and blind spot.
+
+**Common misplacement:** Self-awareness is often misplaced under Value → Standard. The person evaluates the self before observing the self.
+
+**Associated positions:** Mind → Emotion → Emotional Regulation; Relationship → Boundary → Personal Boundary; Language → Narrative → Personal Narrative.
+
+**Associated language:** observe, notice, reflect, recognize; high, low, growing, blocked.
+
+**Use sentences:**
+
+- I need more self-awareness in this situation.
+- Self-awareness is the first step to self-regulation.
+- I should observe the pattern before judging myself.
+
+#### Self-narrative
+
+**Primary position:** Mind → Self → Self-narrative
+
+Self-narrative is the story a person tells about who they are and what their experience means. It holds RU such as identity story, personal myth, self-talk, and narrative identity.
+
+**Common misreading:** Self-narrative is often treated as truth. It may be a powerful story, but it is still a story that can be inspected.
+
+**Use sentence:** My self-narrative may be shaping what I think is possible.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch06-attention-residue-sim"></div>
+:::
+
+## Misplacement Patterns
+
+Mind concepts are often misplaced because inner events feel like facts, identity, or moral qualities.
+
+| Misplaced As | Better Placement | Why It Matters |
+|---|---|---|
+| "This is just the truth" | Mind → Perception → Framing | A frame can feel like reality. |
+| "I am bad at thinking" | Mind → Memory → Working Memory | Overload is not the same as low intelligence. |
+| "I am anxious, so the risk is real" | Mind → Emotion → Negative Emotion | Emotion carries information, but it is not the whole judgment. |
+| "I lack discipline" | Mind → Desire & Motivation → Intrinsic Motivation / Goal-directed Desire | Action failure may come from motivation design. |
+| "I understand it because I read it" | Mind → Learning → Feedback Utilization / Deliberate Practice | Input is not learning until it changes recall, use, or performance. |
+| "This is who I am" | Mind → Self → Self-narrative | A self-story can guide behavior without being fixed identity. |
+
+The point is not to distrust the mind. The point is also not to explain everything psychologically. The point is to know when an inner event is shaping interpretation or action.
+
+## Causal Chain
+
+Here is a common Mind chain:
+
+```text
+working memory overload
+→ unclear argument
+→ poor decision
+→ negative emotion
+→ limiting self-narrative
+→ avoidance
+
+（工作记忆过载 → 论证不清 → 决策变差 → 负向情绪 → 限制性自我叙事 → 回避）
+```
+
+The useful move is to place the first RU correctly. If the first RU is Working Memory overload, the system should not start with "I am not smart enough." It should start with offloading, outlining, reducing inputs, and slowing the decision.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="ch06-mind-appraisal-lab"></div>
+:::
+
+## Placement Practice
+
+Place each RU. Give a primary position, one associated position, and one use sentence.
+
+1. confirmation bias
+2. fragmented focus
+3. shame after feedback
+4. "I always fail" story
+5. rereading without recall
+
+Example:
+
+```text
+RU: fragmented focus
+Primary position: Mind → Attention → Focus
+Associated position: Technology → Tool → Notification
+Use sentence: My focus is fragmented because my environment keeps interrupting it.（我的专注被切割，因为环境一直在打断它。）
+```
+
+Possible placements:
+
+| RU | Primary Position | Associated Position | Use Sentence |
+|---|---|---|---|
+| confirmation bias | Mind → Cognition → Cognitive Bias | Value → Risk → Failure Risk | I may be looking only for evidence that confirms my first view. |
+| fragmented focus | Mind → Attention → Focus | Technology → Tool → Notification | My focus is fragmented because my environment keeps interrupting it. |
+| shame after feedback | Mind → Emotion → Negative Emotion | Work → Feedback → Error Feedback | The feedback is useful, but shame is making it hard to use. |
+| "I always fail" story | Mind → Self → Self-narrative | Language → Narrative → Personal Narrative | This self-narrative turns one failure into an identity. |
+| rereading without recall | Mind → Learning → Deliberate Practice | Language → Text → Study Notes | Rereading feels familiar, but recall shows whether I learned it. |
+
+## Chapter Output
+
+After this chapter, the reader should have a Mind language that can turn vague inner judgments into placed concepts:
+
+```text
+"My mind is messy"
+→ Working Memory / Focus / Negative Emotion / Mental Model / Self-narrative
+→ clearer interpretation and better next action
+```
+
+Mind is not the whole system. But it is where the system interprets itself. A misplaced mind concept can turn a temporary state into a false identity.

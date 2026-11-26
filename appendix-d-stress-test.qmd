@@ -1,0 +1,126 @@
+---
+title: "RU Tree Stress Test（RU 树压力测试）"
+---
+
+Use this appendix to test whether the tree can handle real pressure. A good tree should place common concepts, mixed problems, and ambiguous cases without collapsing into vague language.
+
+## Test 1: Theme Recognition
+
+Place each item under a primary Theme:
+
+| Item | Primary Theme |
+|---|---|
+| sleep debt | |
+| cognitive bias | |
+| definition | |
+| milestone | |
+| trust repair | |
+| labor market | |
+| data pipeline | |
+| sunk cost | |
+
+Check yourself:
+
+- sleep debt → Body
+- cognitive bias → Mind
+- definition → Language
+- milestone → Work
+- trust repair → Relationship
+- labor market → Society
+- data pipeline → Technology
+- sunk cost → Value
+
+## Test 2: Misplacement Detection
+
+For each sentence, name the likely misplacement.
+
+1. "I am lazy because I cannot focus after sleeping four hours."
+2. "The AI gave a fluent answer, so it must be true."
+3. "They apologized, so trust should be restored."
+4. "This job pays less, so I am worth less."
+5. "Everyone agrees, so the claim is evidence-based."
+
+Possible answers:
+
+1. Body signal misplaced as character flaw.
+2. Language fluency misplaced as evidence.
+3. Apology misplaced as completed trust repair.
+4. Market price misplaced as human value.
+5. Social proof misplaced as evidence.
+
+## Test 3: Causal Chain
+
+Choose one messy problem and write:
+
+```text
+Because ___,
+I experience ___,
+so I interpret it as ___,
+then I do ___,
+which produces ___.
+```
+
+Then place each part.
+
+Example:
+
+```text
+Because my project has no clear next action,
+I experience friction,
+so I interpret it as lack of discipline,
+then I avoid the project,
+which produces more shame.
+```
+
+Placement:
+
+- Work → Single Action Task.
+- Mind → Emotional Regulation.
+- Value → Standard / Meaning.
+
+## Test 4: Associated Positions
+
+Give three associated positions for each concept.
+
+| Concept | Primary Position | Associated Positions |
+|---|---|---|
+| prompt | Language → Instruction | |
+| burnout | Body → Stress / Energy | |
+| boundary | Relationship → Boundary | |
+| creator economy | Society → Platform Ecology | |
+| language model | Technology → AI Model | |
+
+This test checks whether the tree can connect without losing primary position.
+
+## Test 5: Use Sentence
+
+Write one usable sentence for each concept:
+
+- attention residue
+- emotional boundary
+- acceptance criteria
+- platform rule
+- compound return
+
+Good use sentences do not merely define the concept. They change judgment or action.
+
+Example:
+
+> Acceptance criteria tell me when work is complete; effort alone is not a completion standard.
+
+::: {.content-visible when-format="html"}
+<div data-ru-toy="appd-stress-test-arena"></div>
+:::
+
+## Passing Standard
+
+The tree passes the stress test when you can:
+
+- identify a primary Theme quickly;
+- name at least one Group or Container;
+- detect a common misplacement;
+- write one sentence that changes action or judgment;
+- add associated positions without making the concept vague.
+
+If the tree fails, do not add more concepts first. Strengthen the placement language.
+

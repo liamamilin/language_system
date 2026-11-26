@@ -1,0 +1,11 @@
+# References & Conceptual Lineage {.unnumbered}
+
+Although this book is written as a practical personal language manual rather than an academic treatise, several core containers in the RU Tree draw on well-established research across cognitive science, psychology, systems thinking, and linguistics:
+
+- **Body & Stress Regulation**: The *Window of Tolerance* container builds on interpersonal neurobiology [@siegel1999developing].
+- **Mind, Attention & Decision**: *Cognitive Load*, *Attention Residue*, and *Cognitive Bias* connect to foundational work on working-memory limits [@sweller1988cognitive], task-switching costs [@leroy2009attention], and dual-process judgment [@kahneman2011thinking].
+- **Language & Conceptual Framing**: Treating domain language as a structural lens echoes research on conceptual framing and metaphor [@lakoff1980metaphors].
+- **Work, Practice & Systems**: *Deliberate Practice*, *Feedback Loops*, and *Mediated Design* draw on skill acquisition [@ericsson1993deliberate], systems dynamics [@meadows2008thinking], and design science [@simon1996sciences].
+
+::: {#refs}
+:::

@@ -1,0 +1,25 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# R / RStudio / Quarto caches & outputs
+.Rhistory
+.RData
+.Rproj.user/
+.quarto/
+.texmf-cache/
+_book/
+_freeze/
+*.log
+*.aux
+*.toc
+*.out
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/

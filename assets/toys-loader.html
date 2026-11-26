@@ -1,0 +1,22 @@
+<script src="assets/toys/core.js"></script>
+<script src="assets/toys/part1.js"></script>
+<script src="assets/toys/part2.js"></script>
+<script src="assets/toys/part3.js"></script>
+<script src="assets/toys/part4.js"></script>
+<script src="assets/toys/part5.js"></script>
+<script src="assets/toys/part6.js"></script>
+<script src="assets/toys/appendices.js"></script>
+<script>
+  (function () {
+    function boot() {
+      if (window.RUToys && typeof window.RUToys.mountAll === 'function') {
+        window.RUToys.mountAll(document);
+      }
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', boot);
+    } else {
+      boot();
+    }
+  })();
+</script>

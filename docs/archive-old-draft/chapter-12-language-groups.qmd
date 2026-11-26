@@ -1,0 +1,190 @@
+---
+title: "第 12 章：Language 的核心 Group（Language Groups）"
+---
+
+## 本章要解决的问题
+
+第 11 章给了你 Language 的全景。现在逐一了解每个 Group：它覆盖什么？它为什么重要？它包含什么 Container？
+
+本章逐一介绍 Language 的 8 个 Group。
+
+## 1. Word & Phrase 词与短语
+
+Word & Phrase 是语言的基本构建块。你的命名精度决定了你的思考精度。
+
+覆盖：
+
+- **Term 术语**：精确命名一个概念的词。术语不是学究的专利，是高效沟通的工具。你想讨论"可指称单位"，一个 term 代替一段解释。
+- **Label 标签**：给事物贴的简短的分类名。不是术语，是用于快速导航的名称。
+- **Neologism 新词**：你为个人体系创造的新表达。本书中 RU 就是一个 neologism，通过明确定义成为可共享的术语。
+- **Jargon 行话**：特定领域内共享的术语。知识的关键路径之一就是掌握行话。
+
+核心认知：词汇量不是你认识的单词数，而是你能精确命名的概念数。
+
+关联 RU：vocabulary, naming, specialized term, common term, placeholder
+
+## 2. Sentence 句子
+
+Sentence 是承载判断的基本语言单位。一个句子可以是一个独立的意义单元。
+
+覆盖：
+
+- **Statement 判断句**：对一个事物做出判断的句子。"注意力残留是任务切换的主要成本。"
+- **Action Sentence 动作句**：描述或指导行动。"把大任务拆解成三个子任务。"
+- **Definition 定义**：对概念的精确说明。定义决定了你的思考边界。
+- **Classification Sentence 分类句**：将事物归类的句子。"睡眠属于 Body 之下的一个 Group。"
+
+核心认知：句子的核心功能不是表达完整语法，而是承载可检验的判断。
+
+关联 RU：assertion, claim, description, explanation, question clause
+
+## 3. Text 文本
+
+Text 是句子的有机组合，形成结构化的意义整体。
+
+覆盖：
+
+- **Article 文章**：有中心论点的结构文本。不是词句堆砌，是思想的线性展示。
+- **Note 笔记**：个人的、非结构化的文本记录。是思考和创造的中间产物。
+- **Document 文档**：正式的、有明确用途的结构化文本。设计方案、规范、报告。
+- **Dialogue 对话**：两人以上的交互文本。不是独白，是意义共建。
+
+核心认知：好的 Text 不是好句子的组合，是好的结构。
+
+关联 RU：outline, paragraph, section, heading, summary, reference
+
+## 4. Concept 概念
+
+Concept 是语言的中心。一个 Concept 是一个 RU 在语言层面的完整表达。
+
+覆盖：
+
+- **Core Definition 核心定义**：一个概念是什么。"RU 是 Referable Unit，可指称单位。"
+- **Concept Boundary 概念边界**：一个概念不包含什么。"RU 不是名词。"
+- **Concept Relation 概念关系**：概念之间的连接。"关注度的前提是注意力，注意力的前提是脑力。"
+- **Concept Hierarchy 概念层级**："RU 树包含 Theme → Group → Container → Leaf。"
+
+核心认知：你只能精确使用你定义了的概念。模糊的概念产生模糊的表达。
+
+关联 RU：abstract concept, concrete concept, concept map, concept hierarchy
+
+## 5. Question 问题
+
+Question 是推动理解的核心工具。好的问题比好的答案更有价值。
+
+覆盖：
+
+- **Diagnostic Question 诊断问题**："问题出在哪里？"——用于识别当前状态。
+- **Exploratory Question 探究问题**："如果……会怎样？"——用于扩展理解。
+- **Reflective Question 反思问题**："我刚才做了什么？为什么这么做？"——用于回顾和提升。
+- **Clarifying Question 澄清问题**："你所说的 'X' 具体指什么？"——用于消除模糊。
+- **Question Structure 问题结构**：问题本身可以结构化——一个好的问题包含前置条件、限定和期望答案类型。
+
+核心认知：你提的问题的质量决定你获得的信息的质量。AI 时代尤其如此——你给好问题，AI 给好答案。
+
+关联 RU：inquiry, hypothesis, interrogative, Socratic question, prompt question
+
+## 6. Argument 论证
+
+Argument 是理性沟通的单位。这里不指吵架，指"主张 + 支持"的结构。
+
+覆盖：
+
+- **Claim 主张**：你想证明的观点。
+- **Premise 前提**：支持主张的已知条件。
+- **Evidence 证据**：支持主张的事实或数据。
+- **Reasoning 推理**：前提如何推导出主张的逻辑路径。
+- **Counterargument 反论证**：对你主张的合理挑战。
+- **Fallacy 逻辑谬误**：论证中的常见错误。
+
+核心认知：Argument 不是攻击，是让判断可检验的工具。一个好的 Argument 可以被他人理解、检验和修正。
+
+关联 RU：logic, deduction, induction, syllogism, critique
+
+## 7. Narrative 叙事
+
+Narrative 是人类理解世界的基本方式。故事比罗列数据更容易被记住和理解。
+
+覆盖：
+
+- **Personal Narrative 个人叙事**：你对自己经历的讲述方式。"我的职业生涯是这样的……"
+- **Case Story 案例**：具体的人或事的故事，用于说明一般规律。
+- **Frame 框架**：叙事中隐含的价值假设。"创业故事"和"失败案例"是对同一件事的不同叙事框架。
+- **Archetype 原型**：反复出现在叙事中的角色模式。
+- **Anecdote 轶事**：短小的、有重点的故事，通常用于证明一个点。
+
+核心认知：叙事不是非虚构的敌人。好的叙事是"用具体让人理解抽象"的工具。
+
+关联 RU：story, plot, character, voice, tone, metaphor
+
+## 8. Instruction 指令
+
+Instruction 是让行动发生的语言。它的衡量标准不是文采，是清晰和可执行。
+
+覆盖：
+
+- **Command 命令**：直接的行动要求。"关闭所有通知。"
+- **Guideline 指引**：行为的指导原则，不是具体命令。"不要在疲劳时做重要决定。"
+- **Process Description 流程说明**：按步骤描述的做事流程。
+- **Prompt 提示词**：向 AI 或他人发出的指令。Prompt 质量决定了回应质量。
+- **Template 模板**：可重复使用的指令结构。
+
+核心认知：Instruction 的设计目标不是表达完整，是让接收者能精确执行。尤其在与 AI 交互时，模糊的指令产生模糊的输出。
+
+关联 RU：prompt engineering, command, procedure, recipe, specification
+
+## Language 的常见语言用法
+
+Language 的 RU 本身就是语言单位。每个 Group 的核心调用方式：
+
+- Word & Phrase: define a term / use a label / name a concept
+- Sentence: make a statement / form a definition / classify
+- Text: write an article / structure a document / outline
+- Concept: define / distinguish / connect / apply
+- Question: diagnose / explore / clarify / challenge
+- Argument: claim / support / counter / conclude
+- Narrative: tell / frame / reframe / share
+- Instruction: command / prompt / guide / specify
+
+## Language 与其他 Theme 的连接示例
+
+Language 是概念接口，与其他 Theme 有深度连接：
+
+**场景 1：Language → Mind**
+你无法精确 define 一个 Concept → 你的思考也模糊 → Cognition 质量下降。
+这个链条说明：语言精度决定思考精度。
+
+**场景 2：Language → Work**
+你的 Instruction 模糊 → 同事或 AI 无法精确执行 → Task 结果不符合预期。
+这个链条说明：语言质量直接影响做事结果。
+
+**场景 3：Language → Relationship**
+你无法用语言 set a Boundary → 对方不知道你的底线 → Conflict 升级。
+这个链条说明：语言能力影响关系质量。
+
+**场景 4：Language → Technology**
+你的 Prompt 质量差 → AI 输出不符合预期 → 无法有效利用 Technology。
+这个链条说明：在大模型时代，语言能力就是技术能力。
+
+**场景 5：Language → Society**
+你的 Argument 能力弱 → 无法有效 Persuasion → 在社会中的 Influence 受限。
+这个链条说明：语言能力影响社会位置。
+
+## 本章产物
+
+Language Group 速查表：
+
+| Group | 核心关注 | 关键 Container | 服务增益 |
+|-------|---------|---------------|----------|
+| Word & Phrase | 精准命名 | Term, Label | 表达 |
+| Sentence | 承载判断 | Statement, Definition | 表达、理解 |
+| Text | 结构写作 | Article, Document | 表达、创造 |
+| Concept | 概念定义与关系 | Core Definition, Concept Hierarchy | 理解 |
+| Question | 提问质量 | Diagnostic Question, Exploratory Question | 理解 |
+| Argument | 理性沟通 | Claim, Evidence | 判断、表达 |
+| Narrative | 故事与框架 | Personal Narrative, Frame | 理解、表达 |
+| Instruction | 可执行指令 | Prompt, Command | 行动 |
+
+## 小结
+
+Language 的 8 个 Group 覆盖了你与外部世界交互的主要方式。第 13 章为每个 Group 提供 Container 示例和概念安置卡。
