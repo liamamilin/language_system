@@ -35,7 +35,7 @@ An RU is not always a noun. It may look like a phrase, process, role, pattern, o
 
 ## Five Tests
 
-### 1. Can It Be Pointed To?
+### Can It Be Pointed To?
 
 The reader should be able to say, "This is the thing I am talking about."
 
@@ -43,25 +43,25 @@ Weak: "better."
 
 Stronger: "quality standard（质量标准）."
 
-### 2. Can It Be Classified?
+### Can It Be Classified?
 
 The unit should be placeable inside a Theme, Group, and Container.
 
 Example: "quality standard" belongs first to Value → Standard.
 
-### 3. Can It Hold Examples?
+### Can It Hold Examples?
 
 A good RU often gathers repeated cases.
 
 Example: "boundary" can hold time boundary, emotional boundary, body boundary, information boundary, and responsibility boundary.
 
-### 4. Can It Connect?
+### Can It Connect?
 
 An RU should connect to other positions.
 
 Example: "prompt" belongs first to Language, but connects to Technology, Work, and Value.
 
-### 5. Does It Serve Subject Gain?
+### Does It Serve Subject Gain?
 
 If the unit does not help understanding, judgment, action, regulation, expression, creation, or growth, it may not need stable placement.
 

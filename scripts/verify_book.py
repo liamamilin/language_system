@@ -37,6 +37,8 @@ def check_quarto_config() -> None:
             fail(f"_quarto.yml missing key: {key}")
         elif not (ROOT / m.group(1)).exists():
             fail(f"_quarto.yml {key} points to missing file: {m.group(1)}")
+    if "assets/toys/**" not in cfg:
+        fail("_quarto.yml must declare 'assets/toys/**' under project.resources so Quarto copies interactive JS to _book/")
 
 
 def check_titles_and_diagrams() -> None:

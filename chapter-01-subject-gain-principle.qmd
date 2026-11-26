@@ -22,43 +22,43 @@ The RU Tree must stay selective. A concept should enter the core tree because it
 
 ## Seven Kinds of Gain
 
-### 1. Clearer Understanding
+### Clearer Understanding
 
 A concept gives clearer understanding when it helps the reader distinguish what was previously vague.
 
 Example: "attention residue（注意力残留）" helps separate ordinary tiredness from the cost of task switching.
 
-### 2. Better Judgment
+### Better Judgment
 
 A concept improves judgment when it changes evaluation.
 
 Example: "opportunity cost（机会成本）" helps the reader judge a choice by what it prevents, not only by what it offers.
 
-### 3. More Effective Action
+### More Effective Action
 
 A concept supports action when it points to a next move.
 
 Example: "single action task（单一行动任务）" helps turn a vague project into one executable step.
 
-### 4. More Stable State
+### More Stable State
 
 A concept supports regulation when it helps the reader notice, name, and adjust body or mind conditions.
 
 Example: "window of tolerance（耐受窗口）" helps explain why some states cannot be solved by willpower alone.
 
-### 5. Stronger Expression
+### Stronger Expression
 
 A concept improves expression when it helps thought become sayable.
 
 Example: "claim（主张）" helps separate an opinion from evidence, support, and counterargument.
 
-### 6. More Continuous Creation
+### More Continuous Creation
 
 A concept supports creation when it helps ideas move into artifacts, drafts, systems, or repeated practice.
 
 Example: "feedback loop（反馈回路）" helps creation become iterative rather than dramatic.
 
-### 7. Wider Long-Term Capacity
+### Wider Long-Term Capacity
 
 A concept increases capacity when it enlarges what the person can learn, notice, connect, and sustain.
 
@@ -87,7 +87,7 @@ Before placing a concept, ask:
 3. Does it help me act, speak, or judge differently?
 4. Will I likely need to call it again?
 
-If the answer is no, keep the concept as temporary knowledge. It does not need a stable Container yet.
+If most answers are yes (3–4), place the concept in the core tree; if only 1–2 apply, hold it on a temporary shelf; if none apply, leave it as external knowledge.
 
 ::: {.content-visible when-format="html"}
 <div data-ru-toy="ch01-gain-filter"></div>

@@ -1,6 +1,9 @@
 project:
   type: book
   output-dir: _book
+  resources:
+    - "assets/toys/**"
+    - "assets/diagrams/**"
 
 book:
   title: "Concepts Need a Place"

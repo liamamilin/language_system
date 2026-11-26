@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 310" width="920" height="310" role="img" aria-label="Subject Gain Filter: Core Tree vs Temporary vs External Knowledge">
-  <rect width="920" height="310" rx="14" fill="#ffffff"/>
-  <text x="460" y="36" text-anchor="middle" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'PingFang SC', sans-serif" font-size="19" font-weight="700">Subject Gain Filter（主体增益过滤漏斗）</text>
-  <text x="460" y="58" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12.5">Prevent the RU Tree from turning into a warehouse — place only concepts that raise usable capacity</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 350" width="960" height="350" role="img" aria-label="Subject Gain Filter: Core Tree vs Temporary vs External Knowledge">
+  <rect width="960" height="350" rx="14" fill="#ffffff"/>
+  <text x="480" y="34" text-anchor="middle" fill="#0f172a" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'PingFang SC', sans-serif" font-size="19" font-weight="700">Subject Gain Filter（主体增益过滤漏斗）</text>
+  <text x="480" y="56" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12.5">Prevent the RU Tree from turning into a warehouse — place only concepts that raise usable capacity</text>
 
   <defs>
     <marker id="arrF" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
@@ -10,43 +10,46 @@
   </defs>
 
   <!-- Incoming Stream -->
-  <rect x="28" y="100" width="184" height="140" rx="12" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.6"/>
-  <text x="120" y="128" text-anchor="middle" fill="#334155" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700">Incoming Concepts</text>
-  <text x="120" y="154" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">Books · Papers · AI</text>
-  <text x="120" y="176" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">Buzzwords · Frameworks</text>
-  <text x="120" y="198" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">Daily Frictions</text>
-  <text x="120" y="224" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="11">High volume, unplaced</text>
+  <rect x="24" y="88" width="184" height="176" rx="12" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.6"/>
+  <text x="116" y="118" text-anchor="middle" fill="#334155" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700">Incoming Concepts</text>
+  <text x="116" y="148" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">Books · Papers · AI</text>
+  <text x="116" y="172" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">Buzzwords · Frameworks</text>
+  <text x="116" y="196" text-anchor="middle" fill="#64748b" font-family="-apple-system, sans-serif" font-size="12">Daily Frictions</text>
+  <text x="116" y="236" text-anchor="middle" fill="#94a3b8" font-family="-apple-system, sans-serif" font-size="11">High volume, unplaced</text>
 
-  <line x1="212" y1="170" x2="254" y2="170" stroke="#475569" stroke-width="2" marker-end="url(#arrF)"/>
+  <line x1="208" y1="176" x2="246" y2="176" stroke="#475569" stroke-width="2" marker-end="url(#arrF)"/>
 
   <!-- 4-Question Filter Gate -->
-  <rect x="260" y="84" width="280" height="172" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
-  <text x="400" y="110" text-anchor="middle" fill="#0369a1" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700">4 Screening Questions（四问筛查）</text>
+  <rect x="252" y="88" width="296" height="176" rx="12" fill="#f0f9ff" stroke="#0284c7" stroke-width="2"/>
+  <text x="400" y="116" text-anchor="middle" fill="#0369a1" font-family="-apple-system, sans-serif" font-size="13.5" font-weight="700">4 Screening Questions（四问筛查）</text>
   <g font-family="-apple-system, sans-serif" font-size="12" fill="#1e293b">
-    <text x="280" y="138">1. Clarifies a repeated problem?</text>
-    <text x="280" y="164">2. Makes a sharper distinction?</text>
-    <text x="280" y="190">3. Changes action, speech, or judgment?</text>
-    <text x="280" y="216">4. Likely to be called again?</text>
+    <text x="272" y="146">1. Clarifies a repeated problem?</text>
+    <text x="272" y="174">2. Makes a sharper distinction?</text>
+    <text x="272" y="202">3. Changes action, speech, or judgment?</text>
+    <text x="272" y="230">4. Likely to be called again soon?</text>
   </g>
-  <text x="400" y="242" text-anchor="middle" fill="#0284c7" font-family="-apple-system, sans-serif" font-size="11.5" font-weight="600">7 Gains: Understand · Judge · Act · Regulate · Express · Create · Grow</text>
 
   <!-- 3 Routing Arrows -->
-  <path d="M 540 124 L 606 106" fill="none" stroke="#059669" stroke-width="2" marker-end="url(#arrF)"/>
-  <path d="M 540 170 L 606 170" fill="none" stroke="#d97706" stroke-width="2" marker-end="url(#arrF)"/>
-  <path d="M 540 216 L 606 236" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrF)"/>
+  <path d="M 548 128 L 606 112" fill="none" stroke="#059669" stroke-width="2" marker-end="url(#arrF)"/>
+  <path d="M 548 176 L 606 176" fill="none" stroke="#d97706" stroke-width="2" marker-end="url(#arrF)"/>
+  <path d="M 548 224 L 606 240" fill="none" stroke="#64748b" stroke-width="2" marker-end="url(#arrF)"/>
 
   <!-- Output 1: Core Tree -->
-  <rect x="614" y="78" width="278" height="56" rx="10" fill="#ecfdf5" stroke="#059669" stroke-width="1.8"/>
-  <text x="632" y="102" fill="#047857" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Core RU Tree（核心系统 · 3–4 Yes）</text>
-  <text x="632" y="122" fill="#334155" font-family="-apple-system, sans-serif" font-size="11.5">Assign Container + Placement Card + Use Sentence</text>
+  <rect x="614" y="82" width="322" height="56" rx="10" fill="#ecfdf5" stroke="#059669" stroke-width="1.8"/>
+  <text x="632" y="106" fill="#047857" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Core RU Tree（核心系统 · 3–4 Yes）</text>
+  <text x="632" y="126" fill="#334155" font-family="-apple-system, sans-serif" font-size="11.5">Assign Container + Card + Use Sentence</text>
 
   <!-- Output 2: Temporary -->
-  <rect x="614" y="144" width="278" height="56" rx="10" fill="#fffbeb" stroke="#d97706" stroke-width="1.6"/>
-  <text x="632" y="168" fill="#b45309" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Temporary Shelf（暂存观察 · 1–2 Yes）</text>
-  <text x="632" y="188" fill="#334155" font-family="-apple-system, sans-serif" font-size="11.5">Keep note; promote only if called repeatedly</text>
+  <rect x="614" y="148" width="322" height="56" rx="10" fill="#fffbeb" stroke="#d97706" stroke-width="1.6"/>
+  <text x="632" y="172" fill="#b45309" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">Temporary Shelf（暂存观察 · 1–2 Yes）</text>
+  <text x="632" y="192" fill="#334155" font-family="-apple-system, sans-serif" font-size="11.5">Keep light note; promote if called repeatedly</text>
 
   <!-- Output 3: External -->
-  <rect x="614" y="210" width="278" height="56" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
-  <text x="632" y="234" fill="#475569" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">External Knowledge（外部知识 · 0 Yes）</text>
-  <text x="632" y="254" fill="#64748b" font-family="-apple-system, sans-serif" font-size="11.5">Look up on demand; keep out of core tree</text>
+  <rect x="614" y="214" width="322" height="56" rx="10" fill="#f8fafc" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="632" y="238" fill="#475569" font-family="-apple-system, sans-serif" font-size="13" font-weight="700">External Knowledge（外部知识 · 0 Yes）</text>
+  <text x="632" y="258" fill="#64748b" font-family="-apple-system, sans-serif" font-size="11.5">Look up on demand; keep out of core tree</text>
+
+  <!-- Bottom 7 Gains Banner -->
+  <rect x="24" y="290" width="912" height="40" rx="10" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="480" y="315" text-anchor="middle" fill="#0369a1" font-family="-apple-system, sans-serif" font-size="12.5" font-weight="600">Seven Kinds of Gain: Understand · Judge · Act · Regulate · Express · Create · Grow</text>
 </svg>
